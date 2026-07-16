@@ -286,7 +286,7 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [],
     "question": {
       "hi": "क्षेत्रीय ग्रामीण बैंकों (Regional Rural Banks) की पूंजी संरचना के संदर्भ में कौन सा विकल्प सही है?",
       "en": "Which option is correct regarding the capital structure of Regional Rural Banks (RRBs)?"
@@ -494,7 +494,7 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [],
     "question": {
       "hi": "NPA प्रबंधन के लिए सरकार द्वारा अपनाई गई '4R' रणनीति में कौन से चरण शामिल हैं?",
       "en": "Which stages are included in the '4R' strategy adopted by the government for NPA management?"
