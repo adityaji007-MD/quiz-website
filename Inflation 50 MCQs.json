@@ -6,10 +6,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह स्थिति आयातित मुद्रास्फीति (Imported Inflation) को जन्म दे सकती है।",
+        "en": "This situation can give rise to Imported Inflation."
+      },
+      {
+        "id": 2,
+        "hi": "WPI पर प्रभाव पड़ने की संभावना CPI की तुलना में अधिक हो सकती है क्योंकि ऊर्जा अनेक उद्योगों की लागत को प्रभावित करती है।",
+        "en": "The impact on WPI is likely to be higher compared to CPI because energy affects the cost of many industries."
+      },
+      {
+        "id": 3,
+        "hi": "खाद्य मुद्रास्फीति में वृद्धि होना निश्चित है।",
+        "en": "An increase in food inflation is certain."
+      }
+    ],
     "question": {
-      "hi": "(Case Study) भारत में एक वर्ष के दौरान निम्न घटनाएँ घटित होती हैं: वैश्विक कच्चे तेल की कीमतों में 40% वृद्धि होती है। रुपये का अमेरिकी डॉलर के मुकाबले अवमूल्यन हो जाता है। सरकार सार्वजनिक परिवहन किरायों में वृद्धि की अनुमति देती है। खाद्यान्न उत्पादन सामान्य बना रहता है। उपरोक्त परिस्थितियों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह स्थिति आयातित मुद्रास्फीति (Imported Inflation) को जन्म दे सकती है।\n2. WPI पर प्रभाव पड़ने की संभावना CPI की तुलना में अधिक हो सकती है क्योंकि ऊर्जा अनेक उद्योगों की लागत को प्रभावित करती है。\n3. खाद्य मुद्रास्फीति में वृद्धि होना निश्चित है।\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
-      "en": "(Case Study) During a year in India, the following events occur: Global crude oil prices increase by 40%. The Rupee depreciates against the US Dollar. The government allows an increase in public transport fares. Food grain production remains normal. With reference to the above circumstances, consider the following statements:\n1. This situation can give rise to Imported Inflation.\n2. The impact on WPI is likely to be higher compared to CPI because energy affects the cost of many industries.\n3. An increase in food inflation is certain.\nSelect the correct answer using the code given below:"
+      "hi": "(Case Study) भारत में एक वर्ष के दौरान निम्न घटनाएँ घटित होती हैं: वैश्विक कच्चे तेल की कीमतों में 40% वृद्धि होती है। रुपये का अमेरिकी डॉलर के मुकाबले अवमूल्यन हो जाता है। सरकार सार्वजनिक परिवहन किरायों में वृद्धि की अनुमति देती है। खाद्यान्न उत्पादन सामान्य बना रहता है। उपरोक्त परिस्थितियों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
+      "en": "(Case Study) During a year in India, the following events occur: Global crude oil prices increase by 40%. The Rupee depreciates against the US Dollar. The government allows an increase in public transport fares. Food grain production remains normal. With reference to the above circumstances, consider the following statements:\nSelect the correct answer using the code given below:"
     },
     "options": [
       {
@@ -46,10 +62,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गेहूँ के सस्ता होने से प्रतिस्थापन प्रभाव गेहूँ की मांग बढ़ाने की दिशा में कार्य करेगा।",
+        "en": "Due to wheat becoming cheaper, the substitution effect will work towards increasing the demand for wheat."
+      },
+      {
+        "id": 2,
+        "hi": "यदि गेहूँ सामान्य वस्तु है तो आय प्रभाव भी मांग बढ़ाने की दिशा में कार्य करेगा।",
+        "en": "If wheat is a normal good, the income effect will also work towards increasing demand."
+      },
+      {
+        "id": 3,
+        "hi": "यदि गेहूँ गिफेन (Giffen) वस्तु है तो कुल मांग में वृद्धि होना आवश्यक नहीं है।",
+        "en": "If wheat is a Giffen good, it is not necessary that the total demand will increase."
+      }
+    ],
     "question": {
-      "hi": "(Income Effect-Substitution Effect) एक निम्न मध्यम आय वर्गीय परिवार अपने मासिक उपभोग का बड़ा भाग गेहूँ पर व्यय करता है। मान लीजिए कि गेहूँ के मूल्य में उल्लेखनीय कमी आती है तथा परिवार की मौद्रिक आय अपरिवर्तित रहती है। इस परिस्थिति में निम्नलिखित कथनों पर विचार कीजिए:\n1. गेहूँ के सस्ता होने से प्रतिस्थापन प्रभाव गेहूँ की मांग बढ़ाने की दिशा में कार्य करेगा।\n2. यदि गेहूँ सामान्य वस्तु है तो आय प्रभाव भी मांग बढ़ाने की दिशा में कार्य करेगा।\n3. यदि गेहूँ गिफेन (Giffen) वस्तु है तो कुल मांग में वृद्धि होना आवश्यक नहीं है।\nसही उत्तर चुनिए:",
-      "en": "(Income Effect-Substitution Effect) A lower-middle-income family spends a large part of its monthly consumption on wheat. Suppose there is a significant drop in the price of wheat and the family's monetary income remains unchanged. Consider the following statements in this context:\n1. Due to wheat becoming cheaper, the substitution effect will work towards increasing the demand for wheat.\n2. If wheat is a normal good, the income effect will also work towards increasing demand.\n3. If wheat is a Giffen good, it is not necessary that the total demand will increase.\nSelect the correct answer:"
+      "hi": "(Income Effect-Substitution Effect) एक निम्न मध्यम आय वर्गीय परिवार अपने मासिक उपभोग का बड़ा भाग गेहूँ पर व्यय करता है। मान लीजिए कि गेहूँ के मूल्य में उल्लेखनीय कमी आती है तथा परिवार की मौद्रिक आय अपरिवर्तित रहती है। इस परिस्थिति में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Income Effect-Substitution Effect) A lower-middle-income family spends a large part of its monthly consumption on wheat. Suppose there is a significant drop in the price of wheat and the family's monetary income remains unchanged. Consider the following statements in this context:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -86,10 +118,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उत्पादक स्तर पर कीमतों में गिरावट हो सकती है जबकि खुदरा स्तर पर कीमतें अभी भी बढ़ रही हों।",
+        "en": "Prices at the producer level might be falling while prices at the retail level are still rising."
+      },
+      {
+        "id": 2,
+        "hi": "सेवाओं की कीमतों में वृद्धि CPI को ऊँचा बनाए रख सकती है।",
+        "en": "An increase in the prices of services can keep CPI high."
+      },
+      {
+        "id": 3,
+        "hi": "यह निष्कर्ष निकालना उचित होगा कि अर्थव्यवस्था में अपस्फीति (Deflation) आ चुकी है।",
+        "en": "It would be appropriate to conclude that deflation has arrived in the economy."
+      }
+    ],
     "question": {
-      "hi": "(CPI-WPI Comparison) माना कि किसी वर्ष में थोक मूल्य सूचकांक (WPI) आधारित मुद्रास्फीति लगातार तीन माह तक नकारात्मक रहती है, जबकि उसी अवधि में CPI आधारित मुद्रास्फीति 5% के आसपास बनी रहती है। इस स्थिति के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. उत्पादक स्तर पर कीमतों में गिरावट हो सकती है जबकि खुदरा स्तर पर कीमतें अभी भी बढ़ रही हों।\n2. सेवाओं की कीमतों में वृद्धि CPI को ऊँचा बनाए रख सकती है।\n3. यह निष्कर्ष निकालना उचित होगा कि अर्थव्यवस्था में अपस्फीति (Deflation) आ चुकी है।\nसही उत्तर चुनिए:",
-      "en": "(CPI-WPI Comparison) Suppose in a year, the Wholesale Price Index (WPI) based inflation remains negative for three consecutive months, while the CPI based inflation remains around 5% during the same period. Consider the following statements regarding this situation:\n1. Prices at the producer level might be falling while prices at the retail level are still rising.\n2. An increase in the prices of services can keep CPI high.\n3. It would be appropriate to conclude that deflation has arrived in the economy.\nSelect the correct answer:"
+      "hi": "(CPI-WPI Comparison) माना कि किसी वर्ष में थोक मूल्य सूचकांक (WPI) आधारित मुद्रास्फीति लगातार तीन माह तक नकारात्मक रहती है, जबकि उसी अवधि में CPI आधारित मुद्रास्फीति 5% के आसपास बनी रहती है। इस स्थिति के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(CPI-WPI Comparison) Suppose in a year, the Wholesale Price Index (WPI) based inflation remains negative for three consecutive months, while the CPI based inflation remains around 5% during the same period. Consider the following statements regarding this situation:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -126,10 +174,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "Core Inflation का उपयोग अस्थिर मूल्य घटकों के प्रभाव को हटाने के लिए किया जाता है।",
+        "en": "Core Inflation is used to remove the impact of volatile price components."
+      },
+      {
+        "id": 2,
+        "hi": "Core Inflation में खाद्य एवं ईंधन दोनों को सामान्यतः बाहर रखा जाता है।",
+        "en": "Both food and fuel are generally excluded from Core Inflation."
+      },
+      {
+        "id": 3,
+        "hi": "यदि Headline Inflation घट रही हो तो Core Inflation का भी घटना आवश्यक है।",
+        "en": "If Headline Inflation is decreasing, it is necessary that Core Inflation also decreases."
+      }
+    ],
     "question": {
-      "hi": "(Core Inflation) एक अर्थव्यवस्था में खाद्य एवं ईंधन कीमतों में अत्यधिक उतार-चढ़ाव देखा जा रहा है। नीति-निर्माता दीर्घकालिक मुद्रास्फीतिकीय प्रवृत्तियों को समझना चाहते हैं। इस संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. Core Inflation का उपयोग अस्थिर मूल्य घटकों के प्रभाव को हटाने के लिए किया जाता है।\n2. Core Inflation में खाद्य एवं ईंधन दोनों को सामान्यतः बाहर रखा जाता है।\n3. यदि Headline Inflation घट रही हो तो Core Inflation का भी घटना आवश्यक है।\nसही उत्तर चुनिए:",
-      "en": "(Core Inflation) Extreme volatility in food and fuel prices is being observed in an economy. Policymakers want to understand long-term inflationary trends. Consider the following statements in this context:\n1. Core Inflation is used to remove the impact of volatile price components.\n2. Both food and fuel are generally excluded from Core Inflation.\n3. If Headline Inflation is decreasing, it is necessary that Core Inflation also decreases.\nSelect the correct answer:"
+      "hi": "(Core Inflation) एक अर्थव्यवस्था में खाद्य एवं ईंधन कीमतों में अत्यधिक उतार-चढ़ाव देखा जा रहा है। नीति-निर्माता दीर्घकालिक मुद्रास्फीतिकीय प्रवृत्तियों को समझना चाहते हैं। इस संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Core Inflation) Extreme volatility in food and fuel prices is being observed in an economy. Policymakers want to understand long-term inflationary trends. Consider the following statements in this context:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -166,10 +230,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "CPI सामान्य उपभोक्ता द्वारा वहन की जाने वाली जीवन-यापन लागत में परिवर्तन को WPI की तुलना में बेहतर दर्शाता है।",
+        "en": "CPI reflects changes in the cost of living borne by a common consumer better than WPI."
+      },
+      {
+        "id": 2,
+        "hi": "WPI में सेवाएँ शामिल नहीं होतीं जबकि CPI में अनेक सेवाएँ सम्मिलित होती हैं।",
+        "en": "WPI does not include services, whereas CPI includes many services."
+      },
+      {
+        "id": 3,
+        "hi": "GDP Deflator आयातित वस्तुओं के मूल्य परिवर्तन को भी उसी प्रकार सम्मिलित करता है जिस प्रकार CPI करता है।",
+        "en": "GDP Deflator incorporates price changes of imported goods in the same way as CPI does."
+      }
+    ],
     "question": {
-      "hi": "(UPSC Advanced Statement) निम्नलिखित कथनों पर विचार कीजिए:\n1. CPI सामान्य उपभोक्ता द्वारा वहन की जाने वाली जीवन-यापन लागत में परिवर्तन को WPI की तुलना में बेहतर दर्शाता है।\n2. WPI में सेवाएँ शामिल नहीं होतीं जबकि CPI में अनेक सेवाएँ सम्मिलित होती हैं।\n3. GDP Deflator आयातित वस्तुओं के मूल्य परिवर्तन को भी उसी प्रकार सम्मिलित करता है जिस प्रकार CPI करता है।\nसही उत्तर चुनिए:",
-      "en": "(UPSC Advanced Statement) Consider the following statements:\n1. CPI reflects changes in the cost of living borne by a common consumer better than WPI.\n2. WPI does not include services, whereas CPI includes many services.\n3. GDP Deflator incorporates price changes of imported goods in the same way as CPI does.\nSelect the correct answer:"
+      "hi": "(UPSC Advanced Statement) निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(UPSC Advanced Statement) Consider the following statements:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -206,10 +286,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उपभोक्ता मूल्य सूचकांक (CPI) उपभोक्ता द्वारा खरीदी जाने वाली वस्तुओं एवं सेवाओं की कीमतों में परिवर्तन को मापता।",
+        "en": "The Consumer Price Index (CPI) measures changes in the prices of goods and services purchased by consumers."
+      },
+      {
+        "id": 2,
+        "hi": "थोक मूल्य सूचकांक (WPI) में सेवाएँ शामिल नहीं होती हैं।",
+        "en": "The Wholesale Price Index (WPI) does not include services."
+      },
+      {
+        "id": 3,
+        "hi": "RBI का मुद्रास्फीति लक्ष्यीकरण ढाँचा WPI आधारित मुद्रास्फीति पर आधारित है।",
+        "en": "RBI's inflation targeting framework is based on WPI-based inflation."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. उपभोक्ता मूल्य सूचकांक (CPI) उपभोक्ता द्वारा खरीदी जाने वाली वस्तुओं एवं सेवाओं की कीमतों में परिवर्तन को मापता है।\n2. थोक मूल्य सूचकांक (WPI) में सेवाएँ शामिल नहीं होती हैं।\n3. RBI का मुद्रास्फीति लक्ष्यीकरण ढाँचा WPI आधारित मुद्रास्फीति पर आधारित है।\nउपर्युक्त में से कौन-सा/से कथन सही है / हैं?",
-      "en": "Consider the following statements:\n1. The Consumer Price Index (CPI) measures changes in the prices of goods and services purchased by consumers.\n2. The Wholesale Price Index (WPI) does not include services.\n3. RBI's inflation targeting framework is based on WPI-based inflation.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपर्युक्त में से कौन-सा/से कथन सही है / हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -246,10 +342,26 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "WPI मुख्यतः उत्पादक / थोक स्तर पर मूल्य परिवर्तन को दर्शाता है।",
+        "en": "WPI mainly reflects price changes at the producer/wholesale level."
+      },
+      {
+        "id": 2,
+        "hi": "CPI में आवास, स्वास्थ्य एवं शिक्षा जैसी सेवाओं का भी भार होता है।",
+        "en": "CPI also has weightage for services like housing, health, and education."
+      },
+      {
+        "id": 3,
+        "hi": "यदि सेवाओं की कीमतों में तीव्र वृद्धि हो, तो उसका प्रभाव CPI में दिखाई दे सकता है जबकि WPI में नहीं।",
+        "en": "If there is a sharp increase in the prices of services, its impact can be seen in CPI but not in WPI."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. WPI मुख्यतः उत्पादक / थोक स्तर पर मूल्य परिवर्तन को दर्शाता है।\n2. CPI में आवास, स्वास्थ्य एवं शिक्षा जैसी सेवाओं का भी भार होता है।\n3. यदि सेवाओं की कीमतों में तीव्र वृद्धि हो, तो उसका प्रभाव CPI में दिखाई दे सकता है जबकि WPI में नहीं।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. WPI mainly reflects price changes at the producer/wholesale level.\n2. CPI also has weightage for services like housing, health, and education.\n3. If there is a sharp increase in the prices of services, its impact can be seen in CPI but not in WPI.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -315,7 +427,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "CPI और WPI दोनों प्रभावित होंगे। कच्चे तेल और परिवहन लागत के बढ़ने से फैक्ट्रियों में सामान बनाने की लागत बढ़ जाएगी, जिससे WPI बढ़ेगा। जब वही महंगा माल और महंगा परिवहन (बस/ऑटो का किराया) खुदरा बाजार में उपभोक्ता तक पहुंचेगा, तो CPI भी बढ़ जाएगा।",
+      "hi": "CPI और WPI উভয় प्रभावित होंगे। कच्चे तेल और परिवहन लागत के बढ़ने से फैक्ट्रियों में सामान बनाने की लागत बढ़ जाएगी, जिससे WPI बढ़ेगा। जब वही महंगा माल और महंगा परिवहन (बस/ऑटो का किराया) खुदरा बाजार में उपभोक्ता तक पहुंचेगा, तो CPI भी बढ़ जाएगा।",
       "en": "Both CPI and WPI will be affected. Higher crude oil prices and currency depreciation will hike the manufacturing and raw material costs, directly spiking the WPI. When these increased transport and production costs are passed down to retail goods and public transport, the CPI will also spike."
     }
   },
@@ -326,10 +438,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि किसी वस्तु की कीमत में 10% वृद्धि होने पर उसकी मांग 20% घट जाती है, तो मांग की मूल्य लोच (Price Elasticity of Demand) का परिमाण 2 होगा।",
+        "en": "If a 10% increase in the price of a good leads to a 20% decrease in its demand, the magnitude of the Price Elasticity of Demand will be 2."
+      },
+      {
+        "id": 2,
+        "hi": "मूल्य लोच का ऋणात्मक चिह्न सामान्यतः मूल्य और मांग के बीच विपरीत संबंध को दर्शाता है।",
+        "en": "The negative sign of price elasticity generally indicates an inverse relationship between price and demand."
+      },
+      {
+        "id": 3,
+        "hi": "पूर्णतः अलोचदार (Perfectly Inelastic) मांग की स्थिति में मूल्य परिवर्तन से मांग की मात्रा में कोई परिवर्तन नहीं होता।",
+        "en": "In a state of Perfectly Inelastic demand, a change in price causes zero change in the quantity demanded."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. यदि किसी वस्तु की कीमत में 10% वृद्धि होने पर उसकी मांग 20% घट जाती है, तो मांग की मूल्य लोच (Price Elasticity of Demand) का परिमाण 2 होगा।\n2. मूल्य लोच का ऋणात्मक चिह्न सामान्यतः मूल्य और मांग के बीच विपरीत संबंध को दर्शाता है।\n3. पूर्णतः अलोचदार (Perfectly Inelastic) मांग की स्थिति में मूल्य परिवर्तन से मांग की मात्रा में कोई परिवर्तन नहीं होता।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. If a 10% increase in the price of a good leads to a 20% decrease in its demand, the magnitude of the Price Elasticity of Demand will be 2.\n2. The negative sign of price elasticity generally indicates an inverse relationship between price and demand.\n3. In a state of Perfectly Inelastic demand, a change in price causes zero change in the quantity demanded.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -366,10 +494,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दो वस्तुओं की क्रॉस लोच (Cross Elasticity) धनात्मक (Positive) होने पर वे प्रतिस्थापन (Substitute) वस्तुएँ हो सकती हैं।",
+        "en": "If the Cross Elasticity of two goods is positive, they can be Substitute goods."
+      },
+      {
+        "id": 2,
+        "hi": "दो वस्तुओं की क्रॉस लोच ऋणात्मक (Negative) होने पर वे पूरक (Complementary) वस्तुएँ हो सकती हैं।",
+        "en": "If the Cross Elasticity of two goods is negative, they can be Complementary goods."
+      },
+      {
+        "id": 3,
+        "hi": "चाय और कॉफी के बीच क्रॉस लोच सामान्यतः ऋणात्मक होगी।",
+        "en": "The cross elasticity between tea and coffee will generally be negative."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. दो वस्तुओं की क्रॉस लोच (Cross Elasticity) धनात्मक (Positive) होने पर वे प्रतिस्थापन (Substitute) वस्तुएँ हो सकती हैं।\n2. दो वस्तुओं की क्रॉस लोच ऋणात्मक (Negative) होने पर वे पूरक (Complementary) वस्तुएँ हो सकती हैं।\n3. चाय और कॉफी के बीच क्रॉस लोच सामान्यतः ऋणात्मक होगी।\nसही उत्तर चुनिए:",
-      "en": "Consider the following statements:\n1. If the Cross Elasticity of two goods is positive, they can be Substitute goods.\n2. If the Cross Elasticity of two goods is negative, they can be Complementary goods.\n3. The cross elasticity between tea and coffee will generally be negative.\nSelect the correct answer:"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "Consider the following statements:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -406,10 +550,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह सूचकांक 'फैक्ट्री गेट इन्फ्लेशन' (Factory Gate Inflation) का मापक है।",
+        "en": "This index is a measure of 'Factory Gate Inflation'."
+      },
+      {
+        "id": 2,
+        "hi": "PPI में वस्तुओं के साथ-साथ सेवाओं (Services) को भी शामिल किया गया है।",
+        "en": "PPI includes both goods as well as services."
+      },
+      {
+        "id": 3,
+        "hi": "यह भविष्य में WPI का स्थान ले लेगा, लेकिन इसे वर्तमान में WPI के साथ समानांतर नहीं चलाया जा रहा है।",
+        "en": "It will replace WPI in the future, but currently, it is not being run in parallel with WPI."
+      }
+    ],
     "question": {
-      "hi": "(PPI - उत्पादक मूल्य सूचकांक) भारत सरकार द्वारा PPI (Producer Price Index) जारी करने के निर्णय के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह सूचकांक 'फैक्ट्री गेट इन्फ्लेशन' (Factory Gate Inflation) का मापक है।\n2. PPI में वस्तुओं के साथ-साथ सेवाओं (Services) को भी शामिल किया गया है।\n3. यह भविष्य में WPI का स्थान ले लेगा, लेकिन इसे वर्तमान में WPI के साथ समानांतर नहीं चलाया जा रहा है।\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
-      "en": "(PPI - Producer Price Index) With reference to the Government of India's decision to release the PPI, consider the following statements:\n1. This index is a measure of 'Factory Gate Inflation'.\n2. PPI includes both goods as well as services.\n3. It will replace WPI in the future, but currently, it is not being run in parallel with WPI.\nSelect the correct answer using the code given below:"
+      "hi": "(PPI - उत्पादक मूल्य सूचकांक) भारत सरकार द्वारा PPI (Producer Price Index) जारी करने के निर्णय के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
+      "en": "(PPI - Producer Price Index) With reference to the Government of India's decision to release the PPI, consider the following statements:\nSelect the correct answer using the code given below:"
     },
     "options": [
       {
@@ -446,10 +606,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसमें वर्गीकरण के लिए संयुक्त राष्ट्र के COICOP 2018 मानक को अपनाया गया है।",
+        "en": "It adopts the UN's COICOP 2018 standard for classification."
+      },
+      {
+        "id": 2,
+        "hi": "पुरानी श्रृंखला की तुलना में इसमें खाद्य एवं पेय पदार्थों का भारांश (Weightage) बढ़ा है।",
+        "en": "Compared to the old series, the weightage of food and beverages has increased in it."
+      },
+      {
+        "id": 3,
+        "hi": "पहली बार ग्रामीण घर किराया (Rural House Rent) को भी इसमें शामिल किया गया है।",
+        "en": "For the first time, Rural House Rent has also been included in it."
+      }
+    ],
     "question": {
-      "hi": "(CPI - नई श्रृंखला 2024) CPI की नई श्रृंखला (आधार वर्ष 2024) के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. इसमें वर्गीकरण के लिए संयुक्त राष्ट्र के COICOP 2018 मानक को अपनाया गया है।\n2. पुरानी श्रृंखला की तुलना में इसमें खाद्य एवं पेय पदार्थों का भारांश (Weightage) बढ़ा है।\n3. पहली बार ग्रामीण घर किराया (Rural House Rent) को भी इसमें शामिल किया गया है।\nसही उत्तर चुनिए:",
-      "en": "(CPI - New Series 2024) Consider the following statements regarding the new series of CPI (Base Year 2024):\n1. It adopts the UN's COICOP 2018 standard for classification.\n2. Compared to the old series, the weightage of food and beverages has increased in it.\n3. For the first time, Rural House Rent has also been included in it.\nSelect the correct answer:"
+      "hi": "(CPI - नई श्रृंखला 2024) CPI की नई श्रृंखला (आधार वर्ष 2024) के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(CPI - New Series 2024) Consider the following statements regarding the new series of CPI (Base Year 2024):\nSelect the correct answer:"
     },
     "options": [
       {
@@ -486,10 +662,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसमें उच्च मुद्रास्फीति के साथ-साथ धीमी आर्थिक वृद्धि दर देखी जाती है।",
+        "en": "High inflation along with a slow economic growth rate is observed in this."
+      },
+      {
+        "id": 2,
+        "hi": "इसमें बेरोजगारी दर में गिरावट आती है।",
+        "en": "The unemployment rate declines in this situation."
+      },
+      {
+        "id": 3,
+        "hi": "फिलिप्स वक्र (Phillips Curve) के अनुसार, यह स्थिति सामान्यतः नहीं देखी जानी चाहिए क्योंकि मुद्रास्फीति और बेरोजगारी में व्युत्क्रमानुपाती (Inverse) संबंध होता है।",
+        "en": "According to the Phillips Curve, this situation should not normally be observed because there is an inverse relationship between inflation and unemployment."
+      }
+    ],
     "question": {
-      "hi": "(Stagflation) 'मंदी जनित मुद्रास्फीति' (Stagflation) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. इसमें उच्च मुद्रास्फीति के साथ-साथ धीमी आर्थिक वृद्धि दर देखी जाती है।\n2. इसमें बेरोजगारी दर में गिरावट आती है।\n3. फिलिप्स वक्र (Phillips Curve) के अनुसार, यह स्थिति सामान्यतः नहीं देखी जानी चाहिए क्योंकि मुद्रास्फीति और बेरोजगारी में व्युत्क्रमानुपाती (Inverse) संबंध होता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "(Stagflation) Consider the following statements regarding 'Stagflation':\n1. High inflation along with a slow economic growth rate is observed in this.\n2. The unemployment rate declines in this situation.\n3. According to the Phillips Curve, this situation should not normally be observed because there is an inverse relationship between inflation and unemployment.\nWhich of the above statement(s) is/are correct?"
+      "hi": "(Stagflation) 'मंदी जनित मुद्रास्फीति' (Stagflation) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "(Stagflation) Consider the following statements regarding 'Stagflation':\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -526,10 +718,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इन बांडों पर ब्याज दर उपभोक्ता मूल्य सूचकांक (CPI) जैसे सूचकांक से जुड़ी होती है।",
+        "en": "The interest rate on these bonds is linked to an index like the Consumer Price Index (CPI)."
+      },
+      {
+        "id": 2,
+        "hi": "अपस्फीति (Deflation) की स्थिति में इन बांडों का अंकित मूल्य (Face Value) कम हो जाता है, जिससे मूल पूंजी भी सुरक्षित नहीं रहती।",
+        "en": "In a deflationary situation, the face value of these bonds decreases, meaning the principal capital is also not protected."
+      },
+      {
+        "id": 3,
+        "hi": "इनका मुख्य उद्देश्य निवेशकों की क्रय शक्ति को मुद्रास्फीति के प्रभाव से सुरक्षित रखना है।",
+        "en": "Their main objective is to protect the purchasing power of investors from the impact of inflation."
+      }
+    ],
     "question": {
-      "hi": "(Inflation-Indexed Bond) मुद्रास्फीति समायोजित/अनुक्रमित बांड (Inflation Indexed Bond - IIB) की विशेषताओं के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. इन बांडों पर ब्याज दर उपभोक्ता मूल्य सूचकांक (CPI) जैसे सूचकांक से जुड़ी होती है।\n2. अपस्फीति (Deflation) की स्थिति में इन बांडों का अंकित मूल्य (Face Value) कम हो जाता है, जिससे मूल पूंजी भी सुरक्षित नहीं रहती।\n3. इनका मुख्य उद्देश्य निवेशकों की क्रय शक्ति को मुद्रास्फीति के प्रभाव से सुरक्षित रखना है।\nसही उत्तर चुनिए:",
-      "en": "(Inflation-Indexed Bond) Consider the following statements regarding the characteristics of Inflation Indexed Bonds (IIBs):\n1. The interest rate on these bonds is linked to an index like the Consumer Price Index (CPI).\n2. In a deflationary situation, the face value of these bonds decreases, meaning the principal capital is also not protected.\n3. Their main objective is to protect the purchasing power of investors from the impact of inflation.\nSelect the correct answer:"
+      "hi": "(Inflation-Indexed Bond) मुद्रास्फीति समायोजित/अनुक्रमित बांड (Inflation Indexed Bond - IIB) की विशेषताओं के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Inflation-Indexed Bond) Consider the following statements regarding the characteristics of Inflation Indexed Bonds (IIBs):\nSelect the correct answer:"
     },
     "options": [
       {
@@ -566,10 +774,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसमें खाद्य एवं ईंधन के मूल्यों में होने वाले उतार-चढ़ाव को शामिल नहीं किया जाता है।",
+        "en": "It does not include fluctuations in the prices of food and fuel."
+      },
+      {
+        "id": 2,
+        "hi": "इसे हेडलाइन मुद्रास्फीति (Headline Inflation) की तुलना में अधिक अस्थिर माना जाता है।",
+        "en": "It is considered more volatile than Headline Inflation."
+      },
+      {
+        "id": 3,
+        "hi": "RBI मौद्रिक नीति निर्माण के लिए केवल हेडलाइन मुद्रास्फीति का उपयोग करता है और कोर मुद्रास्फीति को पूरी तरह नजरअंदाज करता है।",
+        "en": "RBI uses only Headline Inflation for monetary policy formulation and completely ignores Core Inflation."
+      }
+    ],
     "question": {
-      "hi": "(Core Inflation) 'कोर मुद्रास्फीति' (Core Inflation) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. इसमें खाद्य एवं ईंधन के मूल्यों में होने वाले उतार-चढ़ाव को शामिल नहीं किया जाता है।\n2. इसे हेडलाइन मुद्रास्फीति (Headline Inflation) की तुलना में अधिक अस्थिर माना जाता है।\n3. RBI मौद्रिक नीति निर्माण के लिए केवल हेडलाइन मुद्रास्फीति का उपयोग करता है और कोर मुद्रास्फीति को पूरी तरह नजरअंदाज करता है।\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
-      "en": "(Core Inflation) Consider the following statements regarding 'Core Inflation':\n1. It does not include fluctuations in the prices of food and fuel.\n2. It is considered more volatile than Headline Inflation.\n3. RBI uses only Headline Inflation for monetary policy formulation and completely ignores Core Inflation.\nSelect the correct answer using the code given below:"
+      "hi": "(Core Inflation) 'कोर मुद्रास्फीति' (Core Inflation) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
+      "en": "(Core Inflation) Consider the following statements regarding 'Core Inflation':\nSelect the correct answer using the code given below:"
     },
     "options": [
       {
@@ -606,10 +830,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "काला धन (Black Money) में वृद्धि मांग जनित मुद्रास्फीति का एक प्रमुख कारक है।",
+        "en": "An increase in Black Money is a major factor of demand-pull inflation."
+      },
+      {
+        "id": 2,
+        "hi": "प्राकृतिक आपदाओं के कारण आपूर्ति में कमी आना संरचनात्मक मुद्रास्फीति को जन्म देता है।",
+        "en": "A shortfall in supply due to natural disasters gives rise to structural inflation."
+      },
+      {
+        "id": 3,
+        "hi": "भारतीय अर्थव्यवस्था के कृषि क्षेत्र में 'जमाखोरी' (Hoarding) की घटना मांग जनित मुद्रास्फीति का उदाहरण है।",
+        "en": "The phenomenon of 'Hoarding' in the agricultural sector of the Indian economy is an example of demand-pull inflation."
+      }
+    ],
     "question": {
-      "hi": "(मांग जनित बनाम संरचनात्मक) मांग जनित (Demand-Pull) और संरचनात्मक (Structural) मुद्रास्फीति के कारकों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. काला धन (Black Money) में वृद्धि मांग जनित मुद्रास्फीति का एक प्रमुख कारक है।\n2. प्राकृतिक आपदाओं के कारण आपूर्ति में कमी आना संरचनात्मक मुद्रास्फीति को जन्म देता है।\n3. भारतीय अर्थव्यवस्था के कृषि क्षेत्र में 'जमाखोरी' (Hoarding) की घटना मांग जनित मुद्रास्फीति का उदाहरण है।\nसही उत्तर चुनिए:",
-      "en": "(Demand-pull vs Structural) Consider the following statements regarding the factors of Demand-Pull and Structural inflation:\n1. An increase in Black Money is a major factor of demand-pull inflation.\n2. A shortfall in supply due to natural disasters gives rise to structural inflation.\n3. The phenomenon of 'Hoarding' in the agricultural sector of the Indian economy is an example of demand-pull inflation.\nSelect the correct answer:"
+      "hi": "(मांग जनित बनाम संरचनात्मक) मांग जनित (Demand-Pull) और संरचनात्मक (Structural) मुद्रास्फीति के कारकों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Demand-pull vs Structural) Consider the following statements regarding the factors of Demand-Pull and Structural inflation:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -646,10 +886,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह केवल घरेलू रूप से उत्पादित वस्तुओं एवं सेवाओं की कीमतों को मापता है।",
+        "en": "It measures the prices of only domestically produced goods and services."
+      },
+      {
+        "id": 2,
+        "hi": "यह आयातित पेट्रोलियम उत्पादों की कीमतों में वृद्धि को तुरंत दर्शाता है।",
+        "en": "It immediately reflects the price rise in imported petroleum products."
+      },
+      {
+        "id": 3,
+        "hi": "इसमें समय के साथ वस्तुओं के भार (Weights) स्वतः बदलते रहते हैं।",
+        "en": "The weights of goods in it change automatically over time."
+      }
+    ],
     "question": {
-      "hi": "(GDP Deflator) GDP Deflator के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह केवल घरेलू रूप से उत्पादित वस्तुओं एवं सेवाओं की कीमतों को मापता है।\n2. यह आयातित पेट्रोलियम उत्पादों की कीमतों में वृद्धि को तुरंत दर्शाता है।\n3. इसमें समय के साथ वस्तुओं के भार (Weights) स्वतः बदलते रहते हैं।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "(GDP Deflator) Consider the following statements regarding the GDP Deflator:\n1. It measures the prices of only domestically produced goods and services.\n2. It immediately reflects the price rise in imported petroleum products.\n3. The weights of goods in it change automatically over time.\nWhich of the above statement(s) is/are correct?"
+      "hi": "(GDP Deflator) GDP Deflator के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "(GDP Deflator) Consider the following statements regarding the GDP Deflator:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -726,10 +982,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "रेपो दर (Repo Rate) में वृद्धि करना।",
+        "en": "Increase the Repo Rate."
+      },
+      {
+        "id": 2,
+        "hi": "CRR (Cash Reserve Ratio) में कमी करना।",
+        "en": "Decrease the CRR (Cash Reserve Ratio)."
+      },
+      {
+        "id": 3,
+        "hi": "संकुचित मौद्रिक नीति (Contractionary Monetary Policy) अपनाना।",
+        "en": "Adopt a Contractionary Monetary Policy."
+      }
+    ],
     "question": {
-      "hi": "(मौद्रिक नीति) यदि भारतीय अर्थव्यवस्था में मुद्रास्फीति का स्तर 'लक्ष्य' से अधिक हो जाता है, तो MPC (मौद्रिक नीति समिति) द्वारा निम्नलिखित में से कौन-से कदम उठाए जा सकते हैं?\n1. रेपो दर (Repo Rate) में वृद्धि करना।\n2. CRR (Cash Reserve Ratio) में कमी करना।\n3. संकुचित मौद्रिक नीति (Contractionary Monetary Policy) अपनाना।\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
-      "en": "(Monetary Policy) If the level of inflation in the Indian economy exceeds the 'target', which of the following steps can be taken by the MPC (Monetary Policy Committee)?\n1. Increase the Repo Rate.\n2. Decrease the CRR (Cash Reserve Ratio).\n3. Adopt a Contractionary Monetary Policy.\nSelect the correct answer using the code given below:"
+      "hi": "(मौद्रिक नीति) यदि भारतीय अर्थव्यवस्था में मुद्रास्फीति का स्तर 'लक्ष्य' से अधिक हो जाता है, तो MPC (मौद्रिक नीति समिति) द्वारा निम्नलिखित में से कौन-से कदम उठाए जा सकते हैं?\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए:",
+      "en": "(Monetary Policy) If the level of inflation in the Indian economy exceeds the 'target', which of the following steps can be taken by the MPC (Monetary Policy Committee)?\nSelect the correct answer using the code given below:"
     },
     "options": [
       {
@@ -766,10 +1038,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह सरकार द्वारा प्रत्यक्ष रूप से लगाया गया कोई नया कर नहीं है, बल्कि मुद्रास्फीति के कारण क्रय शक्ति में होने वाली कमी है।",
+        "en": "It is not a new tax directly levied by the government, but rather a decrease in purchasing power due to inflation."
+      },
+      {
+        "id": 2,
+        "hi": "इसका प्रभाव उच्च आय वर्ग पर निम्न आय वर्ग की तुलना में कहीं अधिक पड़ता है।",
+        "en": "Its impact is much higher on the high-income group compared to the low-income group."
+      },
+      {
+        "id": 3,
+        "hi": "निम्न आय वर्ग के पास औपचारिक वित्तीय उपकरण (Formal Financial Instruments) कम होने के कारण उन्हें इस 'छिपे हुए कर' का अधिक सामना करना पड़ता है।",
+        "en": "The low-income group has fewer formal financial instruments, so they face this 'hidden tax' more severely."
+      }
+    ],
     "question": {
-      "hi": "(Inflation Tax) 'मुद्रास्फीति कर' (Inflation Tax) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह सरकार द्वारा प्रत्यक्ष रूप से लगाया गया कोई नया कर नहीं है, बल्कि मुद्रास्फीति के कारण क्रय शक्ति में होने वाली कमी है।\n2. इसका प्रभाव उच्च आय वर्ग पर निम्न आय वर्ग की तुलना में कहीं अधिक पड़ता है।\n3. निम्न आय वर्ग के पास औपचारिक वित्तीय उपकरण (Formal Financial Instruments) कम होने के कारण उन्हें इस 'छिपे हुए कर' का अधिक सामना करना पड़ता है।\nसही उत्तर चुनिए:",
-      "en": "(Inflation Tax) Consider the following statements regarding 'Inflation Tax':\n1. It is not a new tax directly levied by the government, but rather a decrease in purchasing power due to inflation.\n2. Its impact is much higher on the high-income group compared to the low-income group.\n3. The low-income group has fewer formal financial instruments, so they face this 'hidden tax' more severely.\nSelect the correct answer:"
+      "hi": "(Inflation Tax) 'मुद्रास्फीति कर' (Inflation Tax) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Inflation Tax) Consider the following statements regarding 'Inflation Tax':\nSelect the correct answer:"
     },
     "options": [
       {
@@ -806,10 +1094,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वास्तविक ब्याज दर = नाममात्र ब्याज दर (Nominal Interest Rate) - मुद्रास्फीति की दर।",
+        "en": "Real Interest Rate = Nominal Interest Rate - Rate of Inflation."
+      },
+      {
+        "id": 2,
+        "hi": "यदि मुद्रास्फीति की दर नाममात्र ब्याज दर से अधिक हो जाए, तो वास्तविक ब्याज दर ऋणात्मक (Negative) हो जाती है।",
+        "en": "If the rate of inflation exceeds the nominal interest rate, the real interest rate becomes negative."
+      },
+      {
+        "id": 3,
+        "hi": "ऋणात्मक वास्तविक ब्याज दर बचतकर्ताओं (Savers) के लिए लाभकारी होती है।",
+        "en": "A negative real interest rate is beneficial for savers."
+      }
+    ],
     "question": {
-      "hi": "(Fisher Effect) वास्तविक ब्याज दर (Real Interest Rate) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. वास्तविक ब्याज दर = नाममात्र ब्याज दर (Nominal Interest Rate) - मुद्रास्फीति की दर।\n2. यदि मुद्रास्फीति की दर नाममात्र ब्याज दर से अधिक हो जाए, तो वास्तविक ब्याज दर ऋणात्मक (Negative) हो जाती है।\n3. ऋणात्मक वास्तविक ब्याज दर बचतकर्ताओं (Savers) के लिए लाभकारी होती है।\nसही उत्तर चुनिए:",
-      "en": "(Fisher Effect) Consider the following statements regarding the Real Interest Rate:\n1. Real Interest Rate = Nominal Interest Rate - Rate of Inflation.\n2. If the rate of inflation exceeds the nominal interest rate, the real interest rate becomes negative.\n3. A negative real interest rate is beneficial for savers.\nSelect the correct answer:"
+      "hi": "(Fisher Effect) वास्तविक ब्याज दर (Real Interest Rate) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Fisher Effect) Consider the following statements regarding the Real Interest Rate:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -846,10 +1150,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बाजार में तरलता (Liquidity) कम करने के लिए सरकारी प्रतिभूतियों (Government Securities) की बिक्री की जाती है।",
+        "en": "Government Securities are sold to reduce liquidity in the market."
+      },
+      {
+        "id": 2,
+        "hi": "बाजार में तरलता बढ़ाने के लिए आरबीआई द्वारा प्रतिभूतियों की खरीद की जाती है।",
+        "en": "Securities are purchased by the RBI to increase liquidity in the market."
+      },
+      {
+        "id": 3,
+        "hi": "यह प्रत्यक्ष उपकरण (Direct Instrument) है जो नकद आरक्षित अनुपात (CRR) को सीधे प्रभावित करता है।",
+        "en": "It is a direct instrument that directly affects the Cash Reserve Ratio (CRR)."
+      }
+    ],
     "question": {
-      "hi": "(Open Market Operations - OMO) मौद्रिक नीति समिति (MPC) द्वारा मुद्रास्फीति को नियंत्रित करने हेतु ओपन मार्केट ऑपरेशंस (OMO) के अंतर्गत निम्नलिखित में से क्या किया जाता है?\n1. बाजार में तरलता (Liquidity) कम करने के लिए सरकारी प्रतिभूतियों (Government Securities) की बिक्री की जाती है।\n2. बाजार में तरलता बढ़ाने के लिए आरबीआई द्वारा प्रतिभूतियों की खरीद की जाती है।\n3. यह प्रत्यक्ष उपकरण (Direct Instrument) है जो नकद आरक्षित अनुपात (CRR) को सीधे प्रभावित करता है।\nसही उत्तर चुनिए:",
-      "en": "(Open Market Operations - OMO) Under Open Market Operations by the Monetary Policy Committee (MPC) to control inflation, which of the following is done?\n1. Government Securities are sold to reduce liquidity in the market.\n2. Securities are purchased by the RBI to increase liquidity in the market.\n3. It is a direct instrument that directly affects the Cash Reserve Ratio (CRR).\nSelect the correct answer:"
+      "hi": "(Open Market Operations - OMO) मौद्रिक नीति समिति (MPC) द्वारा मुद्रास्फीति को नियंत्रित करने हेतु ओपन मार्केट ऑपरेशंस (OMO) के अंतर्गत निम्नलिखित में से क्या किया जाता है?\nसही उत्तर चुनिए:",
+      "en": "(Open Market Operations - OMO) Under Open Market Operations by the Monetary Policy Committee (MPC) to control inflation, which of the following is done?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -886,10 +1206,26 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उत्पादों की कीमतों में वृद्धि किए बिना उनके आकार (Size) या मात्रा (Quantity) को कम कर देना।",
+        "en": "Reducing the size or quantity of products without increasing their prices."
+      },
+      {
+        "id": 2,
+        "hi": "उपभोक्ताओं को सामान की कीमत में वृद्धि का आभास न होने देने की एक कॉर्पोरेट रणनीति।",
+        "en": "A corporate strategy to prevent consumers from perceiving a price hike."
+      },
+      {
+        "id": 3,
+        "hi": "मुद्रास्फीति को मापने के लिए उपयोग किए जाने वाले सूचकांकों में बास्केट के आकार का छोटा होना।",
+        "en": "A reduction in the size of the basket used in indices for measuring inflation."
+      }
+    ],
     "question": {
-      "hi": "(Shrinkflation) हाल के वर्षों में चर्चा में रहे 'श्रिंकफ्लेशन' (Shrinkflation) का अर्थ क्या है?\n1. उत्पादों की कीमतों में वृद्धि किए बिना उनके आकार (Size) या मात्रा (Quantity) को कम कर देना।\n2. उपभोक्ताओं को सामान की कीमत में वृद्धि का आभास न होने देने की एक कॉर्पोरेट रणनीति।\n3. मुद्रास्फीति को मापने के लिए उपयोग किए जाने वाले सूचकांकों में बास्केट के आकार का छोटा होना।\nसही उत्तर चुनिए:",
-      "en": "(Shrinkflation) What is the meaning of 'Shrinkflation', which has been in the news in recent years?\n1. Reducing the size or quantity of products without increasing their prices.\n2. A corporate strategy to prevent consumers from perceiving a price hike.\n3. A reduction in the size of the basket used in indices for measuring inflation.\nSelect the correct answer:"
+      "hi": "(Shrinkflation) हाल के वर्षों में चर्चा में रहे 'श्रिंकफ्लेशन' (Shrinkflation) का अर्थ क्या है?\nसही उत्तर चुनिए:",
+      "en": "(Shrinkflation) What is the meaning of 'Shrinkflation', which has been in the news in recent years?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -926,10 +1262,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "IIP उत्पादन (Output) के आंकड़ों पर आधारित है, जबकि PMI सर्वेक्षण (Survey) पर आधारित है।",
+        "en": "IIP is based on output data, while PMI is based on surveys."
+      },
+      {
+        "id": 2,
+        "hi": "PMI एक अग्रिम आर्थिक संकेतक (Leading Economic Indicator) है, जबकि IIP पिछड़ने वाला संकेतक (Lagging Indicator) है।",
+        "en": "PMI is a Leading Economic Indicator, whereas IIP is a Lagging Indicator."
+      },
+      {
+        "id": 3,
+        "hi": "दोनों सूचकांकों में सेवाओं (Services) के क्षेत्र को समान महत्व दिया जाता है।",
+        "en": "Both indices give equal importance to the services sector."
+      }
+    ],
     "question": {
-      "hi": "(PMI vs IIP) क्रय प्रबंधक सूचकांक (Purchasing Managers' Index - PMI) और औद्योगिक उत्पादन सूचकांक (Index of Industrial Production - IIP) के बीच अंतर के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. IIP उत्पादन (Output) के आंकड़ों पर आधारित है, जबकि PMI सर्वेक्षण (Survey) पर आधारित है।\n2. PMI एक अग्रिम आर्थिक संकेतक (Leading Economic Indicator) है, जबकि IIP पिछड़ने वाला संकेतक (Lagging Indicator) है।\n3. दोनों सूचकांकों में सेवाओं (Services) के क्षेत्र को समान महत्व दिया जाता है।\nसही उत्तर चुनिए:",
-      "en": "(PMI vs IIP) Consider the following statements regarding the differences between the Purchasing Managers' Index (PMI) and the Index of Industrial Production (IIP):\n1. IIP is based on output data, while PMI is based on surveys.\n2. PMI is a Leading Economic Indicator, whereas IIP is a Lagging Indicator.\n3. Both indices give equal importance to the services sector.\nSelect the correct answer:"
+      "hi": "(PMI vs IIP) क्रय प्रबंधक सूचकांक (Purchasing Managers' Index - PMI) और औद्योगिक उत्पादन सूचकांक (Index of Industrial Production - IIP) के बीच अंतर के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(PMI vs IIP) Consider the following statements regarding the differences between the Purchasing Managers' Index (PMI) and the Index of Industrial Production (IIP):\nSelect the correct answer:"
     },
     "options": [
       {
@@ -966,10 +1318,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह तब होता है जब मुद्रास्फीति के कारण करदाताओं की आय का स्तर बढ़ता है, जिससे वे उच्च कर स्लैब (Higher Tax Bracket) में प्रवेश कर जाते हैं।",
+        "en": "It occurs when inflation pushes taxpayers' nominal income higher, causing them to enter higher tax brackets."
+      },
+      {
+        "id": 2,
+        "hi": "यह सरकारी राजस्व में अनपेक्षित वृद्धि करता है, जिससे अर्थव्यवस्था में वास्तविक क्रय शक्ति कम हो जाती है।",
+        "en": "It unexpectedly increases government revenue, which reduces real purchasing power in the economy."
+      },
+      {
+        "id": 3,
+        "hi": "यह अर्थव्यवस्था में विस्तारवादी राजकोषीय नीति (Expansionary Fiscal Policy) का एक उपकरण है।",
+        "en": "It is an instrument of expansionary fiscal policy in the economy."
+      }
+    ],
     "question": {
-      "hi": "(Fiscal Drag) राजकोषीय बाधा (Fiscal Drag) की अवधारणा के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह तब होता है जब मुद्रास्फीति के कारण करदाताओं की आय का स्तर बढ़ता है, जिससे वे उच्च कर स्लैब (Higher Tax Bracket) में प्रवेश कर जाते हैं।\n2. यह सरकारी राजस्व में अनपेक्षित वृद्धि करता है, जिससे अर्थव्यवस्था में वास्तविक क्रय शक्ति कम हो जाती है।\n3. यह अर्थव्यवस्था में विस्तारवादी राजकोषीय नीति (Expansionary Fiscal Policy) का एक उपकरण है।\nसही उत्तर चुनिए:",
-      "en": "(Fiscal Drag) Consider the following statements regarding the concept of Fiscal Drag:\n1. It occurs when inflation pushes taxpayers' nominal income higher, causing them to enter higher tax brackets.\n2. It unexpectedly increases government revenue, which reduces real purchasing power in the economy.\n3. It is an instrument of expansionary fiscal policy in the economy.\nSelect the correct answer:"
+      "hi": "(Fiscal Drag) राजकोषीय बाधा (Fiscal Drag) की अवधारणा के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Fiscal Drag) Consider the following statements regarding the concept of Fiscal Drag:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1006,10 +1374,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उत्पादन स्तर (T) में वृद्धि होना निश्चित है।",
+        "en": "An increase in the output level (T) is certain."
+      },
+      {
+        "id": 2,
+        "hi": "मूल्य स्तर (Price Level - P) में वृद्धि होने की संभावना होती है।",
+        "en": "There is a possibility of an increase in the price level (P)."
+      },
+      {
+        "id": 3,
+        "hi": "यह सिद्धांत मानता है कि मुद्रा केवल विनिमय का माध्यम है, मूल्य का भंडार नहीं।",
+        "en": "This theory assumes that money is only a medium of exchange, not a store of value."
+      }
+    ],
     "question": {
-      "hi": "(Equation of Exchange) मुद्रा के परिमाण सिद्धांत (Quantity Theory of Money - MV=PT) के अनुसार, यदि मुद्रा की आपूर्ति (Money Supply - M) में वृद्धि होती है और मुद्रा का वेग (Velocity of Money - V) स्थिर रहता है, तो:\n1. उत्पादन स्तर (T) में वृद्धि होना निश्चित है।\n2. मूल्य स्तर (Price Level - P) में वृद्धि होने की संभावना होती है।\n3. यह सिद्धांत मानता है कि मुद्रा केवल विनिमय का माध्यम है, मूल्य का भंडार नहीं।\nसही उत्तर चुनिए:",
-      "en": "(Equation of Exchange) According to the Quantity Theory of Money (MV=PT), if the Money Supply (M) increases and the Velocity of Money (V) remains constant, then:\n1. An increase in the output level (T) is certain.\n2. There is a possibility of an increase in the price level (P).\n3. This theory assumes that money is only a medium of exchange, not a store of value.\nSelect the correct answer:"
+      "hi": "(Equation of Exchange) मुद्रा के परिमाण सिद्धांत (Quantity Theory of Money - MV=PT) के अनुसार, यदि मुद्रा की आपूर्ति (Money Supply - M) में वृद्धि होती है और मुद्रा का वेग (Velocity of Money - V) स्थिर रहता है, तो:\nसही उत्तर चुनिए:",
+      "en": "(Equation of Exchange) According to the Quantity Theory of Money (MV=PT), if the Money Supply (M) increases and the Velocity of Money (V) remains constant, then:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1046,10 +1430,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ये बाधाएं बुनियादी ढांचे की कमी, रसद (Logistics) की असफलता या कृषि उत्पादों के भंडारण की कमी के कारण हो सकती हैं।",
+        "en": "These constraints can be due to a lack of infrastructure, logistics failure, or lack of storage for agricultural products."
+      },
+      {
+        "id": 2,
+        "hi": "इसे नियंत्रित करने के लिए केवल मौद्रिक नीति (Monetary Policy) पर्याप्त है।",
+        "en": "Monetary Policy alone is sufficient to control it."
+      },
+      {
+        "id": 3,
+        "hi": "ये संरचनात्मक मुद्रास्फीति (Structural Inflation) का मुख्य कारण होती हैं।",
+        "en": "They are the main cause of Structural Inflation."
+      }
+    ],
     "question": {
-      "hi": "(Supply-side Constraints) 'आपूर्ति पक्ष बाधाएं' (Supply-side Constraints) के कारण होने वाली मुद्रास्फीति के बारे में निम्नलिखित कथनों पर विचार कीजिए:\n1. ये बाधाएं बुनियादी ढांचे की कमी, रसद (Logistics) की असफलता या कृषि उत्पादों के भंडारण की कमी के कारण हो सकती हैं।\n2. इसे नियंत्रित करने के लिए केवल मौद्रिक नीति (Monetary Policy) पर्याप्त है।\n3. ये संरचनात्मक मुद्रास्फीति (Structural Inflation) का मुख्य कारण होती हैं।\nसही उत्तर चुनिए:",
-      "en": "(Supply-side Constraints) Consider the following statements regarding inflation caused by 'Supply-side Constraints':\n1. These constraints can be due to a lack of infrastructure, logistics failure, or lack of storage for agricultural products.\n2. Monetary Policy alone is sufficient to control it.\n3. They are the main cause of Structural Inflation.\nSelect the correct answer:"
+      "hi": "(Supply-side Constraints) 'आपूर्ति पक्ष बाधाएं' (Supply-side Constraints) के कारण होने वाली मुद्रास्फीति के बारे में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Supply-side Constraints) Consider the following statements regarding inflation caused by 'Supply-side Constraints':\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1086,10 +1486,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "घरेलू मुद्रा के मूल्यह्रास (Depreciation) से आयातित वस्तुओं की कीमतें बढ़ जाती हैं, जिससे मुद्रास्फीति का दबाव बढ़ता है।",
+        "en": "Depreciation of the domestic currency increases the prices of imported goods, thereby increasing inflationary pressure."
+      },
+      {
+        "id": 2,
+        "hi": "यह आयातित मुद्रास्फीति (Imported Inflation) का एक प्रमुख घटक है।",
+        "en": "It is a major component of Imported Inflation."
+      },
+      {
+        "id": 3,
+        "hi": "भारतीय अर्थव्यवस्था में इसका प्रभाव CPI के मुकाबले WPI पर कम होता है।",
+        "en": "In the Indian economy, its impact is less on WPI compared to CPI."
+      }
+    ],
     "question": {
-      "hi": "(Exchange Rate Pass-through) विनिमय दर पास-थ्रू (Exchange Rate Pass-through) का मुद्रास्फीति पर प्रभाव क्या है?\n1. घरेलू मुद्रा के मूल्यह्रास (Depreciation) से आयातित वस्तुओं की कीमतें बढ़ जाती हैं, जिससे मुद्रास्फीति का दबाव बढ़ता है।\n2. यह आयातित मुद्रास्फीति (Imported Inflation) का एक प्रमुख घटक है।\n3. भारतीय अर्थव्यवस्था में इसका प्रभाव CPI के मुकाबले WPI पर कम होता है।\nसही उत्तर चुनिए:",
-      "en": "(Exchange Rate Pass-through) What is the impact of 'Exchange Rate Pass-through' on inflation?\n1. Depreciation of the domestic currency increases the prices of imported goods, thereby increasing inflationary pressure.\n2. It is a major component of Imported Inflation.\n3. In the Indian economy, its impact is less on WPI compared to CPI.\nSelect the correct answer:"
+      "hi": "(Exchange Rate Pass-through) विनिमय दर पास-थ्रू (Exchange Rate Pass-through) का मुद्रास्फीति पर प्रभाव क्या है?\nसही उत्तर चुनिए:",
+      "en": "(Exchange Rate Pass-through) What is the impact of 'Exchange Rate Pass-through' on inflation?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1126,10 +1542,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसमें कीमतें बाजार की मांग और आपूर्ति द्वारा निर्धारित होती हैं।",
+        "en": "Under this, prices are determined by market demand and supply."
+      },
+      {
+        "id": 2,
+        "hi": "उर्वरक (Fertilizer) और पेट्रोलियम उत्पादों के मामले में सरकार अक्सर इस तंत्र का उपयोग करती है।",
+        "en": "The government often uses this mechanism in the case of fertilizers and petroleum products."
+      },
+      {
+        "id": 3,
+        "hi": "प्रशासित मूल्यों में वृद्धि होने पर हेडलाइन मुद्रास्फीति (Headline Inflation) प्रभावित होती है।",
+        "en": "An increase in administered prices affects Headline Inflation."
+      }
+    ],
     "question": {
-      "hi": "(Administered Pricing) प्रशासित मूल्य निर्धारण (Administered Pricing Mechanism - APM) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. इसमें कीमतें बाजार की मांग और आपूर्ति द्वारा निर्धारित होती हैं।\n2. उर्वरक (Fertilizer) और पेट्रोलियम उत्पादों के मामले में सरकार अक्सर इस तंत्र का उपयोग करती है।\n3. प्रशासित मूल्यों में वृद्धि होने पर हेडलाइन मुद्रास्फीति (Headline Inflation) प्रभावित होती है।\nसही उत्तर चुनिए:",
-      "en": "(Administered Pricing) Consider the following statements regarding the Administered Pricing Mechanism (APM):\n1. Under this, prices are determined by market demand and supply.\n2. The government often uses this mechanism in the case of fertilizers and petroleum products.\n3. An increase in administered prices affects Headline Inflation.\nSelect the correct answer:"
+      "hi": "(Administered Pricing) प्रशासित मूल्य निर्धारण (Administered Pricing Mechanism - APM) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Administered Pricing) Consider the following statements regarding the Administered Pricing Mechanism (APM):\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1166,10 +1598,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अल्पकालिक बांडों पर ब्याज दरें दीर्घकालिक बांडों की तुलना में अधिक होती हैं।",
+        "en": "Interest rates on short-term bonds are higher than those on long-term bonds."
+      },
+      {
+        "id": 2,
+        "hi": "यह भविष्य में आर्थिक मंदी (Economic Recession) का संकेत माना जाता है।",
+        "en": "It is considered a signal of an impending economic recession."
+      },
+      {
+        "id": 3,
+        "hi": "यह उच्च आर्थिक विकास और बढ़ती मुद्रास्फीति का सूचक है।",
+        "en": "It is an indicator of high economic growth and rising inflation."
+      }
+    ],
     "question": {
-      "hi": "(Yield Curve) 'व्युत्क्रमित यील्ड कर्व' (Inverted Yield Curve) क्या संकेत देता है?\n1. अल्पकालिक बांडों पर ब्याज दरें दीर्घकालिक बांडों की तुलना में अधिक होती हैं।\n2. यह भविष्य में आर्थिक मंदी (Economic Recession) का संकेत माना जाता है।\n3. यह उच्च आर्थिक विकास और बढ़ती मुद्रास्फीति का सूचक है。\nसही उत्तर चुनिए:",
-      "en": "(Yield Curve) What does an 'Inverted Yield Curve' indicate?\n1. Interest rates on short-term bonds are higher than those on long-term bonds.\n2. It is considered a signal of an impending economic recession.\n3. It is an indicator of high economic growth and rising inflation.\nSelect the correct answer:"
+      "hi": "(Yield Curve) 'व्युत्क्रमित यील्ड कर्व' (Inverted Yield Curve) क्या संकेत देता है?\nसही उत्तर चुनिए:",
+      "en": "(Yield Curve) What does an 'Inverted Yield Curve' indicate?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1206,10 +1654,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "RBI अधिनियम, 1934 के अनुसार, केंद्र सरकार को RBI के परामर्श से प्रत्येक पाँच वर्षों में एक बार मुद्रास्फीति लक्ष्य निर्धारित करना अनिवार्य है।",
+        "en": "Under the RBI Act, 1934, it is mandatory for the Central Government, in consultation with the RBI, to set an inflation target once every five years."
+      },
+      {
+        "id": 2,
+        "hi": "मौद्रिक नीति समिति (MPC) का मुख्य उद्देश्य विकास (Growth) को बनाए रखते हुए मुद्रास्फीति को लक्षित दायरे के भीतर रखना है।",
+        "en": "The primary objective of the Monetary Policy Committee (MPC) is to maintain inflation within the target band while keeping the objective of growth in mind."
+      },
+      {
+        "id": 3,
+        "hi": "यदि RBI लगातार तीन तिमाहियों तक मुद्रास्फीति लक्ष्य को प्राप्त करने में विफल रहता है, तो उसे सरकार को रिपोर्ट करने की आवश्यकता नहीं है।",
+        "en": "If the RBI fails to achieve the inflation target for three consecutive quarters, it does not need to report it to the government."
+      }
+    ],
     "question": {
-      "hi": "(Flexible Inflation Targeting Framework - FITF) भारतीय रिज़र्व बैंक के 'लचीला मुद्रास्फीति लक्ष्यीकरण ढाँचा' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. RBI अधिनियम, 1934 के अनुसार, केंद्र सरकार को RBI के परामर्श से प्रत्येक पाँच वर्षों में एक बार मुद्रास्फीति लक्ष्य निर्धारित करना अनिवार्य है।\n2. मौद्रिक नीति समिति (MPC) का मुख्य उद्देश्य विकास (Growth) को बनाए रखते हुए मुद्रास्फीति को लक्षित दायरे के भीतर रखना है।\n3. यदि RBI लगातार तीन तिमाहियों तक मुद्रास्फीति लक्ष्य को प्राप्त करने में विफल रहता है, तो उसे सरकार को रिपोर्ट करने की आवश्यकता नहीं है।\nसही उत्तर चुनिए:",
-      "en": "(Flexible Inflation Targeting Framework - FITF) Consider the following statements regarding the RBI's 'Flexible Inflation Targeting Framework':\n1. Under the RBI Act, 1934, it is mandatory for the Central Government, in consultation with the RBI, to set an inflation target once every five years.\n2. The primary objective of the Monetary Policy Committee (MPC) is to maintain inflation within the target band while keeping the objective of growth in mind.\n3. If the RBI fails to achieve the inflation target for three consecutive quarters, it does not need to report it to the government.\nSelect the correct answer:"
+      "hi": "(Flexible Inflation Targeting Framework - FITF) भारतीय रिज़र्व बैंक के 'लचीला मुद्रास्फीति लक्ष्यीकरण ढाँचा' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Flexible Inflation Targeting Framework - FITF) Consider the following statements regarding the RBI's 'Flexible Inflation Targeting Framework':\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1246,10 +1710,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह मुद्रास्फीति को बढ़ाने वाली एक आत्मनिर्भर प्रक्रिया (Self-perpetuating process) है।",
+        "en": "It is a self-perpetuating process that drives up inflation."
+      },
+      {
+        "id": 2,
+        "hi": "इसमें कीमतों में वृद्धि होने पर श्रमिक उच्च मजदूरी की मांग करते हैं, जिससे उत्पादन लागत बढ़ जाती है और पुनः कीमतों में वृद्धि होती है।",
+        "en": "In this, when prices rise, workers demand higher wages, which increases production costs, leading to a further rise in prices."
+      },
+      {
+        "id": 3,
+        "hi": "यह प्रक्रिया सामान्यतः मंदी (Recession) के दौरान देखी जाती है।",
+        "en": "This process is generally observed during an economic recession."
+      }
+    ],
     "question": {
-      "hi": "(Wage-Price Spiral) 'मजदूरी-मूल्य सर्पिल' (Wage-Price Spiral) की अवधारणा के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह मुद्रास्फीति को बढ़ाने वाली एक आत्मनिर्भर प्रक्रिया (Self-perpetuating process) है।\n2. इसमें कीमतों में वृद्धि होने पर श्रमिक उच्च मजदूरी की मांग करते हैं, जिससे उत्पादन लागत बढ़ जाती है और पुनः कीमतों में वृद्धि होती है।\n3. यह प्रक्रिया सामान्यतः मंदी (Recession) के दौरान देखी जाती है।\nसही उत्तर चुनिए:",
-      "en": "(Wage-Price Spiral) Consider the following statements regarding the concept of a 'Wage-Price Spiral':\n1. It is a self-perpetuating process that drives up inflation.\n2. In this, when prices rise, workers demand higher wages, which increases production costs, leading to a further rise in prices.\n3. This process is generally observed during an economic recession.\nSelect the correct answer:"
+      "hi": "(Wage-Price Spiral) 'मजदूरी-मूल्य सर्पिल' (Wage-Price Spiral) की अवधारणा के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Wage-Price Spiral) Consider the following statements regarding the concept of a 'Wage-Price Spiral':\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1286,10 +1766,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "श्रिंकफ्लेशन में उत्पाद की मात्रा (Quantity) कम की जाती है, जबकि स्किम्पफ्लेशन में उत्पाद की गुणवत्ता (Quality) या सेवा (Service) के स्तर में कटौती की जाती है।",
+        "en": "In shrinkflation, the quantity of the product is reduced, whereas in skimpflation, the quality or service level is cut down."
+      },
+      {
+        "id": 2,
+        "hi": "स्किम्पफ्लेशन का उपयोग तब किया जाता है जब उत्पादक कीमत और मात्रा दोनों को समान रखना चाहते हैं।",
+        "en": "Skimpflation is used when producers want to keep both the price and quantity the same."
+      },
+      {
+        "id": 3,
+        "hi": "दोनों ही रणनीतियों का उपयोग मुद्रास्फीति के दौरान उपभोक्ताओं के व्यवहार को प्रभावित किए बिना मुनाफा मार्जिन बनाए रखने के लिए किया जाता है।",
+        "en": "Both strategies are used during inflation to maintain profit margins without alerting consumers."
+      }
+    ],
     "question": {
-      "hi": "(Skimpflation) 'स्किम्पफ्लेशन' (Skimpflation) और 'श्रिंकफ्लेशन' (Shrinkflation) के बीच मुख्य अंतर क्या है?\n1. श्रिंकफ्लेशन में उत्पाद की मात्रा (Quantity) कम की जाती है, जबकि स्किम्पफ्लेशन में उत्पाद की गुणवत्ता (Quality) या सेवा (Service) के स्तर में कटौती की जाती है।\n2. स्किम्पफ्लेशन का उपयोग तब किया जाता है जब उत्पादक कीमत और मात्रा दोनों को समान रखना चाहते हैं।\n3. दोनों ही रणनीतियों का उपयोग मुद्रास्फीति के दौरान उपभोक्ताओं के व्यवहार को प्रभावित किए बिना मुनाफा मार्जिन बनाए रखने के लिए किया जाता है।\nसही उत्तर चुनिए:",
-      "en": "(Skimpflation) What is the main difference between 'Skimpflation' and 'Shrinkflation'?\n1. In shrinkflation, the quantity of the product is reduced, whereas in skimpflation, the quality or service level is cut down.\n2. Skimpflation is used when producers want to keep both the price and quantity the same.\n3. Both strategies are used during inflation to maintain profit margins without alerting consumers.\nSelect the correct answer:"
+      "hi": "(Skimpflation) 'स्किम्पफ्लेशन' (Skimpflation) और 'श्रिंकफ्लेशन' (Shrinkflation) के बीच मुख्य अंतर क्या है?\nसही उत्तर चुनिए:",
+      "en": "(Skimpflation) What is the main difference between 'Skimpflation' and 'Shrinkflation'?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1326,10 +1822,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह वह समय है जो केंद्रीय बैंक द्वारा नीतिगत दरों (Repo Rate) में परिवर्तन करने और अर्थव्यवस्था पर इसके वास्तविक प्रभाव दिखने के बीच लगता है।",
+        "en": "It is the time taken between the central bank altering policy rates (Repo Rate) and its actual impact showing in the economy."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में यह अंतराल अत्यधिक कम है क्योंकि बैंकिंग प्रणाली पूरी तरह से बाजार-आधारित (Market-determined) है।",
+        "en": "In India, this lag is extremely short because the banking system is fully market-determined."
+      },
+      {
+        "id": 3,
+        "hi": "उच्च गैर-निष्पादित परिसंपत्ति (NPA) स्तर बैंकों की ऋण दरों को कम करने की क्षमता को प्रभावित कर सकते हैं, जिससे संचरण में देरी होती है।",
+        "en": "High levels of Non-Performing Assets (NPAs) can affect banks' ability to lower lending rates, causing delays in transmission."
+      }
+    ],
     "question": {
-      "hi": "(Monetary Policy Transmission Lag) मौद्रिक नीति संचरण अंतराल (Monetary Policy Transmission Lag) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह वह समय है जो केंद्रीय बैंक द्वारा नीतिगत दरों (Repo Rate) में परिवर्तन करने और अर्थव्यवस्था पर इसके वास्तविक प्रभाव दिखने के बीच लगता है।\n2. भारत में यह अंतराल अत्यधिक कम है क्योंकि बैंकिंग प्रणाली पूरी तरह से बाजार-आधारित (Market-determined) है।\n3. उच्च गैर-निष्पादित परिसंपत्ति (NPA) स्तर बैंकों की ऋण दरों को कम करने की क्षमता को प्रभावित कर सकते हैं, जिससे संचरण में देरी होती है।\nसही उत्तर चुनिए:",
-      "en": "(Monetary Policy Transmission Lag) Consider the following statements regarding the Monetary Policy Transmission Lag:\n1. It is the time taken between the central bank altering policy rates (Repo Rate) and its actual impact showing in the economy.\n2. In India, this lag is extremely short because the banking system is fully market-determined.\n3. High levels of Non-Performing Assets (NPAs) can affect banks' ability to lower lending rates, causing delays in transmission.\nSelect the correct answer:"
+      "hi": "(Monetary Policy Transmission Lag) मौद्रिक नीति संचरण अंतराल (Monetary Policy Transmission Lag) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Monetary Policy Transmission Lag) Consider the following statements regarding the Monetary Policy Transmission Lag:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1366,10 +1878,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मुद्रा की आपूर्ति में परिवर्तन केवल नाममात्र चर (Nominal Variables) जैसे कीमतों और मजदूरी को प्रभावित करता है, न कि वास्तविक चर (Real Variables) जैसे उत्पादन और रोजगार को।",
+        "en": "Changes in the money supply only affect nominal variables (like prices and wages) and not real variables (like real output and employment)."
+      },
+      {
+        "id": 2,
+        "hi": "दीर्घकाल में मुद्रा की आपूर्ति बढ़ने से वास्तविक जीडीपी (Real GDP) में वृद्धि होती है।",
+        "en": "In the long run, an increase in the money supply leads to an increase in Real GDP."
+      },
+      {
+        "id": 3,
+        "hi": "यह सिद्धांत मानता है कि अर्थव्यवस्था का वास्तविक आउटपुट केवल तकनीकी और वास्तविक संसाधनों द्वारा निर्धारित होता है।",
+        "en": "This theory assumes that the real output of the economy is determined entirely by technology and real resources."
+      }
+    ],
     "question": {
-      "hi": "(Neutrality of Money) अर्थशास्त्र में 'मुद्रा की तटस्थता' (Neutrality of Money) का क्या अर्थ है?\n1. मुद्रा की आपूर्ति में परिवर्तन केवल नाममात्र चर (Nominal Variables) जैसे कीमतों और मजदूरी को प्रभावित करता है, न कि वास्तविक चर (Real Variables) जैसे उत्पादन और रोजगार को।\n2. दीर्घकाल में मुद्रा की आपूर्ति बढ़ने से वास्तविक जीडीपी (Real GDP) में वृद्धि होती है।\n3. यह सिद्धांत मानता है कि अर्थव्यवस्था का वास्तविक आउटपुट केवल तकनीकी और वास्तविक संसाधनों द्वारा निर्धारित होता है।\nसही उत्तर चुनिए:",
-      "en": "(Neutrality of Money) What is the meaning of 'Neutrality of Money' in economics?\n1. Changes in the money supply only affect nominal variables (like prices and wages) and not real variables (like real output and employment).\n2. In the long run, an increase in the money supply leads to an increase in Real GDP.\n3. This theory assumes that the real output of the economy is determined entirely by technology and real resources.\nSelect the correct answer:"
+      "hi": "(Neutrality of Money) अर्थशास्त्र में 'मुद्रा की तटस्थता' (Neutrality of Money) का क्या अर्थ है?\nसही उत्तर चुनिए:",
+      "en": "(Neutrality of Money) What is the meaning of 'Neutrality of Money' in economics?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1406,10 +1934,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अत्यधिक मुद्रास्फीति घरेलू मुद्रा के अवमूल्यन (Depreciation) का कारण बनती है, जिससे FPI बहिर्वाह (Outflow) का जोखिम बढ़ जाता है।",
+        "en": "High inflation causes depreciation of the domestic currency, which increases the risk of FPI outflows."
+      },
+      {
+        "id": 2,
+        "hi": "यदि मुद्रास्फीति का स्तर ब्याज दरों से अधिक है, तो वास्तविक रिटर्न कम हो जाता है, जिससे विदेशी निवेशक आकर्षित होते हैं।",
+        "en": "If the inflation level is higher than interest rates, the real return decreases, which attracts foreign investors."
+      },
+      {
+        "id": 3,
+        "hi": "मुद्रास्फीति का प्रबंधन विदेशी निवेशकों के विश्वास (Investor Confidence) को बनाए रखने के लिए आवश्यक है।",
+        "en": "Managing inflation is necessary to maintain the confidence of foreign investors."
+      }
+    ],
     "question": {
-      "hi": "(Inflation and FPI) विदेशी पोर्टफोलियो निवेश (Foreign Portfolio Investment - FPI) और मुद्रास्फीति के अंतर्संबंधों पर विचार कीजिए:\n1. अत्यधिक मुद्रास्फीति घरेलू मुद्रा के अवमूल्यन (Depreciation) का कारण बनती है, जिससे FPI बहिर्वाह (Outflow) का जोखिम बढ़ जाता है।\n2. यदि मुद्रास्फीति का स्तर ब्याज दरों से अधिक है, तो वास्तविक रिटर्न कम हो जाता है, जिससे विदेशी निवेशक आकर्षित होते हैं।\n3. मुद्रास्फीति का प्रबंधन विदेशी निवेशकों के विश्वास (Investor Confidence) को बनाए रखने के लिए आवश्यक है।\nसही उत्तर चुनिए:",
-      "en": "(Inflation and FPI) Consider the interrelationships between Foreign Portfolio Investment (FPI) and inflation:\n1. High inflation causes depreciation of the domestic currency, which increases the risk of FPI outflows.\n2. If the inflation level is higher than interest rates, the real return decreases, which attracts foreign investors.\n3. Managing inflation is necessary to maintain the confidence of foreign investors.\nSelect the correct answer:"
+      "hi": "(Inflation and FPI) विदेशी पोर्टफोलियो निवेश (Foreign Portfolio Investment - FPI) और मुद्रास्फीति के अंतर्संबंधों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Inflation and FPI) Consider the interrelationships between Foreign Portfolio Investment (FPI) and inflation:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1446,10 +1990,26 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसका भार निम्न आय वर्ग पर उच्च आय वर्ग की तुलना में अधिक पड़ता है।",
+        "en": "Its burden falls more heavily on the lower-income group compared to the higher-income group."
+      },
+      {
+        "id": 2,
+        "hi": "निम् आय वर्ग के पास अपनी आय को मुद्रास्फीति से सुरक्षित रखने के लिए कम वित्तीय उपकरण उपलब्ध होते हैं।",
+        "en": "The lower-income group has fewer financial instruments available to protect their income from inflation."
+      },
+      {
+        "id": 3,
+        "hi": "मुद्रास्फीति के कारण धन का पुनर्वितरण गरीबों से अमीरों की ओर होता है।",
+        "en": "Inflation leads to the redistribution of wealth from the poor to the rich."
+      }
+    ],
     "question": {
-      "hi": "(Regressive Nature of Inflation) मुद्रास्फीति की 'प्रतिगामी प्रकृति' (Regressive Nature) का क्या तात्पर्य है?\n1. इसका भार निम्न आय वर्ग पर उच्च आय वर्ग की तुलना में अधिक पड़ता है।\n2. निम्न आय वर्ग के पास अपनी आय को मुद्रास्फीति से सुरक्षित रखने के लिए कम वित्तीय उपकरण उपलब्ध होते हैं।\n3. मुद्रास्फीति के कारण धन का पुनर्वितरण गरीबों से अमीरों की ओर होता है।\nसही उत्तर चुनिए:",
-      "en": "(Regressive Nature of Inflation) What is implied by the 'Regressive Nature' of inflation?\n1. Its burden falls more heavily on the lower-income group compared to the higher-income group.\n2. The lower-income group has fewer financial instruments available to protect their income from inflation.\n3. Inflation leads to the redistribution of wealth from the poor to the rich.\nSelect the correct answer:"
+      "hi": "(Regressive Nature of Inflation) मुद्रास्फीति की 'प्रतिगामी प्रकृति' (Regressive Nature) का क्या तात्पर्य है?\nसही उत्तर चुनिए:",
+      "en": "(Regressive Nature of Inflation) What is implied by the 'Regressive Nature' of inflation?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1475,7 +2035,7 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "तीनों कथन बिल्कुल सही हैं। 'प्रतिगामी' (Regressive) का मतलब है जो गरीबों को ज्यादा और अमीरों को कम नुकसान पहुँचाए। महंगाई गरीबों की जेब का सारा नकद पैसा सोख लेती है क्योंकि वे अपनी आय का 60% सिर्फ खाने पर खर्च करते हैं। वहीं, अमीर लोग अपना पैसा जमीनों या शेयर बाजार (वित्तीय उपकरण) में लगाते हैं, जिनके दाम महंगाई के साथ और बढ़ जाते हैं, इसलिए उनका पैसा और बढ़ जाता है।",
+      "hi": "तीनों कथन बिल्कुल सही हैं। 'प्रतिगामी' (Regressive) का मतलब है जो गरीबों को ज्यादा और अमीरों को कम नुकसान पहुँचाए। महंगाई गरीबों की जेब का सारा नकद पैसा सोख लेती है क्योंकि वे अपनी आय का 60% सिर्फ खाने पर खर्च স্পেন करते हैं। वहीं, अमीर लोग अपना पैसा जमीनों या शेयर बाजार (वित्तीय उपकरण) में लगाते हैं, जिनके दाम महंगाई के साथ और बढ़ जाते हैं, इसलिए उनका पैसा और बढ़ जाता है।",
       "en": "All three statements are completely correct. A 'regressive' tax is one that hurts the poor disproportionately more than the rich. Inflation acts exactly like this. The poor hold cash and spend most of it on basic food items, losing purchasing power daily. The rich hold assets like real estate and stocks, which actually appreciate during inflation, effectively transferring purchasing power from the bottom to the top."
     }
   },
@@ -1486,10 +2046,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ये उपभोग की वस्तुएं नहीं हैं, बल्कि निवेश की वस्तुएं (Investment goods) हैं।",
+        "en": "They are not consumption goods, but rather investment goods."
+      },
+      {
+        "id": 2,
+        "hi": "इनकी कीमतें उपभोग आधारित वस्तुओं की तुलना में कम अस्थिर (Less volatile) होती हैं।",
+        "en": "Their prices are less volatile compared to consumption-based goods."
+      },
+      {
+        "id": 3,
+        "hi": "इन्हें शामिल करने से मौद्रिक नीति का मुख्य लक्ष्य (Consumer price stability) भ्रमित हो सकता है।",
+        "en": "Including them could mislead the primary goal of monetary policy (consumer price stability)."
+      }
+    ],
     "question": {
-      "hi": "(Asset Prices vs. CPI) उपभोक्ता मूल्य सूचकांक (CPI) में परिसंपत्ति मूल्यों (Asset Prices जैसे शेयर, सोना, रियल एस्टेट) को क्यों शामिल नहीं किया जाता है?\n1. ये उपभोग की वस्तुएं नहीं हैं, बल्कि निवेश की वस्तुएं (Investment goods) हैं।\n2. इनकी कीमतें उपभोग आधारित वस्तुओं की तुलना में कम अस्थिर (Less volatile) होती हैं।\n3. इन्हें शामिल करने से मौद्रिक नीति का मुख्य लक्ष्य (Consumer price stability) भ्रमित हो सकता है।\nसही उत्तर चुनिए:",
-      "en": "(Asset Prices vs. CPI) Why are Asset Prices (like shares, gold, real estate) not included in the Consumer Price Index (CPI)?\n1. They are not consumption goods, but rather investment goods.\n2. Their prices are less volatile compared to consumption-based goods.\n3. Including them could mislead the primary goal of monetary policy (consumer price stability).\nSelect the correct answer:"
+      "hi": "(Asset Prices vs. CPI) उपभोक्ता मूल्य सूचकांक (CPI) में परिसंपत्ति मूल्यों (Asset Prices जैसे शेयर, सोना, रियल एस्टेट) को क्यों शामिल नहीं किया जाता है?\nसही उत्तर चुनिए:",
+      "en": "(Asset Prices vs. CPI) Why are Asset Prices (like shares, gold, real estate) not included in the Consumer Price Index (CPI)?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1526,10 +2102,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "IPD अर्थव्यवस्था में उत्पादित सभी वस्तुओं और सेवाओं की कीमतों में परिवर्तन को मापता है, न कि केवल चयनित वस्तुओं को।",
+        "en": "The IPD measures the price changes of all goods and services produced in the economy, not just a selected basket."
+      },
+      {
+        "id": 2,
+        "hi": "CPI के विपरीत, IPD में आयातित वस्तुओं (Imported goods) के मूल्य परिवर्तन शामिल नहीं होते हैं।",
+        "en": "Unlike CPI, the IPD does not include price changes of imported goods."
+      },
+      {
+        "id": 3,
+        "hi": "जीडीपी डिफ्लेटर (GDP Deflator) का उपयोग आईपीडी की गणना के लिए नहीं किया जा सकता है।",
+        "en": "The GDP Deflator cannot be used to calculate the IPD."
+      }
+    ],
     "question": {
-      "hi": "(Implicit Price Deflator vs CPI) अंतर्निहित मूल्य अपस्फीतिकारक (Implicit Price Deflator - IPD) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. IPD अर्थव्यवस्था में उत्पादित सभी वस्तुओं और सेवाओं की कीमतों में परिवर्तन को मापता है, न कि केवल चयनित वस्तुओं को।\n2. CPI के विपरीत, IPD में आयातित वस्तुओं (Imported goods) के मूल्य परिवर्तन शामिल नहीं होते हैं।\n3. जीडीपी डिफ्लेटर (GDP Deflator) का उपयोग आईपीडी की गणना के लिए नहीं किया जा सकता है।\nसही उत्तर चुनिए:",
-      "en": "(Implicit Price Deflator vs CPI) Consider the following statements regarding the Implicit Price Deflator (IPD):\n1. The IPD measures the price changes of all goods and services produced in the economy, not just a selected basket.\n2. Unlike CPI, the IPD does not include price changes of imported goods.\n3. The GDP Deflator cannot be used to calculate the IPD.\nSelect the correct answer:"
+      "hi": "(Implicit Price Deflator vs CPI) अंतर्निहित मूल्य अपस्फीतिकारक (Implicit Price Deflator - IPD) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Implicit Price Deflator vs CPI) Consider the following statements regarding the Implicit Price Deflator (IPD):\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1566,10 +2158,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "व्यापार चक्र के विस्तार (Expansion) चरण में, कंपनियां इन्वेंट्री (स्टॉक) बढ़ाती हैं, जो आपूर्ति पक्ष पर दबाव डाल सकती है।",
+        "en": "In the expansion phase of the business cycle, companies build up inventory (stock), which can put pressure on the supply side."
+      },
+      {
+        "id": 2,
+        "hi": "अत्यधिक इन्वेंट्री का संचय (Accumulation) मांग में कमी का संकेत देता है, जो भविष्य में मुद्रास्फीति के दबाव को कम कर सकता है।",
+        "en": "Excessive accumulation of inventory indicates a drop in demand, which can reduce inflationary pressure in the future."
+      },
+      {
+        "id": 3,
+        "hi": "जस्ट-इन-टाइम (Just-in-Time) इन्वेंट्री प्रबंधन तकनीक मुद्रास्फीति को और अधिक बढ़ा देती है।",
+        "en": "The Just-in-Time (JIT) inventory management technique further increases inflation."
+      }
+    ],
     "question": {
-      "hi": "(Inflation and Inventory Cycle) 'इन्वेंट्री चक्र' (Inventory Cycle) और मुद्रास्फीति के संबंधों के बारे में कौन सा कथन सही है?\n1. व्यापार चक्र के विस्तार (Expansion) चरण में, कंपनियां इन्वेंट्री (स्टॉक) बढ़ाती हैं, जो आपूर्ति पक्ष पर दबाव डाल सकती है।\n2. अत्यधिक इन्वेंट्री का संचय (Accumulation) मांग में कमी का संकेत देता है, जो भविष्य में मुद्रास्फीति के दबाव को कम कर सकता है।\n3. जस्ट-इन-टाइम (Just-in-Time) इन्वेंट्री प्रबंधन तकनीक मुद्रास्फीति को और अधिक बढ़ा देती है।\nसही उत्तर चुनिए:",
-      "en": "(Inflation and Inventory Cycle) Which statements are correct regarding the relationship between the 'Inventory Cycle' and inflation?\n1. In the expansion phase of the business cycle, companies build up inventory (stock), which can put pressure on the supply side.\n2. Excessive accumulation of inventory indicates a drop in demand, which can reduce inflationary pressure in the future.\n3. The Just-in-Time (JIT) inventory management technique further increases inflation.\nSelect the correct answer:"
+      "hi": "(Inflation and Inventory Cycle) 'इन्वेंट्री चक्र' (Inventory Cycle) और मुद्रास्फीति के संबंधों के बारे में कौन सा कथन सही है?\nसही उत्तर चुनिए:",
+      "en": "(Inflation and Inventory Cycle) Which statements are correct regarding the relationship between the 'Inventory Cycle' and inflation?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1606,10 +2214,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "RBI द्वारा किया जाने वाला 'पेशेवर पूर्वानुमानकर्ताओं का सर्वेक्षण' (Survey of Professional Forecasters) मुद्रास्फीति प्रत्याशाओं को मापने का एक प्रमुख उपकरण है।",
+        "en": "The 'Survey of Professional Forecasters' conducted by the RBI is a major tool to measure inflation expectations."
+      },
+      {
+        "id": 2,
+        "hi": "यदि उपभोक्ता भविष्य में उच्च मुद्रास्फीति की प्रत्याशा करते हैं, तो वे वर्तमान उपभोग को कम कर देते हैं जिससे मुद्रास्फीति का दबाव तुरंत समाप्त हो जाता है।",
+        "en": "If consumers expect high inflation in the future, they reduce current consumption, instantly eliminating inflationary pressure."
+      },
+      {
+        "id": 3,
+        "hi": "एंकरिंग (Anchoring) का तात्पर्य है कि केंद्रीय बैंक की विश्वसनीयता के कारण आम जनता दीर्घकालिक मुद्रास्फीति को एक स्थिर लक्ष्य के आसपास मानती है।",
+        "en": "Anchoring means that due to the central bank's credibility, the general public expects long-term inflation to remain around a stable target."
+      }
+    ],
     "question": {
-      "hi": "(Inflation Expectations) 'मुद्रास्फीति प्रत्याशा' (Inflation Expectations) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. RBI द्वारा किया जाने वाला 'पेशेवर पूर्वानुमानकर्ताओं का सर्वेक्षण' (Survey of Professional Forecasters) मुद्रास्फीति प्रत्याशाओं को मापने का एक प्रमुख उपकरण है।\n2. यदि उपभोक्ता भविष्य में उच्च मुद्रास्फीति की प्रत्याशा करते हैं, तो वे वर्तमान उपभोग को कम कर देते हैं जिससे मुद्रास्फीति का दबाव तुरंत समाप्त हो जाता है।\n3. एंकरिंग (Anchoring) का तात्पर्य है कि केंद्रीय बैंक की विश्वसनीयता के कारण आम जनता दीर्घकालिक मुद्रास्फीति को एक स्थिर लक्ष्य के आसपास मानती है।\nसही उत्तर चुनिए:",
-      "en": "(Inflation Expectations) Consider the following statements regarding 'Inflation Expectations':\n1. The 'Survey of Professional Forecasters' conducted by the RBI is a major tool to measure inflation expectations.\n2. If consumers expect high inflation in the future, they reduce current consumption, instantly eliminating inflationary pressure.\n3. Anchoring means that due to the central bank's credibility, the general public expects long-term inflation to remain around a stable target.\nSelect the correct answer:"
+      "hi": "(Inflation Expectations) 'मुद्रास्फीति प्रत्याशा' (Inflation Expectations) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Inflation Expectations) Consider the following statements regarding 'Inflation Expectations':\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1646,10 +2270,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह मुद्रास्फीति की दर को एक प्रतिशत बिंदु कम करने के लिए आवश्यक वास्तविक जीडीपी (Real GDP) में कमी का माप है।",
+        "en": "It is a measure of the loss in Real GDP required to reduce the inflation rate by one percentage point."
+      },
+      {
+        "id": 2,
+        "hi": "उच्च बलिदान अनुपात का अर्थ है कि अर्थव्यवस्था में मुद्रास्फीति को कम करना 'महंगा' है (अर्थात उच्च बेरोजगारी और कम विकास)।",
+        "en": "A high sacrifice ratio means that reducing inflation in the economy is 'costly' (i.e., it entails high unemployment and low growth)."
+      },
+      {
+        "id": 3,
+        "hi": "फिलिप्स वक्र (Phillips Curve) जितना सपाट (Flat) होगा, बलिदान अनुपात उतना ही कम होगा।",
+        "en": "The flatter the Phillips Curve, the lower the sacrifice ratio will be."
+      }
+    ],
     "question": {
-      "hi": "(Sacrifice Ratio) 'बलिदान अनुपात' (Sacrifice Ratio) की अवधारणा के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह मुद्रास्फीति की दर को एक प्रतिशत बिंदु कम करने के लिए आवश्यक वास्तविक जीडीपी (Real GDP) में कमी का माप है।\n2. उच्च बलिदान अनुपात का अर्थ है कि अर्थव्यवस्था में मुद्रास्फीति को कम करना 'महंगा' है (अर्थात उच्च बेरोजगारी और कम विकास)।\n3. फिलिप्स वक्र (Phillips Curve) जितना सपाट (Flat) होगा, बलिदान अनुपात उतना ही कम होगा।\nसही उत्तर चुनिए:",
-      "en": "(Sacrifice Ratio) Consider the following statements regarding the concept of the 'Sacrifice Ratio':\n1. It is a measure of the loss in Real GDP required to reduce the inflation rate by one percentage point.\n2. A high sacrifice ratio means that reducing inflation in the economy is 'costly' (i.e., it entails high unemployment and low growth).\n3. The flatter the Phillips Curve, the lower the sacrifice ratio will be.\nSelect the correct answer:"
+      "hi": "(Sacrifice Ratio) 'बलिदान अनुपात' (Sacrifice Ratio) की अवधारणा के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Sacrifice Ratio) Consider the following statements regarding the concept of the 'Sacrifice Ratio':\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1686,10 +2326,26 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "'मेनू लागत' (Menu Costs) उन वास्तविक संसाधनों को संदर्भित करती है जो फर्मों को कीमतों में बदलाव के कारण अपने मूल्य टैग, कैटलॉग आदि को अपडेट करने में खर्च करने पड़ते हैं।",
+        "en": "'Menu Costs' refer to the actual resources that firms have to spend to update their price tags, catalogs, etc., due to changing prices."
+      },
+      {
+        "id": 2,
+        "hi": "'शू-लेदर लागत' (Shoe Leather Costs) मुद्रा रखने की अवसर लागत (Opportunity cost) से संबंधित है, क्योंकि उच्च मुद्रास्फीति में लोग कम नकदी रखना चाहते हैं और बार-बार बैंक जाते हैं।",
+        "en": "'Shoe Leather Costs' relate to the opportunity cost of holding money, as in high inflation people want to hold less cash and make frequent trips to the bank."
+      },
+      {
+        "id": 3,
+        "hi": "ये दोनों लागतें केवल अत्यधिक मुद्रास्फीति (Hyperinflation) में ही देखी जाती हैं, मध्यम मुद्रास्फीति में इनका कोई प्रभाव नहीं होता।",
+        "en": "Both these costs are observed only in cases of Hyperinflation; they have no impact during moderate inflation."
+      }
+    ],
     "question": {
-      "hi": "(Menu Costs & Shoe Leather Costs) मुद्रास्फीति की लागतों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. 'मेनू लागत' (Menu Costs) उन वास्तविक संसाधनों को संदर्भित करती है जो फर्मों को कीमतों में बदलाव के कारण अपने मूल्य टैग, कैटलॉग आदि को अपडेट करने में खर्च करने पड़ते हैं।\n2. 'शू-लेदर लागत' (Shoe Leather Costs) मुद्रा रखने की अवसर लागत (Opportunity cost) से संबंधित है, क्योंकि उच्च मुद्रास्फीति में लोग कम नकदी रखना चाहते हैं और बार-बार बैंक जाते हैं।\n3. ये दोनों लागतें केवल अत्यधिक मुद्रास्फीति (Hyperinflation) में ही देखी जाती हैं, मध्यम मुद्रास्फीति में इनका कोई प्रभाव नहीं होता।\nसही उत्तर चुनिए:",
-      "en": "(Menu Costs & Shoe Leather Costs) Consider the following statements regarding the costs of inflation:\n1. 'Menu Costs' refer to the actual resources that firms have to spend to update their price tags, catalogs, etc., due to changing prices.\n2. 'Shoe Leather Costs' relate to the opportunity cost of holding money, as in high inflation people want to hold less cash and make frequent trips to the bank.\n3. Both these costs are observed only in cases of Hyperinflation; they have no impact during moderate inflation.\nSelect the correct answer:"
+      "hi": "(Menu Costs & Shoe Leather Costs) मुद्रास्फीति की लागतों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Menu Costs & Shoe Leather Costs) Consider the following statements regarding the costs of inflation:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1726,10 +2382,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह वक्र 'रिक्तियों की दर' (Vacancy Rate) और 'बेरोजगारी दर' (Unemployment Rate) के बीच व्युत्क्रमानुपाती संबंध को दर्शाता है।",
+        "en": "This curve shows an inverse relationship between the 'Vacancy Rate' (job openings) and the 'Unemployment Rate'."
+      },
+      {
+        "id": 2,
+        "hi": "यदि बेवरिज वक्र बाहर की ओर खिसकता है (Shift outwards), तो यह संरचनात्मक बेरोजगारी (Structural Unemployment) में वृद्धि का संकेत देता है, जो मुद्रास्फीति के दबाव को बढ़ा सकता है।",
+        "en": "If the Beveridge curve shifts outwards, it indicates an increase in structural unemployment, which can increase inflationary pressure."
+      },
+      {
+        "id": 3,
+        "hi": "मुद्रास्फीति और बेरोजगारी के बीच के 'फिलिप्स वक्र' (Phillips Curve) के विपरीत, बेवरिज वक्र का मुद्रास्फीति से कोई संबंध नहीं है।",
+        "en": "Unlike the 'Phillips Curve' (which links inflation and unemployment), the Beveridge curve has no relation to inflation."
+      }
+    ],
     "question": {
-      "hi": "(Beveridge Curve) 'बेवरिज वक्र' (Beveridge Curve) और मुद्रास्फीति के संबंधों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह वक्र 'रिक्तियों की दर' (Vacancy Rate) और 'बेरोजगारी दर' (Unemployment Rate) के बीच व्युत्क्रमानुपाती संबंध को दर्शाता है।\n2. यदि बेवरिज वक्र बाहर की ओर खिसकता है (Shift outwards), तो यह संरचनात्मक बेरोजगारी (Structural Unemployment) में वृद्धि का संकेत देता है, जो मुद्रास्फीति के दबाव को बढ़ा सकता है।\n3. मुद्रास्फीति और बेरोजगारी के बीच के 'फिलिप्स वक्र' (Phillips Curve) के विपरीत, बेवरिज वक्र का मुद्रास्फीति से कोई संबंध नहीं है।\nसही उत्तर चुनिए:",
-      "en": "(Beveridge Curve) Consider the following statements regarding the relationship between the 'Beveridge Curve' and inflation:\n1. This curve shows an inverse relationship between the 'Vacancy Rate' (job openings) and the 'Unemployment Rate'.\n2. If the Beveridge curve shifts outwards, it indicates an increase in structural unemployment, which can increase inflationary pressure.\n3. Unlike the 'Phillips Curve' (which links inflation and unemployment), the Beveridge curve has no relation to inflation.\nSelect the correct answer:"
+      "hi": "(Beveridge Curve) 'बेवरिज वक्र' (Beveridge Curve) और मुद्रास्फीति के संबंधों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Beveridge Curve) Consider the following statements regarding the relationship between the 'Beveridge Curve' and inflation:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1766,10 +2438,26 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विस्फीति का अर्थ है मुद्रास्फीति की दर का कम होना (जैसे 10% से 5% पर आना), जबकि अपस्फीति का अर्थ है कीमतों का पूर्ण स्तर गिरना (Negative Inflation)।",
+        "en": "Disinflation means a reduction in the rate of inflation (e.g., dropping from 10% to 5%), whereas deflation means a fall in the absolute price level (Negative Inflation)."
+      },
+      {
+        "id": 2,
+        "hi": "विस्फीति आमतौर पर केंद्रीय बैंक द्वारा संकुचित मौद्रिक नीति अपनाने का परिणाम होती है।",
+        "en": "Disinflation is usually the result of the central bank adopting a contractionary monetary policy."
+      },
+      {
+        "id": 3,
+        "hi": "अपस्फीति अर्थव्यवस्था के लिए हमेशा विस्फीति की तुलना में अधिक लाभप्रद होती है क्योंकि इससे उपभोक्ताओं की क्रय शक्ति बढ़ती है।",
+        "en": "Deflation is always more beneficial for the economy than disinflation because it increases the purchasing power of consumers."
+      }
+    ],
     "question": {
-      "hi": "(Disinflation vs Deflation) 'विस्फीति' (Disinflation) और 'अपस्फीति' (Deflation) के बीच अंतर के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. विस्फीति का अर्थ है मुद्रास्फीति की दर का कम होना (जैसे 10% से 5% पर आना), जबकि अपस्फीति का अर्थ है कीमतों का पूर्ण स्तर गिरना (Negative Inflation)।\n2. विस्फीति आमतौर पर केंद्रीय बैंक द्वारा संकुचित मौद्रिक नीति अपनाने का परिणाम होती है।\n3. अपस्फीति अर्थव्यवस्था के लिए हमेशा विस्फीति की तुलना में अधिक लाभप्रद होती है क्योंकि इससे उपभोक्ताओं की क्रय शक्ति बढ़ती है।\nसही उत्तर चुनिए:",
-      "en": "(Disinflation vs Deflation) Consider the following statements regarding the difference between 'Disinflation' and 'Deflation':\n1. Disinflation means a reduction in the rate of inflation (e.g., dropping from 10% to 5%), whereas deflation means a fall in the absolute price level (Negative Inflation).\n2. Disinflation is usually the result of the central bank adopting a contractionary monetary policy.\n3. Deflation is always more beneficial for the economy than disinflation because it increases the purchasing power of consumers.\nSelect the correct answer:"
+      "hi": "(Disinflation vs Deflation) 'विस्फीति' (Disinflation) और 'अपस्फीति' (Deflation) के बीच अंतर के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Disinflation vs Deflation) Consider the following statements regarding the difference between 'Disinflation' and 'Deflation':\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1806,10 +2494,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह दर्शाता है कि जब नई मुद्रा अर्थव्यवस्था में प्रवेश करती है, तो कीमतें एक साथ नहीं बढ़तीं, बल्कि कुछ समूहों को पहले और कुछ को बाद में लाभ होता है।",
+        "en": "It shows that when new money enters the economy, prices do not rise simultaneously; rather, some groups benefit first and others later."
+      },
+      {
+        "id": 2,
+        "hi": "यह धन के पुनर्वितरण का कारण बनता है, जहाँ वे लोग जो नई मुद्रा के संपर्क में पहले आते हैं (जैसे बैंक, सरकार), उनकी क्रय शक्ति बढ़ जाती है।",
+        "en": "It causes a redistribution of wealth, where those who come into contact with the new money first (like banks, the government) see an increase in their purchasing power."
+      },
+      {
+        "id": 3,
+        "hi": "यह प्रभाव मुद्रा आपूर्ति में वृद्धि के तटस्थ (Neutral) होने के सिद्धांत का समर्थन करता है।",
+        "en": "This effect supports the theory of the Neutrality of Money supply growth."
+      }
+    ],
     "question": {
-      "hi": "(Cantillon Effect) अर्थशास्त्र में 'कैंटिलॉन प्रभाव' (Cantillon Effect) का मुद्रास्फीति के संदर्भ में क्या अर्थ है?\n1. यह दर्शाता है कि जब नई मुद्रा अर्थव्यवस्था में प्रवेश करती है, तो कीमतें एक साथ नहीं बढ़तीं, बल्कि कुछ समूहों को पहले और कुछ को बाद में लाभ होता है।\n2. यह धन के पुनर्वितरण का कारण बनता है, जहाँ वे लोग जो नई मुद्रा के संपर्क में पहले आते हैं (जैसे बैंक, सरकार), उनकी क्रय शक्ति बढ़ जाती है।\n3. यह प्रभाव मुद्रा आपूर्ति में वृद्धि के तटस्थ (Neutral) होने के सिद्धांत का समर्थन करता है।\nसही उत्तर चुनिए:",
-      "en": "(Cantillon Effect) What is the meaning of the 'Cantillon Effect' in economics in the context of inflation?\n1. It shows that when new money enters the economy, prices do not rise simultaneously; rather, some groups benefit first and others later.\n2. It causes a redistribution of wealth, where those who come into contact with the new money first (like banks, the government) see an increase in their purchasing power.\n3. This effect supports the theory of the Neutrality of Money supply growth.\nSelect the correct answer:"
+      "hi": "(Cantillon Effect) अर्थशास्त्र में 'कैंटिलॉन प्रभाव' (Cantillon Effect) का मुद्रास्फीति के संदर्भ में क्या अर्थ है?\nसही उत्तर चुनिए:",
+      "en": "(Cantillon Effect) What is the meaning of the 'Cantillon Effect' in economics in the context of inflation?\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1846,10 +2550,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सकारात्मक आउटपुट गैप (Positive Output Gap) तब होता है जब वास्तविक जीडीपी, संभावित जीडीपी (Potential GDP) से अधिक होती है, जो मांग-जनित मुद्रास्फीति को जन्म देती है।",
+        "en": "A Positive Output Gap occurs when Real GDP is greater than Potential GDP, which gives rise to demand-pull inflation."
+      },
+      {
+        "id": 2,
+        "hi": "नकारात्मक आउटपुट गैप (Negative Output Gap) मंदी का संकेत देता है और अक्सर मुद्रास्फीति को कम करने की प्रवृत्ति रखता है।",
+        "en": "A Negative Output Gap indicates a recession and often tends to reduce inflation."
+      },
+      {
+        "id": 3,
+        "hi": "RBI का मौद्रिक नीति रुख आउटपुट गैप को पूरी तरह से नजरअंदाज करता है।",
+        "en": "The monetary policy stance of the RBI completely ignores the output gap."
+      }
+    ],
     "question": {
-      "hi": "(Output Gap) 'आउटपुट गैप' (Output Gap) और मुद्रास्फीति के बीच संबंध के बारे में निम्नलिखित कथनों पर विचार कीजिए:\n1. सकारात्मक आउटपुट गैप (Positive Output Gap) तब होता है जब वास्तविक जीडीपी, संभावित जीडीपी (Potential GDP) से अधिक होती है, जो मांग-जनित मुद्रास्फीति को जन्म देती है।\n2. नकारात्मक आउटपुट गैप (Negative Output Gap) मंदी का संकेत देता है और अक्सर मुद्रास्फीति को कम करने की प्रवृत्ति रखता है।\n3. RBI का मौद्रिक नीति रुख आउटपुट गैप को पूरी तरह से नजरअंदाज करता है।\nसही उत्तर चुनिए:",
-      "en": "(Output Gap) Consider the following statements regarding the relationship between the 'Output Gap' and inflation:\n1. A Positive Output Gap occurs when Real GDP is greater than Potential GDP, which gives rise to demand-pull inflation.\n2. A Negative Output Gap indicates a recession and often tends to reduce inflation.\n3. The monetary policy stance of the RBI completely ignores the output gap.\nSelect the correct answer:"
+      "hi": "(Output Gap) 'आउटपुट गैप' (Output Gap) और मुद्रास्फीति के बीच संबंध के बारे में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Output Gap) Consider the following statements regarding the relationship between the 'Output Gap' and inflation:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1886,10 +2606,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "RBI का 'पदानुक्रमित जनादेश' (Hierarchical Mandate) है, जिसमें प्राथमिक लक्ष्य मुद्रास्फीति को नियंत्रित करना है और द्वितीयक लक्ष्य विकास है।",
+        "en": "The RBI has a 'Hierarchical Mandate', where the primary goal is controlling inflation and the secondary goal is growth."
+      },
+      {
+        "id": 2,
+        "hi": "अमेरिकी फेडरल रिजर्व (US Fed) का 'दोहरा जनादेश' (Dual Mandate) है, जिसमें मुद्रास्फीति नियंत्रण और पूर्ण रोजगार (Maximum Employment) दोनों को समान महत्व दिया जाता है।",
+        "en": "The US Federal Reserve (US Fed) has a 'Dual Mandate', where equal importance is given to both inflation control and maximum employment."
+      },
+      {
+        "id": 3,
+        "hi": "पदानुक्रमित जनादेश का अर्थ है कि विकास को पूरी तरह से छोड़ दिया जाता है।",
+        "en": "A hierarchical mandate means that economic growth is completely abandoned."
+      }
+    ],
     "question": {
-      "hi": "(Hierarchical vs Dual Mandate) मौद्रिक नीति लक्ष्यों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. RBI का 'पदानुक्रमित जनादेश' (Hierarchical Mandate) है, जिसमें प्राथमिक लक्ष्य मुद्रास्फीति को नियंत्रित करना है और द्वितीयक लक्ष्य विकास है。\n2. अमेरिकी फेडरल रिजर्व (US Fed) का 'दोहरा जनादेश' (Dual Mandate) है, जिसमें मुद्रास्फीति नियंत्रण और पूर्ण रोजगार (Maximum Employment) दोनों को समान महत्व दिया जाता है।\n3. पदानुक्रमित जनादेश का अर्थ है कि विकास को पूरी तरह से छोड़ दिया जाता है।\nसही उत्तर चुनिए:",
-      "en": "(Hierarchical vs Dual Mandate) Consider the following statements regarding monetary policy targets:\n1. The RBI has a 'Hierarchical Mandate', where the primary goal is controlling inflation and the secondary goal is growth.\n2. The US Federal Reserve (US Fed) has a 'Dual Mandate', where equal importance is given to both inflation control and maximum employment.\n3. A hierarchical mandate means that economic growth is completely abandoned.\nSelect the correct answer:"
+      "hi": "(Hierarchical vs Dual Mandate) मौद्रिक नीति लक्ष्यों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Hierarchical vs Dual Mandate) Consider the following statements regarding monetary policy targets:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1926,10 +2662,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह बेरोजगारी दर और जीडीपी के बीच के संबंध को दर्शाता है।",
+        "en": "It shows the relationship between the unemployment rate and GDP."
+      },
+      {
+        "id": 2,
+        "hi": "ओकुन का नियम कहता है कि जीडीपी में प्रत्येक प्रतिशत की वृद्धि बेरोजगारी को एक निश्चित मात्रा में कम करती है।",
+        "en": "Okun's Law states that each percentage point of increase in GDP reduces unemployment by a certain fixed amount."
+      },
+      {
+        "id": 3,
+        "hi": "यह नियम मुद्रास्फीति और बेरोजगारी के बीच प्रत्यक्ष (Positive) संबंध की पुष्टि करता है।",
+        "en": "This law confirms a direct (positive) relationship between inflation and unemployment."
+      }
+    ],
     "question": {
-      "hi": "(Okun's Law) 'ओकुन का नियम' (Okun's Law) और मुद्रास्फीति के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह बेरोजगारी दर और जीडीपी के बीच के संबंध को दर्शाता है।\n2. ओकुन का नियम कहता है कि जीडीपी में प्रत्येक प्रतिशत की वृद्धि बेरोजगारी को एक निश्चित मात्रा में कम करती है।\n3. यह नियम मुद्रास्फीति और बेरोजगारी के बीच प्रत्यक्ष (Positive) संबंध की पुष्टि करता है।\nसही उत्तर चुनिए:",
-      "en": "(Okun's Law) Consider the following statements regarding 'Okun's Law' and inflation:\n1. It shows the relationship between the unemployment rate and GDP.\n2. Okun's Law states that each percentage point of increase in GDP reduces unemployment by a certain fixed amount.\n3. This law confirms a direct (positive) relationship between inflation and unemployment.\nSelect the correct answer:"
+      "hi": "(Okun's Law) 'ओकुन का नियम' (Okun's Law) और मुद्रास्फीति के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Okun's Law) Consider the following statements regarding 'Okun's Law' and inflation:\nSelect the correct answer:"
     },
     "options": [
       {
@@ -1966,10 +2718,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह घटना तब होती है जब देश की घरेलू मुद्रा उच्च मुद्रास्फीति (Hyperinflation) के कारण अपना मूल्य खो देती है और लोग विदेशी मुद्रा (जैसे डॉलर) को विनिमय के माध्यम के रूप में उपयोग करने लगते हैं।",
+        "en": "This phenomenon occurs when a country's domestic currency loses its value due to hyperinflation, and people start using a foreign currency (like the dollar) as a medium of exchange."
+      },
+      {
+        "id": 2,
+        "hi": "इससे केंद्रीय बैंक की मौद्रिक नीति (Monetary Policy) का प्रभाव कम या समाप्त हो जाता है।",
+        "en": "This reduces or eliminates the effectiveness of the central bank's monetary policy."
+      },
+      {
+        "id": 3,
+        "hi": "यह अर्थव्यवस्था के लिए एक सकारात्मक संकेत है क्योंकि यह अंतरराष्ट्रीय व्यापार को सरल बनाता है।",
+        "en": "It is a positive sign for the economy because it simplifies international trade."
+      }
+    ],
     "question": {
-      "hi": "(Currency Substitution) 'मुद्रा प्रतिस्थापन' (Currency Substitution / Dollarization) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. यह घटना तब होती है जब देश की घरेलू मुद्रा उच्च मुद्रास्फीति (Hyperinflation) के कारण अपना मूल्य खो देती है और लोग विदेशी मुद्रा (जैसे डॉलर) को विनिमय के माध्यम के रूप में उपयोग करने लगते हैं।\n2. इससे केंद्रीय बैंक की मौद्रिक नीति (Monetary Policy) का प्रभाव कम या समाप्त हो जाता है।\n3. यह अर्थव्यवस्था के लिए एक सकारात्मक संकेत है क्योंकि यह अंतरराष्ट्रीय व्यापार को सरल बनाता है।\nसही उत्तर चुनिए:",
-      "en": "(Currency Substitution) Consider the following statements regarding 'Currency Substitution / Dollarization':\n1. This phenomenon occurs when a country's domestic currency loses its value due to hyperinflation, and people start using a foreign currency (like the dollar) as a medium of exchange.\n2. This reduces or eliminates the effectiveness of the central bank's monetary policy.\n3. It is a positive sign for the economy because it simplifies international trade.\nSelect the correct answer:"
+      "hi": "(Currency Substitution) 'मुद्रा प्रतिस्थापन' (Currency Substitution / Dollarization) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nसही उत्तर चुनिए:",
+      "en": "(Currency Substitution) Consider the following statements regarding 'Currency Substitution / Dollarization':\nSelect the correct answer:"
     },
     "options": [
       {
