@@ -6,10 +6,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि का संबंध मुख्यतः वास्तविक राष्ट्रीय आय में वृद्धि से है।",
+        "en": "Economic growth is primarily related to an increase in real national income."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास में संरचनात्मक एवं संस्थागत परिवर्तन भी शामिल होते हैं।",
+        "en": "Economic development also includes structural and institutional changes."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक वृद्धि का संबंध मुख्यतः वास्तविक राष्ट्रीय आय में वृद्धि से है।\n2. आर्थिक विकास में संरचनात्मक एवं संस्थागत परिवर्तन भी शामिल होते हैं।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Economic growth is primarily related to an increase in real national income.\n2. Economic development also includes structural and institutional changes.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -46,10 +57,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि आर्थिक विकास के बिना भी संभव है।",
+        "en": "Economic growth is possible without economic development."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास सदैव आर्थिक वृद्धि को सम्मिलित करता है।",
+        "en": "Economic development always encompasses economic growth."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक वृद्धि आर्थिक विकास के बिना भी संभव है।\n2. आर्थिक विकास सदैव आर्थिक वृद्धि को सम्मिलित करता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Economic growth is possible without economic development.\n2. Economic development always encompasses economic growth.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -86,10 +108,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "साक्षरता दर",
+        "en": "Literacy rate"
+      },
+      {
+        "id": 2,
+        "hi": "जीवन प्रत्याशा",
+        "en": "Life expectancy"
+      },
+      {
+        "id": 3,
+        "hi": "प्रति व्यक्ति आय",
+        "en": "Per capita income"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा आर्थिक विकास का उपयुक्त संकेतक माना जाता है?\n1. साक्षरता दर\n2. जीवन प्रत्याशा\n3. प्रति व्यक्ति आय\nनीचे दिए गए कूट का प्रयोग कीजिए:",
-      "en": "Which of the following is considered an appropriate indicator of economic development?\n1. Literacy rate\n2. Life expectancy\n3. Per capita income\nSelect the correct answer using the code below:"
+      "hi": "निम्नलिखित में से कौन-सा आर्थिक विकास का उपयुक्त संकेतक माना जाता है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following is considered an appropriate indicator of economic development?\nSelect the correct answer using the code below:"
     },
     "options": [
       {
@@ -126,10 +164,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि GDP बढ़ रही हो तो यह आवश्यक नहीं कि गरीबी घट रही हो।",
+        "en": "If GDP is increasing, it is not necessary that poverty is decreasing."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास में आय वितरण की गुणवत्ता भी महत्त्वपूर्ण है।",
+        "en": "The quality of income distribution is also important in economic development."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. यदि GDP बढ़ रही हो तो यह आवश्यक नहीं कि गरीबी घट रही हो।\n2. आर्थिक विकास में आय वितरण की गुणवत्ता भी महत्त्वपूर्ण है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. If GDP is increasing, it is not necessary that poverty is decreasing.\n2. The quality of income distribution is also important in economic development.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -144,7 +193,7 @@
       },
       {
         "id": "C",
-        "hi": "1 और 2 दोनों",
+        "hi": "1 और 2 উভয়",
         "en": "Both 1 and 2"
       },
       {
@@ -166,10 +215,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रति व्यक्ति आय में वृद्धि आर्थिक विकास का पर्याप्त संकेतक है।",
+        "en": "An increase in per capita income is a sufficient indicator of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "उच्च प्रति व्यक्ति आय के बावजूद मानव विकास निम्न हो सकता है।",
+        "en": "Despite high per capita income, human development can be low."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. प्रति व्यक्ति आय में वृद्धि आर्थिक विकास का पर्याप्त संकेतक है।\n2. उच्च प्रति व्यक्ति आय के बावजूद मानव विकास निम्न हो सकता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. An increase in per capita income is a sufficient indicator of economic development.\n2. Despite high per capita income, human development can be low.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -206,10 +266,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि मात्रात्मक (Quantitative) अवधारणा है।",
+        "en": "Economic growth is a quantitative concept."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास गुणात्मक (Qualitative) एवं मात्रात्मक दोनों अवधारणाओं को समाहित करता है।",
+        "en": "Economic development incorporates both qualitative and quantitative concepts."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक वृद्धि मात्रात्मक (Quantitative) अवधारणा है।\n2. आर्थिक विकास गुणात्मक (Qualitative) एवं मात्रात्मक दोनों अवधारणाओं को समाहित करता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Economic growth is a quantitative concept.\n2. Economic development incorporates both qualitative and quantitative concepts.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -246,10 +317,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कृषि पर निर्भरता में कमी",
+        "en": "Decrease in dependence on agriculture"
+      },
+      {
+        "id": 2,
+        "hi": "औद्योगिकीकरण में वृद्धि",
+        "en": "Increase in industrialization"
+      },
+      {
+        "id": 3,
+        "hi": "सेवा क्षेत्र का विस्तार",
+        "en": "Expansion of the service sector"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा आर्थिक विकास का लक्षण है?\n1. कृषि पर निर्भरता में कमी\n2. औद्योगिकीकरण में वृद्धि\n3. सेवा क्षेत्र का विस्तार\nनीचे दिए गए कूट का प्रयोग कीजिए:",
-      "en": "Which of the following is a characteristic of economic development?\n1. Decrease in dependence on agriculture\n2. Increase in industrialization\n3. Expansion of the service sector\nSelect the correct answer using the code below:"
+      "hi": "निम्नलिखित में से कौन-सा आर्थिक विकास का लक्षण है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following is a characteristic of economic development?\nSelect the correct answer using the code below:"
     },
     "options": [
       {
@@ -286,10 +373,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की अवधारणा विकसित एवं विकासशील दोनों देशों पर लागू होती है।",
+        "en": "The concept of economic development applies to both developed and developing countries."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक वृद्धि का मापन सामान्यतः GDP वृद्धि दर से किया जाता है।",
+        "en": "Economic growth is generally measured by the GDP growth rate."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक विकास की अवधारणा विकसित एवं विकासशील दोनों देशों पर लागू होती है।\n2. आर्थिक वृद्धि का मापन सामान्यतः GDP वृद्धि दर से किया जाता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The concept of economic development applies to both developed and developing countries.\n2. Economic growth is generally measured by the GDP growth rate.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -315,7 +413,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "दोनों कथन सही हैं: विकास की जरूरत सबको है; विकसित देश अपने पर्यावरण और तकनीक को सुधारना चाहते हैं और विकासशील देश गरीबी हटाना चाहते हैं। वृद्धि दर को हम सीधे GDP के प्रतिशत बदलाव से मापते हैं। सरल भाषा में: तरक्की की जरूरत हर देश को होती है, चाहे वह अमीर हो या गरीब। और देश की कमाई कितनी रफ्तार से बढ़ रही है, इसे नापने के लिए हम 'GDP ग्रोथ रेट' का इस्तेमाल करते हैं।",
+      "hi": "दोनों कथन सही हैं: विकास की जरूरत सबको है; विकसित देश अपने पर्यावरण और तकनीक को सुधारना चाहते हैं और विकासशील देश गरीबी हटाना चाहते हैं। वृद्धि दर को हम सीधे GDP के प्रतिशत बदलाव से मापते हैं। सरल भाषा में: तरक्की की जरूरत हर देश को होती है, चाहे वह अमीर हो या गरीब। और देश की कमाई कितनी रफ्तार से बढ़ रही है, इसे नापने के लिए हम 'GDP ग्रोथ रेट' का इस्तेमाल কার্যকলাপ हैं।",
       "en": "Both statements are correct: Everyone needs development; developed countries want to improve technology and environment, while developing countries aim to eradicate poverty. Economic growth is directly measured by the percentage change in GDP. In simple terms: Every country needs progress, rich or poor, and we use the 'GDP growth rate' to measure how fast a country is making money."
     }
   },
@@ -326,10 +424,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "HDI आर्थिक विकास का मापक है।",
+        "en": "HDI is a measure of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "HDI में आय, स्वास्थ्य और शिक्षा को शामिल किया जाता है।",
+        "en": "HDI includes income, health, and education."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. HDI आर्थिक विकास का मापक है।\n2. HDI में आय, स्वास्थ्य और शिक्षा को शामिल किया जाता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. HDI is a measure of economic development.\n2. HDI includes income, health, and education.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -366,10 +475,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि का लाभ समाज के सभी वर्गों तक समान रूप से पहुँचता है।",
+        "en": "The benefits of economic growth reach all sections of society equally."
+      },
+      {
+        "id": 2,
+        "hi": "समावेशी वृद्धि (Inclusive Growth) आर्थिक विकास का एक महत्त्वपूर्ण आयाम है।",
+        "en": "Inclusive Growth is an important dimension of economic development."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक वृद्धि का लाभ समाज के सभी वर्गों तक समान रूप से पहुँचता है।\n2. समावेशी वृद्धि (Inclusive Growth) आर्थिक विकास का एक महत्त्वपूर्ण आयाम है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The benefits of economic growth reach all sections of society equally.\n2. Inclusive Growth is an important dimension of economic development.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -446,10 +566,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सतत विकास (Sustainable Development) वर्तमान पीढ़ी की आवश्यकताओं को पूरा करते हुए भविष्य की पीढ़ियों के हितों से समझौता नहीं करता।",
+        "en": "Sustainable Development meets the needs of the present generation without compromising the interests of future generations."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास की आधुनिक अवधारणा में पर्यावरणीय पहलू भी शामिल हैं।",
+        "en": "The modern concept of economic development also includes environmental aspects."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. सतत विकास (Sustainable Development) वर्तमान पीढ़ी की आवश्यकताओं को पूरा करते हुए भविष्य की पीढ़ियों के हितों से समझौता नहीं करता।\n2. आर्थिक विकास की आधुनिक अवधारणा में पर्यावरणीय पहलू भी शामिल हैं।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Sustainable Development meets the needs of the present generation without compromising the interests of future generations.\n2. The modern concept of economic development also includes environmental aspects.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -486,10 +617,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्राकृतिक संसाधनों का अत्यधिक दोहन",
+        "en": "Over-exploitation of natural resources"
+      },
+      {
+        "id": 2,
+        "hi": "आय का कुछ व्यक्तियों के हाथों में केंद्रित होना",
+        "en": "Concentration of income in the hands of a few individuals"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा आर्थिक वृद्धि को बढ़ा सकता है, परंतु आवश्यक रूप से आर्थिक विकास नहीं?\n1. प्राकृतिक संसाधनों का अत्यधिक दोहन\n2. आय का कुछ व्यक्तियों के हाथों में केंद्रित होना\nनीचे दिए गए कूट का प्रयोग कीजिए:",
-      "en": "Which of the following can increase economic growth, but not necessarily economic development?\n1. Over-exploitation of natural resources\n2. Concentration of income in the hands of a few individuals\nSelect the correct answer using the code below:"
+      "hi": "निम्नलिखित में से कौन-सा आर्थिक वृद्धि को बढ़ा सकता है, परंतु आवश्यक रूप से आर्थिक विकास नहीं?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following can increase economic growth, but not necessarily economic development?\nSelect the correct answer using the code below:"
     },
     "options": [
       {
@@ -526,10 +668,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की अवधारणा अमर्त्य सेन के 'Capability Approach' से प्रभावित है।",
+        "en": "The concept of economic development is influenced by Amartya Sen's 'Capability Approach'."
+      },
+      {
+        "id": 2,
+        "hi": "विकास का अर्थ लोगों की स्वतंत्रताओं और अवसरों का विस्तार भी है।",
+        "en": "Development also means expanding people's freedoms and opportunities."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक विकास की अवधारणा अमर्त्य सेन के 'Capability Approach' से प्रभावित है।\n2. विकास का अर्थ लोगों की स्वतंत्रताओं और अवसरों का विस्तार भी है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The concept of economic development is influenced by Amartya Sen's 'Capability Approach'.\n2. Development also means expanding people's freedoms and opportunities.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -566,10 +719,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उच्च GDP वृद्धि दर किसी देश के विकास का पर्याप्त प्रमाण है।",
+        "en": "A high GDP growth rate is sufficient evidence of a country's development."
+      },
+      {
+        "id": 2,
+        "hi": "मानव पूंजी में निवेश आर्थिक विकास को प्रोत्साहित करता है।",
+        "en": "Investment in human capital encourages economic development."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. उच्च GDP वृद्धि दर किसी देश के विकास का पर्याप्त प्रमाण है।\n2. मानव पूंजी में निवेश आर्थिक विकास को प्रोत्साहित करता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. A high GDP growth rate is sufficient evidence of a country's development.\n2. Investment in human capital encourages economic development.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -606,10 +770,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास में सामाजिक न्याय एक महत्त्वपूर्ण तत्व है।",
+        "en": "Social justice is an important element in economic development."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक वृद्धि के मापन में सामाजिक न्याय को सीधे शामिल नहीं किया जाता।",
+        "en": "Social justice is not directly included in the measurement of economic growth."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक विकास में सामाजिक न्याय एक महत्त्वपूर्ण तत्व है।\n2. आर्थिक वृद्धि के मापन में सामाजिक न्याय को सीधे शामिल नहीं किया जाता।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Social justice is an important element in economic development.\n2. Social justice is not directly included in the measurement of economic growth.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -646,10 +821,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि किसी देश की जनसंख्या वृद्धि दर GDP दर से अधिक हो, तो प्रति व्यक्ति आय घट सकती है।",
+        "en": "If the population growth rate of a country is higher than the GDP rate, the per capita income may decrease."
+      },
+      {
+        "id": 2,
+        "hi": "प्रति व्यक्ति आय में गिरावट आर्थिक विकास के लिए चुनौती हो सकती है।",
+        "en": "A decline in per capita income can be a challenge for economic development."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. यदि किसी देश की जनसंख्या वृद्धि दर GDP दर से अधिक हो, तो प्रति व्यक्ति आय घट सकती है।\n2. प्रति व्यक्ति आय में गिरावट आर्थिक विकास के लिए चुनौती हो सकती है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. If the population growth rate of a country is higher than the GDP rate, the per capita income may decrease.\n2. A decline in per capita income can be a challenge for economic development.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -686,10 +872,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की प्रक्रिया में उत्पादकता वृद्धि महत्त्वपूर्ण भूमिका निभाती है।",
+        "en": "Productivity growth plays an important role in the process of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "तकनीकी प्रगति आर्थिक वृद्धि और विकास दोनों को प्रभावित कर सकती है।",
+        "en": "Technological progress can affect both economic growth and development."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक विकास की प्रक्रिया में उत्पादकता वृद्धि महत्त्वपूर्ण भूमिका निभाती है।\n2. तकनीकी प्रगति आर्थिक वृद्धि और विकास दोनों को प्रभावित कर सकती है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Productivity growth plays an important role in the process of economic development.\n2. Technological progress can affect both economic growth and development.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -726,10 +923,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि का संबंध उत्पादन की मात्रा से है।",
+        "en": "Economic growth is related to the volume of production."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास का संबंध जीवन की गुणवत्ता से भी है।",
+        "en": "Economic development is also related to the quality of life."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक वृद्धि का संबंध उत्पादन की मात्रा से है।\n2. आर्थिक विकास का संबंध जीवन की गुणवत्ता से भी है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Economic growth is related to the volume of production.\n2. Economic development is also related to the quality of life.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -766,10 +974,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की अवधारणा में लैंगिक समानता का भी महत्त्व है।",
+        "en": "Gender equality is also important in the concept of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "केवल प्रति व्यक्ति आय के आधार पर किसी देश के विकास स्तर का पूर्ण आकलन किया जा सकता है।",
+        "en": "The level of development of a country can be fully assessed solely on the basis of per capita income."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. आर्थिक विकास की अवधारणा में लैंगिक समानता का भी महत्त्व है।\n2. केवल प्रति व्यक्ति आय के आधार पर किसी देश के विकास स्तर का पूर्ण आकलन किया जा सकता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Gender equality is also important in the concept of economic development.\n2. The level of development of a country can be fully assessed solely on the basis of per capita income.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -806,10 +1025,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सभी 17 सतत विकास लक्ष्य (SDGs) विकासशील देशों के लिए ही बनाए गए हैं।",
+        "en": "All 17 Sustainable Development Goals (SDGs) are made only for developing countries."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs कानूनी रूप से बाध्यकारी (Legally Binding) लक्ष्य हैं।",
+        "en": "SDGs are Legally Binding targets."
+      },
+      {
+        "id": 3,
+        "hi": "SDGs का मूल सिद्धांत 'किसी को पीछे न छोड़ना' (Leave No One Behind) है।",
+        "en": "The core principle of SDGs is 'Leave No One Behind'."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. सभी 17 सतत विकास लक्ष्य (SDGs) विकासशील देशों के लिए ही बनाए गए हैं।\n2. SDGs कानूनी रूप से बाध्यकारी (Legally Binding) लक्ष्य हैं।\n3. SDGs का मूल सिद्धांत 'किसी को पीछे न छोड़ना' (Leave No One Behind) है।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. All 17 Sustainable Development Goals (SDGs) are made only for developing countries.\n2. SDGs are Legally Binding targets.\n3. The core principle of SDGs is 'Leave No One Behind'.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -846,10 +1081,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 5",
+        "en": "SDG 5"
+      },
+      {
+        "id": 2,
+        "hi": "SDG 10",
+        "en": "SDG 10"
+      },
+      {
+        "id": 3,
+        "hi": "SDG 16",
+        "en": "SDG 16"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा लक्ष्य प्रत्यक्ष रूप से 'समानता' (Equality) की अवधारणा से संबंधित है?\n1. SDG 5\n2. SDG 10\n3. SDG 16\nनीचे दिए गए कूट का प्रयोग कीजिए:",
-      "en": "Which of the following goals is directly related to the concept of 'Equality'?\n1. SDG 5\n2. SDG 10\n3. SDG 16\nSelect the correct answer using the code given below:"
+      "hi": "निम्नलिखित में से कौन-सा लक्ष्य प्रत्यक्ष रूप से 'समानता' (Equality) की अवधारणा से संबंधित है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following goals is directly related to the concept of 'Equality'?\nSelect the correct answer using the code given below:"
     },
     "options": [
       {
@@ -886,10 +1137,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 8 आर्थिक वृद्धि को बढ़ावा देता है。",
+        "en": "SDG 8 promotes economic growth."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 8 केवल रोजगार सृजन तक सीमित है。",
+        "en": "SDG 8 is limited only to job creation."
+      },
+      {
+        "id": 3,
+        "hi": "SDG 8 उत्पादक रोजगार और सम्मानजनक कार्य (Decent Work) को भी प्रोत्साहित करता है।",
+        "en": "SDG 8 also encourages productive employment and Decent Work."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDG 8 आर्थिक वृद्धि को बढ़ावा देता है।\n2. SDG 8 केवल रोजगार सृजन तक सीमित है。\n3. SDG 8 उत्पादक रोजगार और सम्मानजनक कार्य (Decent Work) को भी प्रोत्साहित करता है।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. SDG 8 promotes economic growth.\n2. SDG 8 is limited only to job creation.\n3. SDG 8 also encourages productive employment and Decent Work.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -926,10 +1193,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 12 का संबंध उत्तरदायी उपभोग एवं उत्पादन से है।",
+        "en": "SDG 12 relates to responsible consumption and production."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 12 का उद्देश्य केवल औद्योगिक प्रदूषण को कम करना है।",
+        "en": "The objective of SDG 12 is only to reduce industrial pollution."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDG 12 का संबंध उत्तरदायी उपभोग एवं उत्पादन से है।\n2. SDG 12 का उद्देश्य केवल औद्योगिक प्रदूषण को कम करना है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. SDG 12 relates to responsible consumption and production.\n2. The objective of SDG 12 is only to reduce industrial pollution.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -966,10 +1244,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 13",
+        "en": "SDG 13"
+      },
+      {
+        "id": 2,
+        "hi": "SDG 14",
+        "en": "SDG 14"
+      },
+      {
+        "id": 3,
+        "hi": "SDG 15",
+        "en": "SDG 15"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-से SDGs सीधे पर्यावरणीय स्थिरता से संबंधित हैं?\n1. SDG 13\n2. SDG 14\n3. SDG 15\nनीचे दिए गए कूट का प्रयोग कीजिए:",
-      "en": "Which of the following SDGs are directly related to environmental sustainability?\n1. SDG 13\n2. SDG 14\n3. SDG 15\nSelect the correct answer using the code given below:"
+      "hi": "निम्नलिखित में से कौन-से SDGs सीधे पर्यावरणीय स्थिरता से संबंधित हैं?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following SDGs are directly related to environmental sustainability?\nSelect the correct answer using the code given below:"
     },
     "options": [
       {
@@ -1006,10 +1300,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 1 का लक्ष्य अत्यधिक गरीबी का उन्मूलन है।",
+        "en": "The goal of SDG 1 is the eradication of extreme poverty."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 2 का उद्देश्य केवल खाद्यान्न उत्पादन बढ़ाना है।",
+        "en": "The objective of SDG 2 is only to increase food production."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDG 1 का लक्ष्य अत्यधिक गरीबी का उन्मूलन है।\n2. SDG 2 का उद्देश्य केवल खाद्यान्न उत्पादन बढ़ाना है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The goal of SDG 1 is the eradication of extreme poverty.\n2. The objective of SDG 2 is only to increase food production.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1046,10 +1351,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 7 सभी के लिए सस्ती, विश्वसनीय एवं सतत ऊर्जा की बात करता है।",
+        "en": "SDG 7 talks about affordable, reliable, and sustainable energy for all."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 7 केवल नवीकरणीय ऊर्जा स्रोतों तक सीमित है।",
+        "en": "SDG 7 is limited only to renewable energy sources."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDG 7 सभी के लिए सस्ती, विश्वसनीय एवं सतत ऊर्जा की बात करता है।\n2. SDG 7 केवल नवीकरणीय ऊर्जा स्रोतों तक सीमित है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. SDG 7 talks about affordable, reliable, and sustainable energy for all.\n2. SDG 7 is limited only to renewable energy sources.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1086,10 +1402,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 6 - स्वच्छ जल एवं स्वच्छता",
+        "en": "SDG 6 - Clean Water and Sanitation"
+      },
+      {
+        "id": 2,
+        "hi": "SDG 9 - उद्योग, नवाचार एवं अवसंरचना",
+        "en": "SDG 9 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 3,
+        "hi": "SDG 11 - सतत शहर एवं समुदाय",
+        "en": "SDG 11 - Sustainable Cities and Communities"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?\n1. SDG 6 - स्वच्छ जल एवं स्वच्छता\n2. SDG 9 - उद्योग, नवाचार एवं अवसंरचना\n3. SDG 11 - सतत शहर एवं समुदाय",
-      "en": "Which of the following pairs is correctly matched?\n1. SDG 6 - Clean Water and Sanitation\n2. SDG 9 - Industry, Innovation and Infrastructure\n3. SDG 11 - Sustainable Cities and Communities"
+      "hi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+      "en": "Which of the following pairs is correctly matched?"
     },
     "options": [
       {
@@ -1126,10 +1458,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDGs की समय-सीमा वर्ष 2030 है।",
+        "en": "The timeline for SDGs is the year 2030."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs ने MDGs का स्थान लिया है。",
+        "en": "SDGs have replaced the MDGs."
+      },
+      {
+        "id": 3,
+        "hi": "SDGs वर्ष 2015 में अपनाए गए थे।",
+        "en": "SDGs were adopted in the year 2015."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDGs की समय-सीमा वर्ष 2030 है।\n2. SDGs ने MDGs का स्थान लिया है。\n3. SDGs वर्ष 2015 में अपनाए गए थे।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. The timeline for SDGs is the year 2030.\n2. SDGs have replaced the MDGs.\n3. SDGs were adopted in the year 2015.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1166,10 +1514,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 16 शांति, न्याय एवं मजबूत संस्थाओं से संबंधित है।",
+        "en": "SDG 16 is related to Peace, Justice, and Strong Institutions."
+      },
+      {
+        "id": 2,
+        "hi": "भ्रष्टाचार को कम करना SDG 16 के उद्देश्यों में शामिल है।",
+        "en": "Reducing corruption is included in the objectives of SDG 16."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDG 16 शांति, न्याय एवं मजबूत संस्थाओं से संबंधित है।\n2. भ्रष्टाचार को कम करना SDG 16 के उद्देश्यों में शामिल है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. SDG 16 is related to Peace, Justice, and Strong Institutions.\n2. Reducing corruption is included in the objectives of SDG 16.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1206,10 +1565,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDGs में आर्थिक, सामाजिक और पर्यावरणीय आयामों का एकीकरण किया गया है।",
+        "en": "The SDGs integrate economic, social, and environmental dimensions."
+      },
+      {
+        "id": 2,
+        "hi": "किसी एक SDG की प्राप्ति अन्य SDGs की प्राप्ति से पूर्णतः स्वतंत्र होती है।",
+        "en": "The achievement of one SDG is completely independent of the achievement of other SDGs."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDGs में आर्थिक, सामाजिक और पर्यावरणीय आयामों का एकीकरण किया गया है।\n2. किसी एक SDG की प्राप्ति अन्य SDGs की प्राप्ति से पूर्णतः स्वतंत्र होती है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The SDGs integrate economic, social, and environmental dimensions.\n2. The achievement of one SDG is completely independent of the achievement of other SDGs.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1286,10 +1656,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 13 केवल जलवायु परिवर्तन के प्रभावों के अनुकूलन (Adaptation) पर केंद्रित है।",
+        "en": "SDG 13 is focused only on adaptation to the effects of climate change."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 13 शमन (Mitigation) तथा अनुकूलन (Adaptation) উভয় को प्रोत्साहित करता है।",
+        "en": "SDG 13 encourages both Mitigation and Adaptation."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDG 13 केवल जलवायु परिवर्तन के प्रभावों के अनुकूलन (Adaptation) पर केंद्रित है।\n2. SDG 13 शमन (Mitigation) तथा अनुकूलन (Adaptation) दोनों को प्रोत्साहित करता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. SDG 13 is focused only on adaptation to the effects of climate change.\n2. SDG 13 encourages both Mitigation and Adaptation.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1366,10 +1747,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDGs में मानवाधिकारों की भावना निहित है।",
+        "en": "The spirit of human rights is inherent in the SDGs."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs का उद्देश्य केवल आर्थिक वृद्धि को बढ़ावा देना है।",
+        "en": "The objective of SDGs is only to promote economic growth."
+      },
+      {
+        "id": 3,
+        "hi": "SDGs समावेशी एवं सतत विकास पर बल देते हैं।",
+        "en": "SDGs emphasize inclusive and sustainable development."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDGs में मानवाधिकारों की भावना निहित है।\n2. SDGs का उद्देश्य केवल आर्थिक वृद्धि को बढ़ावा देना है।\n3. SDGs समावेशी एवं सतत विकास पर बल देते हैं।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. The spirit of human rights is inherent in the SDGs.\n2. The objective of SDGs is only to promote economic growth.\n3. SDGs emphasize inclusive and sustainable development.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1446,10 +1843,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 5 की प्राप्ति SDG 1 और SDG 8 की प्राप्ति में भी योगदान दे सकती है।",
+        "en": "The achievement of SDG 5 can also contribute to the achievement of SDG 1 and SDG 8."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs की प्रकृति परस्पर निर्भर (Interdependent) है।",
+        "en": "The nature of SDGs is mutually interdependent."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. SDG 5 की प्राप्ति SDG 1 और SDG 8 की प्राप्ति में भी योगदान दे सकती है।\n2. SDGs की प्रकृति परस्पर निर्भर (Interdependent) है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The achievement of SDG 5 can also contribute to the achievement of SDG 1 and SDG 8.\n2. The nature of SDGs is mutually interdependent.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1529,10 +1937,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय संकेतक ढाँचा (National Indicator Framework - NIF) भारत में SDGs की प्रगति मापने हेतु विकसित किया गया है।",
+        "en": "The National Indicator Framework (NIF) has been developed to measure the progress of SDGs in India."
+      },
+      {
+        "id": 2,
+        "hi": "NIF को मुख्यतः NITI Aayog द्वारा तैयार किया जाता है तथा सांख्यिकीय सहयोग Ministry of Statistics and Programme Implementation प्रदान करता है।",
+        "en": "The NIF is primarily prepared by NITI Aayog, and statistical support is provided by the Ministry of Statistics and Programme Implementation."
+      },
+      {
+        "id": 3,
+        "hi": "NIF के सभी संकेतक संयुक्त राष्ट्र के वैश्विक संकेतकों के समान हैं।",
+        "en": "All indicators of the NIF are identical to the UN's global indicators."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. राष्ट्रीय संकेतक ढाँचा (National Indicator Framework - NIF) भारत में SDGs की प्रगति मापने हेतु विकसित किया गया है।\n2. NIF को मुख्यतः NITI Aayog द्वारा तैयार किया जाता है तथा सांख्यिकीय सहयोग Ministry of Statistics and Programme Implementation प्रदान करता है।\n3. NIF के सभी संकेतक संयुक्त राष्ट्र के वैश्विक संकेतकों के समान हैं।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. The National Indicator Framework (NIF) has been developed to measure the progress of SDGs in India.\n2. The NIF is primarily prepared by NITI Aayog, and statistical support is provided by the Ministry of Statistics and Programme Implementation.\n3. All indicators of the NIF are identical to the UN's global indicators.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1569,10 +1993,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्वैच्छिक राष्ट्रीय समीक्षा (Voluntary National Review - VNR) रिपोर्ट संयुक्त राष्ट्र को प्रस्तुत की जाती है।",
+        "en": "The Voluntary National Review (VNR) report is submitted to the United Nations."
+      },
+      {
+        "id": 2,
+        "hi": "VNR रिपोर्ट प्रस्तुत करना सदस्य देशों के लिए कानूनी रूप से अनिवार्य है।",
+        "en": "Submitting the VNR report is legally mandatory for member states."
+      },
+      {
+        "id": 3,
+        "hi": "VNR रिपोर्ट SDGs की दिशा में हुई प्रगति, चुनौतियों एवं सर्वोत्तम प्रथाओं का विवरण देती है।",
+        "en": "The VNR report details the progress, challenges, and best practices regarding SDGs."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. स्वैच्छिक राष्ट्रीय समीक्षा (Voluntary National Review - VNR) रिपोर्ट संयुक्त राष्ट्र को प्रस्तुत की जाती है।\n2. VNR रिपोर्ट प्रस्तुत करना सदस्य देशों के लिए कानूनी रूप से अनिवार्य है।\n3. VNR रिपोर्ट SDGs की दिशा में हुई प्रगति, चुनौतियों एवं सर्वोत्तम प्रथाओं का विवरण देती है।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. The Voluntary National Review (VNR) report is submitted to the United Nations.\n2. Submitting the VNR report is legally mandatory for member states.\n3. The VNR report details the progress, challenges, and best practices regarding SDGs.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1609,10 +2049,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत ने अपनी पहली VNR रिपोर्ट वर्ष 2020 में प्रस्तुत की थी।",
+        "en": "India presented its first VNR report in the year 2020."
+      },
+      {
+        "id": 2,
+        "hi": "VNR रिपोर्ट का प्रस्तुतीकरण United Nations High-Level Political Forum में किया जाता है।",
+        "en": "The presentation of the VNR report is done at the United Nations High-Level Political Forum."
+      },
+      {
+        "id": 3,
+        "hi": "VNR रिपोर्ट केवल विकसित देशों द्वारा प्रस्तुत की जाती है।",
+        "en": "VNR reports are submitted only by developed countries."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. भारत ने अपनी पहली VNR रिपोर्ट वर्ष 2020 में प्रस्तुत की थी।\n2. VNR रिपोर्ट का प्रस्तुतीकरण United Nations High-Level Political Forum में किया जाता है।\n3. VNR रिपोर्ट केवल विकसित देशों द्वारा प्रस्तुत की जाती है।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. India presented its first VNR report in the year 2020.\n2. The presentation of the VNR report is done at the United Nations High-Level Political Forum.\n3. VNR reports are submitted only by developed countries.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1649,10 +2105,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "NIF मुख्यतः डेटा संग्रह एवं निगरानी का उपकरण है।",
+        "en": "NIF is primarily a tool for data collection and monitoring."
+      },
+      {
+        "id": 2,
+        "hi": "भारत SDG सूचकांक राज्यों के बीच प्रतिस्पर्धी एवं सहकारी संघवाद को बढ़ावा देता है।",
+        "en": "The India SDG Index fosters competitive and cooperative federalism among states."
+      },
+      {
+        "id": 3,
+        "hi": "VNR रिपोर्ट राज्यों की रैंकिंग निर्धारित करती है।",
+        "en": "The VNR report determines the ranking of states."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. NIF मुख्यतः डेटा संग्रह एवं निगरानी का उपकरण है।\n2. भारत SDG सूचकांक राज्यों के बीच प्रतिस्पर्धी एवं सहकारी संघवाद को बढ़ावा देता है।\n3. VNR रिपोर्ट राज्यों की रैंकिंग निर्धारित करती है।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. NIF is primarily a tool for data collection and monitoring.\n2. The India SDG Index fosters competitive and cooperative federalism among states.\n3. The VNR report determines the ranking of states.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1689,10 +2161,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उच्च आर्थिक वृद्धि दर स्वतः समावेशी वृद्धि सुनिश्चित करती है।",
+        "en": "A high economic growth rate automatically ensures inclusive growth."
+      },
+      {
+        "id": 2,
+        "hi": "समावेशी वृद्धि के अभाव में आर्थिक असमानताएँ बढ़ सकती हैं।",
+        "en": "In the absence of inclusive growth, economic inequalities can increase."
+      },
+      {
+        "id": 3,
+        "hi": "बढ़ती असमानताएँ सतत विकास के उद्देश्यों के विपरीत हो सकती हैं।",
+        "en": "Increasing inequalities can be contrary to the objectives of sustainable development."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. उच्च आर्थिक वृद्धि दर स्वतः समावेशी वृद्धि सुनिश्चित करती है।\n2. समावेशी वृद्धि के अभाव में आर्थिक असमानताएँ बढ़ सकती हैं।\n3. बढ़ती असमानताएँ सतत विकास के उद्देश्यों के विपरीत हो सकती हैं।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "Consider the following statements:\n1. A high economic growth rate automatically ensures inclusive growth.\n2. In the absence of inclusive growth, economic inequalities can increase.\n3. Increasing inequalities can be contrary to the objectives of sustainable development.\nWhich of the above statements are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1775,10 +2263,26 @@
       "hi": "एक गाँव में किसान राम ने वर्ष के दौरान गेहूँ का उत्पादन किया। उसने अपने उत्पादन का एक भाग बाजार में बेचा, कुछ भाग अपने परिवार द्वारा उपभोग के लिए रखा तथा शेष भाग अगले वर्ष बीज के रूप में उपयोग करने हेतु सुरक्षित रखा।",
       "en": "In a village, farmer Ram produced wheat during the year. He sold a part of his produce in the market, kept a part for consumption by his family, and preserved the remaining part to be used as seeds for the next year."
     },
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बाजार में बेचे गए गेहूँ का मूल्य GDP में शामिल होगा।",
+        "en": "The value of wheat sold in the market will be included in the GDP."
+      },
+      {
+        "id": 2,
+        "hi": "परिवार द्वारा स्व-उपभोग (Self-consumption) हेतु रखे गए गेहूँ का मूल्य भी राष्ट्रीय आय लेखांकन में शामिल किया जा सकता है।",
+        "en": "The value of wheat kept for self-consumption by the family can also be included in national income accounting."
+      },
+      {
+        "id": 3,
+        "hi": "अगले वर्ष बीज के रूप में उपयोग हेतु रखा गया गेहूँ पूरी तरह GDP से बाहर रहेगा।",
+        "en": "The wheat preserved to be used as seeds for the next year will remain completely outside the GDP."
+      }
+    ],
     "question": {
-      "hi": "उपरोक्त गद्यांश के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. बाजार में बेचे गए गेहूँ का मूल्य GDP में शामिल होगा।\n2. परिवार द्वारा स्व-उपभोग (Self-consumption) हेतु रखे गए गेहूँ का मूल्य भी राष्ट्रीय आय लेखांकन में शामिल किया जा सकता है।\n3. अगले वर्ष बीज के रूप में उपयोग हेतु रखा गया गेहूँ पूरी तरह GDP से बाहर रहेगा।\nउपरोक्त में से कौन-से कथन सही हैं?",
-      "en": "With reference to the above passage, consider the following statements:\n1. The value of wheat sold in the market will be included in the GDP.\n2. The value of wheat kept for self-consumption by the family can also be included in national income accounting.\n3. The wheat preserved to be used as seeds for the next year will remain completely outside the GDP.\nWhich of the above statements are correct?"
+      "hi": "उपरोक्त गद्यांश के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "With reference to the above passage, consider the following statements:\nWhich of the above statements are correct?"
     },
     "options": [
       {
@@ -1895,10 +2399,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पर्यावरणीय क्षरण की लागत",
+        "en": "Cost of environmental degradation"
+      },
+      {
+        "id": 2,
+        "hi": "प्राकृतिक संसाधनों का ह्रास",
+        "en": "Depletion of natural resources"
+      }
+    ],
     "question": {
-      "hi": "ग्रीन GDP (Green GDP) की अवधारणा में GDP की गणना करते समय निम्नलिखित में से किसे घटाया जाता है?\n1. पर्यावरणीय क्षरण की लागत\n2. प्राकृतिक संसाधनों का ह्रास\nनीचे दिए गए कूट का प्रयोग कीजिए:",
-      "en": "In the concept of Green GDP, which of the following is deducted while calculating the GDP?\n1. Cost of environmental degradation\n2. Depletion of natural resources\nSelect the correct answer using the code given below:"
+      "hi": "ग्रीन GDP (Green GDP) की अवधारणा में GDP की गणना करते समय निम्नलिखित में से किसे घटाया जाता है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "In the concept of Green GDP, which of the following is deducted while calculating the GDP?\nSelect the correct answer using the code given below:"
     },
     "options": [
       {
