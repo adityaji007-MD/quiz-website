@@ -983,9 +983,11 @@
     "correctAnswer": "D",
     "explanation": {
       "hi": "LAF (तरलता समायोजन सुविधा) RBI का वह टूल है जिससे बैंक अपनी रोजमर्रा की पैसों की कमी को पूरा करते हैं (उधार लेते हैं) या अतिरिक्त पैसा जमा करते हैं। इसके दो मुख्य हथियार 'रेपो रेट' (लोन लेना) और 'रिवर्स रेपो/SDF' (पैसा जमा करना) हैं। इसका रोज़ का काम सिर्फ बैंकों में कैश की मात्रा (तरलता) को सेट करना है, यह सीधे तौर पर महंगाई कम करने का बटन नहीं है (यद्यपि परोक्ष रूप से मदद करता है)। अतः तीनों कथन सही हैं।\n\nसरल भाषा में: हर दिन शाम को किसी बैंक के पास पैसे खत्म हो जाते हैं, तो किसी बैंक के पास बहुत ज्यादा पैसे बच जाते हैं। इस रोज़-रोज़ की समस्या को सुलझाने के लिए RBI ने 'LAF' नाम की एक खिड़की खोली है (कथन 1 सही)। इस खिड़की पर दो बोर्ड लगे हैं: एक 'रेपो रेट' (पैसे उधार लो) और दूसरा 'रिवर्स रेपो' (एक्स्ट्रा पैसे जमा करो) (कथन 2 सही)। इस खिड़की का काम सिर्फ कैश को मैनेज करना है, यह खिड़की सीधे महंगाई कम करने के लिए नहीं बनाई गई है (कथन 3 सही)।",
-      "en": 
-      {
-       "id": 22,
+      "en": "LAF (Liquidity Adjustment Facility) is RBI's tool through which banks fulfill their day-to-day shortage of money (borrow) or deposit excess money. Its two main weapons are 'Repo Rate' (borrowing loan) and 'Reverse Repo/SDF' (depositing money). Its daily work is only to adjust the quantity of cash (liquidity) in banks, it is not directly the button to reduce inflation (although it helps indirectly). Therefore, all three statements are correct. In simple language: Every day in the evening, some banks run out of money, while some banks are left with too much money. To solve this daily problem, RBI has opened a window named 'LAF' (Statement 1 is correct). This window has two boards: one 'Repo Rate' (borrow money) and the other 'Reverse Repo' (deposit extra money) (Statement 2 is correct). The job of this window is only to manage cash, this window is not directly made to reduce inflation (Statement 3 is correct)."
+    }
+  },
+  {
+    "id": 22,
        "subject": "Economics",
        "topic": "Monetary Policy Committee (MPC)",
        "difficulty": "Medium",
