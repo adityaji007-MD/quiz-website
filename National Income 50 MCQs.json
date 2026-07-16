@@ -6,10 +6,31 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पुराने शेयरों की खरीद-बिक्री पर दिया गया दलाल का कमीशन",
+        "en": "Broker's commission paid on the purchase and sale of old shares"
+      },
+      {
+        "id": 2,
+        "hi": "लॉटरी से प्राप्त इनाम राशि",
+        "en": "Prize money received from a lottery"
+      },
+      {
+        "id": 3,
+        "hi": "विदेश से प्राप्त धन प्रेषण (Remittances)",
+        "en": "Remittances received from abroad"
+      },
+      {
+        "id": 4,
+        "hi": "भूमि की खरीद-बिक्री पर दलाल का कमीशन",
+        "en": "Broker's commission on the purchase and sale of land"
+      }
+    ],
     "question": {
-      "hi": "GDP गणना में निम्नलिखित पर विचार कीजिए:\n1. पुराने शेयरों की खरीद-बिक्री पर दिया गया दलाल का कमीशन\n2. लॉटरी से प्राप्त इनाम राशि\n3. विदेश से प्राप्त धन प्रेषण (Remittances)\n4. भूमि की खरीद-बिक्री पर दलाल का कमीशन\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following in GDP calculation:\n1. Broker's commission paid on the purchase and sale of old shares\n2. Prize money received from a lottery\n3. Remittances received from abroad\n4. Broker's commission on the purchase and sale of land\nWhich of the above statement(s) is/are correct?"
+      "hi": "GDP गणना में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following in GDP calculation:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -46,10 +67,31 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सार्वजनिक ऋण पर सरकार द्वारा भुगतान किया गया ब्याज",
+        "en": "Interest paid by the government on public debt"
+      },
+      {
+        "id": 2,
+        "hi": "वृद्धावस्था पेंशन",
+        "en": "Old age pension"
+      },
+      {
+        "id": 3,
+        "hi": "बैंक जमा पर प्राप्त ब्याज",
+        "en": "Interest received on bank deposits"
+      },
+      {
+        "id": 4,
+        "hi": "सरकारी कर्मचारी का वेतन",
+        "en": "Salary of a government employee"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से किसे 'अंतरण भुगतान' (Transfer Payment) की श्रेणी में रखा जाएगा?\n1. सार्वजनिक ऋण पर सरकार द्वारा भुगतान किया गया ब्याज\n2. वृद्धावस्था पेंशन\n3. बैंक जमा पर प्राप्त ब्याज\n4. सरकारी कर्मचारी का वेतन\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Which of the following will be categorized as 'Transfer Payments'?\n1. Interest paid by the government on public debt\n2. Old age pension\n3. Interest received on bank deposits\n4. Salary of a government employee\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित में से किसे 'अंतरण भुगतान' (Transfer Payment) की श्रेणी में रखा जाएगा?\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Which of the following will be categorized as 'Transfer Payments'?\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -86,10 +128,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सरकार द्वारा प्रदत्त निःशुल्क रक्षा एवं पुलिस सेवाओं का मूल्य GDP में शामिल होता है।",
+        "en": "The value of free defense and police services provided by the government is included in the GDP."
+      },
+      {
+        "id": 2,
+        "hi": "इन सेवाओं का मूल्यांकन उनके इनपुट लागत (जैसे कर्मचारियों के वेतन) के आधार पर किया जाता है।",
+        "en": "These services are valued based on their input cost (such as employees' salaries)."
+      },
+      {
+        "id": 3,
+        "hi": "चूंकि इन सेवाओं का कोई बाजार मूल्य नहीं होता, इन्हें GDP से बाहर रखा जाता है।",
+        "en": "Since these services do not have a market value, they are excluded from the GDP."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. सरकार द्वारा प्रदत्त निःशुल्क रक्षा एवं पुलिस सेवाओं का मूल्य GDP में शामिल होता है。\n2. इन सेवाओं का मूल्यांकन उनके इनपुट लागत (जैसे कर्मचारियों के वेतन) के आधार पर किया जाता है।\n3. चूंकि इन सेवाओं का कोई बाजार मूल्य नहीं होता, इन्हें GDP से बाहर रखा जाता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The value of free defense and police services provided by the government is included in the GDP.\n2. These services are valued based on their input cost (such as employees' salaries).\n3. Since these services do not have a market value, they are excluded from the GDP.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -166,10 +224,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पुराने मकान की खरीद-बिक्री एक वित्तीय हस्तांतरण है, वर्तमान उत्पादन नहीं।",
+        "en": "The purchase and sale of an old house is a financial transfer, not current production."
+      },
+      {
+        "id": 2,
+        "hi": "पुराने मकान की बिक्री पर दिया गया दलाल का कमीशन एक सेवा है और GDP में शामिल होता है।",
+        "en": "The broker's commission paid on the sale of an old house is a service and is included in the GDP."
+      },
+      {
+        "id": 3,
+        "hi": "शेयर बाजार में शेयरों का क्रय-विक्रय GDP में प्रत्यक्ष रूप से शामिल होता है।",
+        "en": "The trading of shares in the stock market is directly included in the GDP."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. पुराने मकान की खरीद-बिक्री एक वित्तीय हस्तांतरण है, वर्तमान उत्पादन नहीं।\n2. पुराने मकान की बिक्री पर दिया गया दलाल का कमीशन एक सेवा है और GDP में शामिल होता है।\n3. शेयर बाजार में शेयरों का क्रय-विक्रय GDP में प्रत्यक्ष रूप से शामिल होता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The purchase and sale of an old house is a financial transfer, not current production.\n2. The broker's commission paid on the sale of an old house is a service and is included in the GDP.\n3. The trading of shares in the stock market is directly included in the GDP.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -246,10 +320,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संयुक्त राष्ट्र की SNA रूपरेखा सैद्धांतिक रूप से इन्हें भी आर्थिक उत्पादन मान सकती है।",
+        "en": "The UN's SNA framework can theoretically consider these as economic production."
+      },
+      {
+        "id": 2,
+        "hi": "भारत जैसे देशों के आधिकारिक GDP आंकड़ों में डेटा उपलब्धता की कमी के कारण इन्हें सामान्यतः शामिल नहीं किया जाता।",
+        "en": "In official GDP figures of countries like India, they are generally not included due to a lack of data availability."
+      },
+      {
+        "id": 3,
+        "hi": "इन गतिविधियों को किसी भी परिस्थिति में सैद्धांतिक रूप से GDP का भाग नहीं माना जा सकता।",
+        "en": "Under no circumstances can these activities theoretically be considered a part of GDP."
+      }
+    ],
     "question": {
-      "hi": "अवैध आर्थिक गतिविधियों (जैसे तस्करी, जुआ) के संबंध में निम्नलिखित पर विचार कीजिए:\n1. संयुक्त राष्ट्र की SNA रूपरेखा सैद्धांतिक रूप से इन्हें भी आर्थिक उत्पादन मान सकती है।\n2. भारत जैसे देशों के आधिकारिक GDP आंकड़ों में डेटा उपलब्धता की कमी के कारण इन्हें सामान्यतः शामिल नहीं किया जाता।\n3. इन गतिविधियों को किसी भी परिस्थिति में सैद्धांतिक रूप से GDP का भाग नहीं माना जा सकता।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding illegal economic activities (like smuggling, gambling):\n1. The UN's SNA framework can theoretically consider these as economic production.\n2. In official GDP figures of countries like India, they are generally not included due to a lack of data availability.\n3. Under no circumstances can these activities theoretically be considered a part of GDP.\nWhich of the above statement(s) is/are correct?"
+      "hi": "अवैध आर्थिक गतिविधियों (जैसे तस्करी, जुआ) के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding illegal economic activities (like smuggling, gambling):\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -286,10 +376,31 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आरोपित किराया — GDP में शामिल",
+        "en": "Imputed rent — Included in GDP"
+      },
+      {
+        "id": 2,
+        "hi": "सरकारी छात्रवृत्ति — GDP में शामिल",
+        "en": "Government scholarship — Included in GDP"
+      },
+      {
+        "id": 3,
+        "hi": "भंडार में परिवर्तन — निवेश व्यय का भाग",
+        "en": "Change in inventory — Part of investment expenditure"
+      },
+      {
+        "id": 4,
+        "hi": "उपहार में प्राप्त राशि — अंतरण भुगतान",
+        "en": "Amount received as a gift — Transfer payment"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित युग्मों पर विचार कीजिए (मद — लेखांकन में व्यवहार):\n1. आरोपित किराया — GDP में शामिल\n2. सरकारी छात्रवृत्ति — GDP में शामिल\n3. भंडार में परिवर्तन — निवेश व्यय का भाग\n4. उपहार में प्राप्त राशि — अंतरण भुगतान\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following pairs (Item — Treatment in Accounting):\n1. Imputed rent — Included in GDP\n2. Government scholarship — Included in GDP\n3. Change in inventory — Part of investment expenditure\n4. Amount received as a gift — Transfer payment\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिए (मद — लेखांकन में व्यवहार):\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following pairs (Item — Treatment in Accounting):\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -326,10 +437,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्वयं के उपभोग हेतु उत्पादित वस्तुओं (जैसे स्वयं की खेती का अनाज) को GDP में शामिल किया जाता है।",
+        "en": "Goods produced for self-consumption (like self-farmed grain) are included in the GDP."
+      },
+      {
+        "id": 2,
+        "hi": "स्वयं के उपभोग हेतु प्रदत्त सेवाओं (जैसे स्वयं द्वारा वाहन धोना) को सामान्यतः GDP में शामिल नहीं किया जाता, आरोपित किराए के अपवाद को छोड़कर।",
+        "en": "Services rendered for self-consumption (like washing one's own vehicle) are generally not included in the GDP, with the exception of imputed rent."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन 1: स्वयं के उपभोग हेतु उत्पादित वस्तुओं (जैसे स्वयं की खेती का अनाज) को GDP में शामिल किया जाता है।\nकथन 2: स्वयं के उपभोग हेतु प्रदत्त सेवाओं (जैसे स्वयं द्वारा वाहन धोना) को सामान्यतः GDP में शामिल नहीं किया जाता, आरोपित किराए के अपवाद को छोड़कर।",
-      "en": "Consider the following statements:\nStatement 1: Goods produced for self-consumption (like self-farmed grain) are included in the GDP.\nStatement 2: Services rendered for self-consumption (like washing one's own vehicle) are generally not included in the GDP, with the exception of imputed rent."
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements:"
     },
     "options": [
       {
@@ -406,10 +528,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GDP at Market Price = GDP at Factor Cost + शुद्ध अप्रत्यक्ष कर",
+        "en": "GDP at Market Price = GDP at Factor Cost + Net Indirect Taxes"
+      },
+      {
+        "id": 2,
+        "hi": "शुद्ध अप्रत्यक्ष कर = अप्रत्यक्ष कर − सब्सिडी",
+        "en": "Net Indirect Taxes = Indirect Taxes − Subsidies"
+      },
+      {
+        "id": 3,
+        "hi": "GDP at Factor Cost सदैव GDP at Market Price से अधिक होता है",
+        "en": "GDP at Factor Cost is always greater than GDP at Market Price"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित पर विचार कीजिए:\n1. GDP at Market Price = GDP at Factor Cost + शुद्ध अप्रत्यक्ष कर\n2. शुद्ध अप्रत्यक्ष कर = अप्रत्यक्ष कर − सब्सिडी\n3. GDP at Factor Cost सदैव GDP at Market Price से अधिक होता है\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following:\n1. GDP at Market Price = GDP at Factor Cost + Net Indirect Taxes\n2. Net Indirect Taxes = Indirect Taxes − Subsidies\n3. GDP at Factor Cost is always greater than GDP at Market Price\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -446,10 +584,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GNP = GDP + विदेश से प्राप्त शुद्ध कारक आय (NFIA)",
+        "en": "GNP = GDP + Net Factor Income from Abroad (NFIA)"
+      },
+      {
+        "id": 2,
+        "hi": "यदि निवासियों द्वारा विदेश में अर्जित कारक आय, विदेशियों द्वारा घरेलू क्षेत्र से अर्जित आय से अधिक हो, तो NFIA धनात्मक होगी",
+        "en": "If factor income earned by residents abroad is greater than the income earned by foreigners from the domestic territory, NFIA will be positive."
+      },
+      {
+        "id": 3,
+        "hi": "NFIA सदैव शून्य होती है",
+        "en": "NFIA is always zero."
+      }
+    ],
     "question": {
-      "hi": "GNP की गणना के संबंध में निम्नलिखित पर विचार कीजिए:\n1. GNP = GDP + विदेश से प्राप्त शुद्ध कारक आय (NFIA)\n2. यदि निवासियों द्वारा विदेश में अर्जित कारक आय, विदेशियों द्वारा घरेलू क्षेत्र से अर्जित आय से अधिक हो, तो NFIA धनात्मक होगी\n3. NFIA सदैव शून्य होती है\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the calculation of GNP:\n1. GNP = GDP + Net Factor Income from Abroad (NFIA)\n2. If factor income earned by residents abroad is greater than the income earned by foreigners from the domestic territory, NFIA will be positive.\n3. NFIA is always zero.\nWhich of the above statement(s) is/are correct?"
+      "hi": "GNP की गणना के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the calculation of GNP:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -486,10 +640,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GNP, GDP में विदेश से प्राप्त शुद्ध कारक आय (NFIA) जोड़कर प्राप्त होता है।",
+        "en": "GNP is obtained by adding Net Factor Income from Abroad (NFIA) to GDP."
+      },
+      {
+        "id": 2,
+        "hi": "NNP, GNP में से मूल्यह्रास घटाकर प्राप्त होता है।",
+        "en": "NNP is obtained by subtracting depreciation from GNP."
+      },
+      {
+        "id": 3,
+        "hi": "राष्ट्रीय आय (National Income), NNP at Market Price में शुद्ध अप्रत्यक्ष कर जोड़कर प्राप्त होती है।",
+        "en": "National Income is obtained by adding Net Indirect Taxes to NNP at Market Price."
+      }
+    ],
     "question": {
-      "hi": "राष्ट्रीय आय लेखांकन में समग्रों की व्युत्पत्ति (Derivation) के संबंध में निम्नलिखित पर विचार कीजिए:\n1. GNP, GDP में विदेश से प्राप्त शुद्ध कारक आय (NFIA) जोड़कर प्राप्त होता है।\n2. NNP, GNP में से मूल्यह्रास घटाकर प्राप्त होता है।\n3. राष्ट्रीय आय (National Income), NNP at Market Price में शुद्ध अप्रत्यक्ष कर जोड़कर प्राप्त होती है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the derivation of aggregates in National Income Accounting:\n1. GNP is obtained by adding Net Factor Income from Abroad (NFIA) to GDP.\n2. NNP is obtained by subtracting depreciation from GNP.\n3. National Income is obtained by adding Net Indirect Taxes to NNP at Market Price.\nWhich of the above statement(s) is/are correct?"
+      "hi": "राष्ट्रीय आय लेखांकन में समग्रों की व्युत्पत्ति (Derivation) के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the derivation of aggregates in National Income Accounting:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -526,10 +696,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मूल्यह्रास (Depreciation) को 'पूंजी की उपभोग' (Consumption of Fixed Capital) भी कहा जाता है。",
+        "en": "Depreciation is also called 'Consumption of Fixed Capital'."
+      },
+      {
+        "id": 2,
+        "hi": "सकल (Gross) समग्रों से मूल्यह्रास घटाकर निवल (Net) समग्र प्राप्त होते हैं。",
+        "en": "Net aggregates are obtained by subtracting depreciation from Gross aggregates."
+      },
+      {
+        "id": 3,
+        "hi": "मूल्यह्रास पूंजीगत वस्तुओं के उपयोग व अप्रचलन से होने वाली टूट-फूट को दर्शाता है。",
+        "en": "Depreciation reflects the wear and tear resulting from the use and obsolescence of capital goods."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित पर विचार कीजिए:\n1. मूल्यह्रास (Depreciation) को 'पूंजी की उपभोग' (Consumption of Fixed Capital) भी कहा जाता है।\n2. सकल (Gross) समग्रों से मूल्यह्रास घटाकर निवल (Net) समग्र प्राप्त होते हैं।\n3. मूल्यह्रास पूंजीगत वस्तुओं के उपयोग व अप्रचलन से होने वाली टूट-फूट को दर्शाता है。\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following:\n1. Depreciation is also called 'Consumption of Fixed Capital'.\n2. Net aggregates are obtained by subtracting depreciation from Gross aggregates.\n3. Depreciation reflects the wear and tear resulting from the use and obsolescence of capital goods.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -555,7 +741,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "तीनों कथन मूल्यह्रास (Depreciation) की मानक परिभाषा एवं उपयोग को सही रूप से दर्शाते हैं।",
+      "hi": "तीनों कथन मूल्यह्रास (Depreciation) की मानक परिभाषा एवं उपयोग को सही रूप से दर्शाते हैं。",
       "en": "All three statements correctly reflect the standard definition and application of Depreciation."
     }
   },
@@ -646,10 +832,26 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GDP at Market Price = GVA at Basic Prices + उत्पाद कर (Product Taxes) − उत्पाद सब्सिडी (Product Subsidies)",
+        "en": "GDP at Market Price = GVA at Basic Prices + Product Taxes − Product Subsidies"
+      },
+      {
+        "id": 2,
+        "hi": "भारत में 2015 से नई राष्ट्रीय आय श्रृंखला में GVA को केंद्रीय सांख्यिकीय माप के रूप में अपनाया गया",
+        "en": "In India, GVA was adopted as the central statistical measure in the new national income series from 2015."
+      },
+      {
+        "id": 3,
+        "hi": "GVA at Basic Prices उत्पादन कर (जैसे भूमि राजस्व) को शामिल नहीं करता",
+        "en": "GVA at Basic Prices does not include production taxes (like land revenue)."
+      }
+    ],
     "question": {
-      "hi": "GVA (सकल मूल्य वर्धित) at Basic Prices के संबंध में निम्नलिखित पर विचार कीजिए:\n1. GDP at Market Price = GVA at Basic Prices + उत्पाद कर (Product Taxes) − उत्पाद सब्सिडी (Product Subsidies)\n2. भारत में 2015 से नई राष्ट्रीय आय श्रृंखला में GVA को केंद्रीय सांख्यिकीय माप के रूप में अपनाया गया\n3. GVA at Basic Prices उत्पादन कर (जैसे भूमि राजस्व) को शामिल नहीं करता\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding GVA (Gross Value Added) at Basic Prices:\n1. GDP at Market Price = GVA at Basic Prices + Product Taxes − Product Subsidies\n2. In India, GVA was adopted as the central statistical measure in the new national income series from 2015.\n3. GVA at Basic Prices does not include production taxes (like land revenue).\nWhich of the above statement(s) is/are correct?"
+      "hi": "GVA (सकल मूल्य वर्धित) at Basic Prices के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding GVA (Gross Value Added) at Basic Prices:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -686,10 +888,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत में वर्तमान राष्ट्रीय आय लेखांकन का आधार वर्ष (Base Year) 2011-12 है।",
+        "en": "The current base year for national income accounting in India is 2011-12."
+      },
+      {
+        "id": 2,
+        "hi": "आधार वर्ष परिवर्तन का उद्देश्य अर्थव्यवस्था की बदलती संरचना को बेहतर प्रतिबिंबित करना है।",
+        "en": "The objective of changing the base year is to better reflect the changing structure of the economy."
+      },
+      {
+        "id": 3,
+        "hi": "आधार वर्ष का परिवर्तन राष्ट्रीय आय के आंकड़ों को कभी प्रभावित नहीं करता।",
+        "en": "A change in the base year never affects the national income data."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. भारत में वर्तमान राष्ट्रीय आय लेखांकन का आधार वर्ष (Base Year) 2011-12 है।\n2. आधार वर्ष परिवर्तन का उद्देश्य अर्थव्यवस्था की बदलती संरचना को बेहतर प्रतिबिंबित करना है।\n3. आधार वर्ष का परिवर्तन राष्ट्रीय आय के आंकड़ों को कभी प्रभावित नहीं करता।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. The current base year for national income accounting in India is 2011-12.\n2. The objective of changing the base year is to better reflect the changing structure of the economy.\n3. A change in the base year never affects the national income data.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -766,10 +984,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रति व्यक्ति आय (Per Capita Income) = राष्ट्रीय आय ÷ कुल जनसंख्या",
+        "en": "Per Capita Income = National Income ÷ Total Population"
+      },
+      {
+        "id": 2,
+        "hi": "उच्च प्रति व्यक्ति आय सदैव आय के समान वितरण को दर्शाती है",
+        "en": "A high per capita income always reflects an equal distribution of income."
+      },
+      {
+        "id": 3,
+        "hi": "प्रति व्यक्ति आय आर्थिक विकास का एक संकेतक मात्र है, कल्याण का पूर्ण मापक नहीं",
+        "en": "Per capita income is merely an indicator of economic development, not a complete measure of welfare."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित पर विचार कीजिए:\n1. प्रति व्यक्ति आय (Per Capita Income) = राष्ट्रीय आय ÷ कुल जनसंख्या\n2. उच्च प्रति व्यक्ति आय सदैव आय के समान वितरण को दर्शाती है\n3. प्रति व्यक्ति आय आर्थिक विकास का एक संकेतक मात्र है, कल्याण का पूर्ण मापक नहीं\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following:\n1. Per Capita Income = National Income ÷ Total Population\n2. A high per capita income always reflects an equal distribution of income.\n3. Per capita income is merely an indicator of economic development, not a complete measure of welfare.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -806,10 +1040,31 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GDP मानव कल्याण के सभी आयामों को प्रतिबिंबित करता है।",
+        "en": "GDP reflects all dimensions of human welfare."
+      },
+      {
+        "id": 2,
+        "hi": "GDP आय के वितरण की असमानता को नहीं दर्शाता।",
+        "en": "GDP does not show the inequality in income distribution."
+      },
+      {
+        "id": 3,
+        "hi": "GDP अवैतनिक घरेलू कार्य एवं अवकाश (Leisure) के मूल्य को शामिल नहीं करता।",
+        "en": "GDP excludes the value of unpaid domestic work and leisure."
+      },
+      {
+        "id": 4,
+        "hi": "पर्यावरणीय क्षरण (Environmental Degradation) की लागत सामान्यतः GDP से नहीं घटाई जाती।",
+        "en": "The cost of environmental degradation is generally not subtracted from GDP."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. GDP मानव कल्याण के सभी आयामों को प्रतिबिंबित करता है।\n2. GDP आय के वितरण की असमानता को नहीं दर्शाता।\n3. GDP अवैतनिक घरेलू कार्य एवं अवकाश (Leisure) के मूल्य को शामिल नहीं करता।\n4. पर्यावरणीय क्षरण (Environmental Degradation) की लागत सामान्यतः GDP से नहीं घटाई जाती।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. GDP reflects all dimensions of human welfare.\n2. GDP does not show the inequality in income distribution.\n3. GDP excludes the value of unpaid domestic work and leisure.\n4. The cost of environmental degradation is generally not subtracted from GDP.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -846,10 +1101,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह पारंपरिक GDP में से प्राकृतिक संसाधनों के ह्रास एवं पर्यावरण-क्षरण की लागत को घटाकर प्राप्त की जाती है।",
+        "en": "It is obtained by subtracting the cost of natural resource depletion and environmental degradation from traditional GDP."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में हरित GDP को आधिकारिक राष्ट्रीय आय लेखांकन में मुख्य समग्र के रूप में अपनाया जा चुका है।",
+        "en": "In India, Green GDP has already been adopted as the main aggregate in official national income accounting."
+      },
+      {
+        "id": 3,
+        "hi": "यह सतत विकास (Sustainable Development) के आकलन हेतु एक उपयोगी संकल्पना मानी जाती है।",
+        "en": "It is considered a useful concept for assessing sustainable development."
+      }
+    ],
     "question": {
-      "hi": "'हरित GDP' (Green GDP) की संकल्पना के संबंध में निम्नलिखित पर विचार कीजिए:\n1. यह पारंपरिक GDP में से प्राकृतिक संसाधनों के ह्रास एवं पर्यावरण-क्षरण की लागत को घटाकर प्राप्त की जाती है।\n2. भारत में हरित GDP को आधिकारिक राष्ट्रीय आय लेखांकन में मुख्य समग्र के रूप में अपनाया जा चुका है।\n3. यह सतत विकास (Sustainable Development) के आकलन हेतु एक उपयोगी संकल्पना मानी जाती है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the concept of 'Green GDP':\n1. It is obtained by subtracting the cost of natural resource depletion and environmental degradation from traditional GDP.\n2. In India, Green GDP has already been adopted as the main aggregate in official national income accounting.\n3. It is considered a useful concept for assessing sustainable development.\nWhich of the above statement(s) is/are correct?"
+      "hi": "'हरित GDP' (Green GDP) की संकल्पना के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the concept of 'Green GDP':\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -886,10 +1157,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "NNP at FC — राष्ट्रीय आय",
+        "en": "NNP at FC — National Income"
+      },
+      {
+        "id": 2,
+        "hi": "GDP at FC — GDP at MP − शुद्ध अप्रत्यक्ष कर",
+        "en": "GDP at FC — GDP at MP − Net Indirect Taxes"
+      },
+      {
+        "id": 3,
+        "hi": "NDP at MP — GDP at MP − मूल्यह्रास",
+        "en": "NDP at MP — GDP at MP − Depreciation"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित युग्मों पर विचार कीजिए (समग्र — परिभाषा):\n1. NNP at FC — राष्ट्रीय आय\n2. GDP at FC — GDP at MP − शुद्ध अप्रत्यक्ष कर\n3. NDP at MP — GDP at MP − मूल्यह्रास\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following pairs (Aggregate — Definition):\n1. NNP at FC — National Income\n2. GDP at FC — GDP at MP − Net Indirect Taxes\n3. NDP at MP — GDP at MP − Depreciation\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिए (समग्र — परिभाषा):\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following pairs (Aggregate — Definition):\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -966,10 +1253,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अप्रत्यक्ष कर उत्पादन की लागत में जुड़ जाते हैं, जिससे बाजार मूल्य, कारक लागत से अधिक हो जाता है।",
+        "en": "Indirect taxes add to the cost of production, making the market price higher than the factor cost."
+      },
+      {
+        "id": 2,
+        "hi": "सब्सिडी उत्पादन लागत को कम करती है, जिससे कारक लागत, बाजार मूल्य से अधिक हो सकता है।",
+        "en": "Subsidies reduce the cost of production, which can make the factor cost higher than the market price."
+      },
+      {
+        "id": 3,
+        "hi": "GST भारत में एक प्रमुख अप्रत्यक्ष कर है जो GDP at MP एवं GDP at FC के मध्य अंतर उत्पन्न करता है।",
+        "en": "GST is a major indirect tax in India that creates a difference between GDP at MP and GDP at FC."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. अप्रत्यक्ष कर उत्पादन की लागत में जुड़ जाते हैं, जिससे बाजार मूल्य, कारक लागत से अधिक हो जाता है।\n2. सब्सिडी उत्पादन लागत को कम करती है, जिससे कारक लागत, बाजार मूल्य से अधिक हो सकता है।\n3. GST भारत में एक प्रमुख अप्रत्यक्ष कर है जो GDP at MP एवं GDP at FC के मध्य अंतर उत्पन्न करता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Indirect taxes add to the cost of production, making the market price higher than the factor cost.\n2. Subsidies reduce the cost of production, which can make the factor cost higher than the market price.\n3. GST is a major indirect tax in India that creates a difference between GDP at MP and GDP at FC.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1019,7 +1322,7 @@
       },
       {
         "id": "B",
-        "hi": "A और R दोनों सही हैं परंतु R, A की सही व्याख्या नहीं करता",
+        "hi": "A और R উভয় सही हैं परंतु R, A की सही व्याख्या नहीं करता",
         "en": "Both A and R are true but R is not the correct explanation of A"
       },
       {
@@ -1046,10 +1349,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मशीनरी एवं भवनों में निवेश को सकल स्थिर पूंजी निर्माण (Gross Fixed Capital Formation) कहा जाता है।",
+        "en": "Investment in machinery and buildings is called Gross Fixed Capital Formation."
+      },
+      {
+        "id": 2,
+        "hi": "भंडार (Inventory) में परिवर्तन को पूंजी निर्माण का भाग नहीं माना जाता।",
+        "en": "Change in inventory is not considered a part of capital formation."
+      },
+      {
+        "id": 3,
+        "hi": "निवल पूंजी निर्माण = सकल पूंजी निर्माण − मूल्यह्रास",
+        "en": "Net Capital Formation = Gross Capital Formation − Depreciation"
+      }
+    ],
     "question": {
-      "hi": "'पूंजी निर्माण' (Capital Formation) के संदर्भ में निम्नलिखित पर विचार कीजिए:\n1. मशीनरी एवं भवनों में निवेश को सकल स्थिर पूंजी निर्माण (Gross Fixed Capital Formation) कहा जाता है।\n2. भंडार (Inventory) में परिवर्तन को पूंजी निर्माण का भाग नहीं माना जाता।\n3. निवल पूंजी निर्माण = सकल पूंजी निर्माण − मूल्यह्रास\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding 'Capital Formation':\n1. Investment in machinery and buildings is called Gross Fixed Capital Formation.\n2. Change in inventory is not considered a part of capital formation.\n3. Net Capital Formation = Gross Capital Formation − Depreciation\nWhich of the above statement(s) is/are correct?"
+      "hi": "'पूंजी निर्माण' (Capital Formation) के संदर्भ में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding 'Capital Formation':\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1086,10 +1405,31 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उत्पादन विधि (Product/Value Added Method)",
+        "en": "Product/Value Added Method"
+      },
+      {
+        "id": 2,
+        "hi": "आय विधि (Income Method)",
+        "en": "Income Method"
+      },
+      {
+        "id": 3,
+        "hi": "व्यय विधि (Expenditure Method)",
+        "en": "Expenditure Method"
+      },
+      {
+        "id": 4,
+        "hi": "मूल्य स्थिरीकरण विधि (Price Stabilization Method)",
+        "en": "Price Stabilization Method"
+      }
+    ],
     "question": {
-      "hi": "राष्ट्रीय आय मापन की विधियों के संबंध में निम्नलिखित पर विचार कीजिए:\n1. उत्पादन विधि (Product/Value Added Method)\n2. आय विधि (Income Method)\n3. व्यय विधि (Expenditure Method)\n4. मूल्य स्थिरीकरण विधि (Price Stabilization Method)\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following methods of measuring national income:\n1. Product/Value Added Method\n2. Income Method\n3. Expenditure Method\n4. Price Stabilization Method\nWhich of the above statement(s) is/are correct?"
+      "hi": "राष्ट्रीय आय मापन की विधियों के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following methods of measuring national income:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1126,10 +1466,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह प्रत्येक उत्पादन स्तर पर जोड़े गए मूल्य को मापकर दोहरी गणना (Double Counting) की समस्या से बचाती है।",
+        "en": "It avoids the problem of double counting by measuring the value added at each stage of production."
+      },
+      {
+        "id": 2,
+        "hi": "मध्यवर्ती वस्तुओं (Intermediate Goods) के मूल्य को अंतिम वस्तुओं के मूल्य के साथ पुनः नहीं जोड़ा जाता।",
+        "en": "The value of intermediate goods is not added again to the value of final goods."
+      },
+      {
+        "id": 3,
+        "hi": "यह विधि केवल कृषि क्षेत्र पर लागू होती है।",
+        "en": "This method is applicable only to the agricultural sector."
+      }
+    ],
     "question": {
-      "hi": "'मूल्य वर्धित विधि' (Value Added Method) के संबंध में निम्नलिखित पर विचार कीजिए:\n1. यह प्रत्येक उत्पादन स्तर पर जोड़े गए मूल्य को मापकर दोहरी गणना (Double Counting) की समस्या से बचाती है।\n2. मध्यवर्ती वस्तुओं (Intermediate Goods) के मूल्य को अंतिम वस्तुओं के मूल्य के साथ पुनः नहीं जोड़ा जाता।\n3. यह विधि केवल कृषि क्षेत्र पर लागू होती है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the 'Value Added Method':\n1. It avoids the problem of double counting by measuring the value added at each stage of production.\n2. The value of intermediate goods is not added again to the value of final goods.\n3. This method is applicable only to the agricultural sector.\nWhich of the above statement(s) is/are correct?"
+      "hi": "'मूल्य वर्धित विधि' (Value Added Method) के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the 'Value Added Method':\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1166,10 +1522,31 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वेतन एवं मजदूरी (Compensation of Employees)",
+        "en": "Compensation of Employees"
+      },
+      {
+        "id": 2,
+        "hi": "परिचालन अधिशेष (Operating Surplus) — लाभ, ब्याज, किराया",
+        "en": "Operating Surplus — Profit, Interest, Rent"
+      },
+      {
+        "id": 3,
+        "hi": "मिश्रित आय (Mixed Income of Self-Employed)",
+        "en": "Mixed Income of Self-Employed"
+      },
+      {
+        "id": 4,
+        "hi": "अंतरण भुगतान",
+        "en": "Transfer Payments"
+      }
+    ],
     "question": {
-      "hi": "आय विधि (Income Method) द्वारा राष्ट्रीय आय की गणना में निम्नलिखित में से किसे शामिल किया जाता है?\n1. वेतन एवं मजदूरी (Compensation of Employees)\n2. परिचालन अधिशेष (Operating Surplus) — लाभ, ब्याज, किराया\n3. मिश्रित आय (Mixed Income of Self-Employed)\n4. अंतरण भुगतान\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Which of the following are included in the calculation of national income using the Income Method?\n1. Compensation of Employees\n2. Operating Surplus — Profit, Interest, Rent\n3. Mixed Income of Self-Employed\n4. Transfer Payments\nWhich of the above statement(s) is/are correct?"
+      "hi": "आय विधि (Income Method) द्वारा राष्ट्रीय आय की गणना में निम्नलिखित में से किसे शामिल किया जाता है?\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Which of the following are included in the calculation of national income using the Income Method?\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1206,10 +1583,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "C निजी अंतिम उपभोग व्यय को दर्शाता है",
+        "en": "C represents private final consumption expenditure."
+      },
+      {
+        "id": 2,
+        "hi": "I में स्थिर पूंजी निर्माण एवं भंडार में परिवर्तन दोनों शामिल हैं",
+        "en": "I includes both fixed capital formation and change in inventory."
+      },
+      {
+        "id": 3,
+        "hi": "(X − M) निवल निर्यात को दर्शाता है, जो ऋणात्मक भी हो सकता है",
+        "en": "(X − M) represents net exports, which can also be negative."
+      }
+    ],
     "question": {
-      "hi": "व्यय विधि (Expenditure Method) के सूत्र GDP = C + I + G + (X − M) के संबंध में निम्नलिखित पर विचार कीजिए:\n1. C निजी अंतिम उपभोग व्यय को दर्शाता है\n2. I में स्थिर पूंजी निर्माण एवं भंडार में परिवर्तन दोनों शामिल हैं\n3. (X − M) निवल निर्यात को दर्शाता है, जो ऋणात्मक भी हो सकता है\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the formula of Expenditure Method GDP = C + I + G + (X − M):\n1. C represents private final consumption expenditure.\n2. I includes both fixed capital formation and change in inventory.\n3. (X − M) represents net exports, which can also be negative.\nWhich of the above statement(s) is/are correct?"
+      "hi": "व्यय विधि (Expenditure Method) के सूत्र GDP = C + I + G + (X − M) के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the formula of Expenditure Method GDP = C + I + G + (X − M):\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1246,10 +1639,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह तब उत्पन्न होती है जब मध्यवर्ती वस्तुओं के मूल्य को अंतिम वस्तुओं के मूल्य में पुनः गिन लिया जाता है।",
+        "en": "It arises when the value of intermediate goods is counted again in the value of final goods."
+      },
+      {
+        "id": 2,
+        "hi": "इससे राष्ट्रीय आय का वास्तविक मूल्य से कम आकलन (Under-estimation) होता है।",
+        "en": "It leads to under-estimation of the national income."
+      },
+      {
+        "id": 3,
+        "hi": "इसे रोकने हेतु 'अंतिम उत्पाद विधि' या 'मूल्य वर्धित विधि' का प्रयोग किया जाता है।",
+        "en": "To prevent this, the 'Final Product Method' or 'Value Added Method' is used."
+      }
+    ],
     "question": {
-      "hi": "'दोहरी गणना' (Double Counting) की समस्या के संबंध में निम्नलिखित पर विचार कीजिए:\n1. यह तब उत्पन्न होती है जब मध्यवर्ती वस्तुओं के मूल्य को अंतिम वस्तुओं के मूल्य में पुनः गिन लिया जाता है।\n2. इससे राष्ट्रीय आय का वास्तविक मूल्य से कम आकलन (Under-estimation) होता है।\n3. इसे रोकने हेतु 'अंतिम उत्पाद विधि' या 'मूल्य वर्धित विधि' का प्रयोग किया जाता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the problem of 'Double Counting':\n1. It arises when the value of intermediate goods is counted again in the value of final goods.\n2. It leads to under-estimation of the national income.\n3. To prevent this, the 'Final Product Method' or 'Value Added Method' is used.\nWhich of the above statement(s) is/are correct?"
+      "hi": "'दोहरी गणना' (Double Counting) की समस्या के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the problem of 'Double Counting':\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1286,10 +1695,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसमें परिवार, फर्म एवं सरकार तीन क्षेत्रक शामिल होते हैं",
+        "en": "It includes three sectors: households, firms, and the government."
+      },
+      {
+        "id": 2,
+        "hi": "परिवार फर्मों को उत्पादन कारक प्रदान करते हैं तथा बदले में कारक आय प्राप्त करते हैं",
+        "en": "Households provide factors of production to firms and receive factor income in return."
+      },
+      {
+        "id": 3,
+        "hi": "सरकार का प्रवाह में कोई प्रभाव नहीं पड़ता क्योंकि वह केवल विनियमन करती है",
+        "en": "The government has no effect on the flow as it only regulates."
+      }
+    ],
     "question": {
-      "hi": "त्रि-क्षेत्रीय परिपत्र प्रवाह (Circular Flow of Income) मॉडल के संबंध में निम्नलिखित पर विचार कीजिए:\n1. इसमें परिवार, फर्म एवं सरकार तीन क्षेत्रक शामिल होते हैं\n2. परिवार फर्मों को उत्पादन कारक प्रदान करते हैं तथा बदले में कारक आय प्राप्त करते हैं\n3. सरकार का प्रवाह में कोई प्रभाव नहीं पड़ता क्योंकि वह केवल विनियमन करती है\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the 3-sector Circular Flow of Income model:\n1. It includes three sectors: households, firms, and the government.\n2. Households provide factors of production to firms and receive factor income in return.\n3. The government has no effect on the flow as it only regulates.\nWhich of the above statement(s) is/are correct?"
+      "hi": "त्रि-क्षेत्रीय परिपत्र प्रवाह (Circular Flow of Income) मॉडल के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the 3-sector Circular Flow of Income model:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1366,10 +1791,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत में राष्ट्रीय आय के आकलन हेतु उत्पादन एवं आय विधियों का संयुक्त रूप से प्रयोग किया जाता है (कृषि व असंगठित क्षेत्र हेतु उत्पादन विधि, संगठित क्षेत्र हेतु आय विधि)।",
+        "en": "In India, a combination of product and income methods is used for estimating national income (product method for agriculture and unorganized sector, income method for organized sector)."
+      },
+      {
+        "id": 2,
+        "hi": "व्यय विधि का प्रयोग भारत में मुख्यतः सत्यापन (Cross-Verification) हेतु किया जाता है।",
+        "en": "The expenditure method is primarily used in India for cross-verification."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन 1: भारत में राष्ट्रीय आय के आकलन हेतु उत्पादन एवं आय विधियों का संयुक्त रूप से प्रयोग किया जाता है (कृषि व असंगठित क्षेत्र हेतु उत्पादन विधि, संगठित क्षेत्र हेतु आय विधि)।\nकथन 2: व्यय विधि का प्रयोग भारत में मुख्यतः सत्यापन (Cross-Verification) हेतु किया जाता है।",
-      "en": "Consider the following statements:\nStatement 1: In India, a combination of product and income methods is used for estimating national income (product method for agriculture and unorganized sector, income method for organized sector).\nStatement 2: The expenditure method is primarily used in India for cross-verification."
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements:"
     },
     "options": [
       {
@@ -1406,10 +1842,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नाममात्र GDP को चालू वर्ष की कीमतों पर मापा जाता है।",
+        "en": "Nominal GDP is measured at current year prices."
+      },
+      {
+        "id": 2,
+        "hi": "वास्तविक GDP को स्थिर आधार वर्ष की कीमतों पर मापा जाता है।",
+        "en": "Real GDP is measured at constant base year prices."
+      },
+      {
+        "id": 3,
+        "hi": "मुद्रास्फीति की अवधि में नाममात्र GDP, वास्तविक GDP से सदैव कम होता है।",
+        "en": "During a period of inflation, Nominal GDP is always less than Real GDP."
+      }
+    ],
     "question": {
-      "hi": "वास्तविक GDP (Real GDP) एवं नाममात्र GDP (Nominal GDP) के संबंध में निम्नलिखित पर विचार कीजिए:\n1. नाममात्र GDP को चालू वर्ष की कीमतों पर मापा जाता है।\n2. वास्तविक GDP को स्थिर आधार वर्ष की कीमतों पर मापा जाता है。\n3. मुद्रास्फीति की अवधि में नाममात्र GDP, वास्तविक GDP से सदैव कम होता है।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding Real GDP and Nominal GDP:\n1. Nominal GDP is measured at current year prices.\n2. Real GDP is measured at constant base year prices.\n3. During a period of inflation, Nominal GDP is always less than Real GDP.\nWhich of the above statement(s) is/are correct?"
+      "hi": "वास्तविक GDP (Real GDP) एवं नाममात्र GDP (Nominal GDP) के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding Real GDP and Nominal GDP:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1446,10 +1898,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GDP Deflator = (नाममात्र GDP ÷ वास्तविक GDP) × 100",
+        "en": "GDP Deflator = (Nominal GDP ÷ Real GDP) × 100"
+      },
+      {
+        "id": 2,
+        "hi": "यह अर्थव्यवस्था में उत्पादित सभी वस्तुओं एवं सेवाओं की कीमतों में परिवर्तन दर्शाता है, न कि केवल उपभोक्ता वस्तुओं का",
+        "en": "It reflects changes in the prices of all goods and services produced in the economy, not just consumer goods."
+      },
+      {
+        "id": 3,
+        "hi": "यह उपभोक्ता मूल्य सूचकांक (CPI) के समान ही एक निश्चित टोकरी (Fixed Basket) पर आधारित होता है",
+        "en": "It is based on a fixed basket just like the Consumer Price Index (CPI)."
+      }
+    ],
     "question": {
-      "hi": "GDP अवस्फीतिकारक (GDP Deflator) के संबंध में निम्नलिखित पर विचार कीजिए:\n1. GDP Deflator = (नाममात्र GDP ÷ वास्तविक GDP) × 100\n2. यह अर्थव्यवस्था में उत्पादित सभी वस्तुओं एवं सेवाओं की कीमतों में परिवर्तन दर्शाता है, न कि केवल उपभोक्ता वस्तुओं का\n3. यह उपभोक्ता मूल्य सूचकांक (CPI) के समान ही एक निश्चित टोकरी (Fixed Basket) पर आधारित होता है\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding the GDP Deflator:\n1. GDP Deflator = (Nominal GDP ÷ Real GDP) × 100\n2. It reflects changes in the prices of all goods and services produced in the economy, not just consumer goods.\n3. It is based on a fixed basket just like the Consumer Price Index (CPI).\nWhich of the above statement(s) is/are correct?"
+      "hi": "GDP अवस्फीतिकारक (GDP Deflator) के संबंध में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding the GDP Deflator:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1526,10 +1994,21 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक संवृद्धि दर की तुलना हेतु सामान्यतः वास्तविक GDP का प्रयोग किया जाता है, न कि नाममात्र GDP का।",
+        "en": "Real GDP, rather than Nominal GDP, is generally used to compare economic growth rates."
+      },
+      {
+        "id": 2,
+        "hi": "इसका कारण यह है कि वास्तविक GDP मूल्य स्तर में परिवर्तन के प्रभाव को समाप्त कर देता है, जिससे वास्तविक उत्पादन में परिवर्तन स्पष्ट होता है।",
+        "en": "The reason for this is that Real GDP eliminates the effect of price level changes, clearly showing the change in actual production."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन 1: आर्थिक संवृद्धि दर की तुलना हेतु सामान्यतः वास्तविक GDP का प्रयोग किया जाता है, न कि नाममात्र GDP का।\nकथन 2: इसका कारण यह है कि वास्तविक GDP मूल्य स्तर में परिवर्तन के प्रभाव को समाप्त कर देता है, जिससे वास्तविक उत्पादन में परिवर्तन स्पष्ट होता है।",
-      "en": "Consider the following statements:\nStatement 1: Real GDP, rather than Nominal GDP, is generally used to compare economic growth rates.\nStatement 2: The reason for this is that Real GDP eliminates the effect of price level changes, clearly showing the change in actual production."
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements:"
     },
     "options": [
       {
@@ -1566,10 +2045,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अग्रिम अनुमान (Advance Estimates)",
+        "en": "Advance Estimates"
+      },
+      {
+        "id": 2,
+        "hi": "प्रथम संशोधित अनुमान (First Revised Estimates)",
+        "en": "First Revised Estimates"
+      },
+      {
+        "id": 3,
+        "hi": "अंतिम स्थायी अनुमान कभी जारी नहीं किए जाते",
+        "en": "Final permanent estimates are never released"
+      }
+    ],
     "question": {
-      "hi": "भारत में GDP के अनुमानों के संदर्भ में निम्नलिखित पर विचार कीजिए:\n1. अग्रिम अनुमान (Advance Estimates)\n2. प्रथम संशोधित अनुमान (First Revised Estimates)\n3. अंतिम स्थायी अनुमान कभी जारी नहीं किए जाते\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following regarding GDP estimates in India:\n1. Advance Estimates\n2. First Revised Estimates\n3. Final permanent estimates are never released\nWhich of the above statement(s) is/are correct?"
+      "hi": "भारत में GDP के अनुमानों के संदर्भ में निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following regarding GDP estimates in India:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1646,10 +2141,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GDP मानव विकास सूचकांक (HDI) का प्रत्यक्ष घटक है",
+        "en": "GDP is a direct component of the Human Development Index (HDI)."
+      },
+      {
+        "id": 2,
+        "hi": "प्रति व्यक्ति सकल राष्ट्रीय आय (GNI Per Capita, PPP), HDI के तीन आयामों में से एक है",
+        "en": "Gross National Income Per Capita (GNI Per Capita, PPP) is one of the three dimensions of HDI."
+      },
+      {
+        "id": 3,
+        "hi": "GDP शिक्षा एवं स्वास्थ्य जैसे सामाजिक संकेतकों को प्रत्यक्ष रूप से मापता है",
+        "en": "GDP directly measures social indicators like education and health."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित पर विचार कीजिए:\n1. GDP मानव विकास सूचकांक (HDI) का प्रत्यक्ष घटक है\n2. प्रति व्यक्ति सकल राष्ट्रीय आय (GNI Per Capita, PPP), HDI के तीन आयामों में से एक है\n3. GDP शिक्षा एवं स्वास्थ्य जैसे सामाजिक संकेतकों को प्रत्यक्ष रूप से मापता है\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following:\n1. GDP is a direct component of the Human Development Index (HDI).\n2. Gross National Income Per Capita (GNI Per Capita, PPP) is one of the three dimensions of HDI.\n3. GDP directly measures social indicators like education and health.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1686,10 +2197,21 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उच्च GDP संवृद्धि दर होने पर बेरोजगारी में सदैव आनुपातिक रूप से कमी आती है।",
+        "en": "A high GDP growth rate always leads to a proportional decrease in unemployment."
+      },
+      {
+        "id": 2,
+        "hi": "'रोजगारविहीन संवृद्धि' (Jobless Growth) की स्थिति में उच्च GDP संवृद्धि के बावजूद रोजगार सृजन सीमित रहता है।",
+        "en": "In a situation of 'Jobless Growth', job creation remains limited despite high GDP growth."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन 1: उच्च GDP संवृद्धि दर होने पर बेरोजगारी में सदैव आनुपातिक रूप से कमी आती है।\nकथन 2: 'रोजगारविहीन संवृद्धि' (Jobless Growth) की स्थिति में उच्च GDP संवृद्धि के बावजूद रोजगार सृजन सीमित रहता है।",
-      "en": "Consider the following statements:\nStatement 1: A high GDP growth rate always leads to a proportional decrease in unemployment.\nStatement 2: In a situation of 'Jobless Growth', job creation remains limited despite high GDP growth."
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements:"
     },
     "options": [
       {
@@ -1726,10 +2248,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संवृद्धि दर के आंकड़ों में परिवर्तन",
+        "en": "Change in growth rate figures"
+      },
+      {
+        "id": 2,
+        "hi": "क्षेत्रवार योगदान के अनुपात में परिवर्तन",
+        "en": "Change in the proportion of sectoral contribution"
+      },
+      {
+        "id": 3,
+        "hi": "अंतरराष्ट्रीय तुलनीयता में सुधार",
+        "en": "Improvement in international comparability"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा भारत के GDP आकलन में आधार वर्ष के परिवर्तन (जैसे 2004-05 से 2011-12) का संभावित प्रभाव हो सकता है?\n1. संवृद्धि दर के आंकड़ों में परिवर्तन\n2. क्षेत्रवार योगदान के अनुपात में परिवर्तन\n3. अंतरराष्ट्रीय तुलनीयता में सुधार\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Which of the following could be a potential impact of a change in the base year (like 2004-05 to 2011-12) in India's GDP estimation?\n1. Change in growth rate figures\n2. Change in the proportion of sectoral contribution\n3. Improvement in international comparability\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित में से कौन-सा भारत के GDP आकलन में आधार वर्ष के परिवर्तन (जैसे 2004-05 से 2011-12) का संभावित प्रभाव हो सकता है?\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Which of the following could be a potential impact of a change in the base year (like 2004-05 to 2011-12) in India's GDP estimation?\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1766,10 +2304,21 @@
     "difficulty": "Easy",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GDP केवल वस्तुओं के उत्पादन को मापता है, सेवाओं को नहीं।",
+        "en": "GDP measures the production of goods only, not services."
+      },
+      {
+        "id": 2,
+        "hi": "सेवा क्षेत्र (जैसे बैंकिंग, शिक्षा, स्वास्थ्य, IT) का योगदान भी GDP में शामिल किया जाता है।",
+        "en": "The contribution of the service sector (like banking, education, health, IT) is also included in the GDP."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन 1: GDP केवल वस्तुओं के उत्पादन को मापता है, सेवाओं को नहीं।\nकथन 2: सेवा क्षेत्र (जैसे बैंकिंग, शिक्षा, स्वास्थ्य, IT) का योगदान भी GDP में शामिल किया जाता है।",
-      "en": "Consider the following statements:\nStatement 1: GDP measures the production of goods only, not services.\nStatement 2: The contribution of the service sector (like banking, education, health, IT) is also included in the GDP."
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements:"
     },
     "options": [
       {
@@ -1806,10 +2355,21 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि कोई देश विदेशी सहायता (Foreign Aid) के रूप में अनुदान प्राप्त करता है, तो यह सीधे उसके GDP में वृद्धि करता है।",
+        "en": "If a country receives a grant in the form of Foreign Aid, it directly increases its GDP."
+      },
+      {
+        "id": 2,
+        "hi": "विदेशी सहायता का उपयोग जब घरेलू निवेश या उपभोग व्यय हेतु किया जाता है, तब यह अप्रत्यक्ष रूप से GDP के घटकों (जैसे I या C) को प्रभावित कर सकता है।",
+        "en": "When foreign aid is used for domestic investment or consumption expenditure, it can indirectly affect the components of GDP (like I or C)."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन 1: यदि कोई देश विदेशी सहायता (Foreign Aid) के रूप में अनुदान प्राप्त करता है, तो यह सीधे उसके GDP में वृद्धि करता है।\nकथन 2: विदेशी सहायता का उपयोग जब घरेलू निवेश या उपभोग व्यय हेतु किया जाता है, तब यह अप्रत्यक्ष रूप से GDP के घटकों (जैसे I या C) को प्रभावित कर सकता है।",
-      "en": "Consider the following statements:\nStatement 1: If a country receives a grant in the form of Foreign Aid, it directly increases its GDP.\nStatement 2: When foreign aid is used for domestic investment or consumption expenditure, it can indirectly affect the components of GDP (like I or C)."
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements:"
     },
     "options": [
       {
@@ -1846,10 +2406,21 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सार्वजनिक ऋण पर भुगतान किया गया ब्याज राष्ट्रीय आय लेखांकन में सामान्यतः अंतरण भुगतान माना जाता है क्योंकि यह प्रायः उपभोग हेतु लिए गए ऋण पर होता है, वर्तमान उत्पादक सेवा के बदले नहीं।",
+        "en": "Interest paid on public debt is generally treated as a transfer payment in national income accounting because it is often for debt taken for consumption, not in exchange for a current productive service."
+      },
+      {
+        "id": 2,
+        "hi": "यदि सरकारी ऋण उत्पादक परिसंपत्तियों के निर्माण हेतु लिया गया हो, तब भी परंपरागत लेखांकन में इस पर ब्याज को कारक आय माना जाता है, अंतरण भुगतान नहीं।",
+        "en": "Even if the government debt is taken for the creation of productive assets, the interest on it is treated as factor income, not a transfer payment, in traditional accounting."
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. सार्वजनिक ऋण पर भुगतान किया गया ब्याज राष्ट्रीय आय लेखांकन में सामान्यतः अंतरण भुगतान माना जाता है क्योंकि यह प्रायः उपभोग हेतु लिए गए ऋण पर होता है, वर्तमान उत्पादक सेवा के बदले नहीं।\n2. यदि सरकारी ऋण उत्पादक परिसंपत्तियों के निर्माण हेतु लिया गया हो, तब भी परंपरागत लेखांकन में इस पर ब्याज को कारक आय माना जाता है, अंतरण भुगतान नहीं।\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Consider the following statements:\n1. Interest paid on public debt is generally treated as a transfer payment in national income accounting because it is often for debt taken for consumption, not in exchange for a current productive service.\n2. Even if the government debt is taken for the creation of productive assets, the interest on it is treated as factor income, not a transfer payment, in traditional accounting.\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1886,10 +2457,26 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अनौपचारिक/असंगठित क्षेत्र का अपर्याप्त डेटा कवरेज",
+        "en": "Inadequate data coverage of the informal/unorganized sector"
+      },
+      {
+        "id": 2,
+        "hi": "महिलाओं के अवैतनिक घरेलू कार्य को शामिल न करना",
+        "en": "Exclusion of unpaid domestic work by women"
+      },
+      {
+        "id": 3,
+        "hi": "काले धन (Black Economy) से जुड़ा अघोषित उत्पादन",
+        "en": "Undeclared production associated with the Black Economy"
+      }
+    ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-से कारक भारत में GDP के 'अंडर-एस्टीमेशन' (Under-estimation) में योगदान दे सकते हैं?\n1. अनौपचारिक/असंगठित क्षेत्र का अपर्याप्त डेटा कवरेज\n2. महिलाओं के अवैतनिक घरेलू कार्य को शामिल न करना\n3. काले धन (Black Economy) से जुड़ा अघोषित उत्पादन\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
-      "en": "Which of the following factors can contribute to the 'under-estimation' of GDP in India?\n1. Inadequate data coverage of the informal/unorganized sector\n2. Exclusion of unpaid domestic work by women\n3. Undeclared production associated with the Black Economy\nWhich of the above statement(s) is/are correct?"
+      "hi": "निम्नलिखित में से कौन-से कारक भारत में GDP के 'अंडर-एस्टीमेशन' (Under-estimation) में योगदान दे सकते हैं?\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Which of the following factors can contribute to the 'under-estimation' of GDP in India?\nWhich of the above statement(s) is/are correct?"
     },
     "options": [
       {
@@ -1928,7 +2515,7 @@
     "passage": null,
     "statements": null,
     "question": {
-      "hi": "कथन (A): भारत में कृषि क्षेत्र में स्वयं उपभोग हेतु उत्पादित फसल को GDP में शामिल किया जाता है।\nकारण (R): राष्ट्रीय आय लेखांकन में सभी वस्तुओं का, चाहे वे बाजार में बेची जाएं या स्वयं उपभोग हेतु उपयोग की जाएं, आरोपित बाजार-मूल्य आंकलित कर उत्पादन में गिना जाता है।\nउपरोक्त के संदर्भ में सही विकल्प चुनें:",
+      "hi": "कथन (A): भारत में कृषि क्षेत्र में स्वयं उपभोग हेतु उत्पादित फसल को GDP में शामिल किया जाता है。\nकारण (R): राष्ट्रीय आय लेखांकन में सभी वस्तुओं का, चाहे वे बाजार में बेची जाएं या स्वयं उपभोग हेतु उपयोग की जाएं, आरोपित बाजार-मूल्य आंकलित कर उत्पादन में गिना जाता है。\nउपरोक्त के संदर्भ में सही विकल्प चुनें:",
       "en": "Assertion (A): In India, crops produced for self-consumption in the agricultural sector are included in the GDP.\nReason (R): In national income accounting, all goods, whether sold in the market or used for self-consumption, are counted in production by estimating their imputed market value.\nSelect the correct option:"
     },
     "options": [
@@ -2000,4 +2587,3 @@
     }
   }
 ]
- 
